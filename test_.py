@@ -70,17 +70,15 @@ def get_car_href_list(url):
         for car in parsed_car_list:
             writer.writerow(car.details)
 
-    # print(len(parsed_car_list))
-    # print(parsed_car_list)
 
-    # for car in car_list:
-    #     a_tag = car.find('a', class_='css-z3gu2d')
-    #     href = a_tag.get('href') if a_tag else None
-    #     if href != None:
-    #         href = url_prefix + href if href[:2] == '/d' else href
-    #         file.write(car.text + '\n' + href + '\n\n')
+def get_all_pagination_urls(first_url) -> list[str]:
+    html = get_html_content(first_url)
+    if html is None:
+        raise requests.exceptions.RequestException('An error during initial fetching has occured')
+    soup = BeautifulSoup(html.text, 'html.parser')
+    paginations = soup.find_all()
+    return []
 
-    
 
 if __name__ == "__main__":
     first_url = 'https://www.olx.pl/motoryzacja/samochody/volkswagen/?search%5Bfilter_enum_model%5D%5B0%5D=golf'

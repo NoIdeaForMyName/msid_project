@@ -1,11 +1,4 @@
 
-### UNNECESARRY PROJECTS FROM ENVIRONMENT
-jezyki_skryptowe_lab/
-my_scripts/
-msid_lab/*
-!project/
-
-
 .vscode/
 
 # Local History for Visual Studio Code
