@@ -1,0 +1,11 @@
+model,eng_cap,prod_year,power,fuel_type,car_body,mileage,color,condition,transmission,origin
+ Golf,-1, 2000 ,-1, Benzyna, Sedan, 293 000 km, Szary, Nieuszkodzony, Manualna,
+Golf,1 595 cm3,2009,102 KM,Benzyna+LPG,Kompakt,309 190 km,Brązowy,Używane,Manualna,Niemcy
+ Golf,-1, 2000 ,-1, Benzyna, Sedan, 293 000 km, Szary, Nieuszkodzony, Manualna,
+Golf,1 595 cm3,2009,102 KM,Benzyna+LPG,Kompakt,309 190 km,Brązowy,Używane,Manualna,Niemcy
+ Golf, 1 598 cm³, 2013 , 105 KM, Diesel, Kombi, 231 000 km, Srebrny, Nieuszkodzony, Manualna, Niemcy
+Golf,1 968 cm3,2013,150 KM,Diesel,Kombi,213 500 km,Czarny,Używane,Automatyczna,
+ Golf, 1 598 cm³, 2013 , 105 KM, Diesel, Kombi, 231 000 km, Srebrny, Nieuszkodzony, Manualna, Niemcy
+Golf,1 968 cm3,2013,150 KM,Diesel,Kombi,213 500 km,Czarny,Używane,Automatyczna,
+ Golf, 1 390 cm³, 1999 , 75 KM, Benzyna, Hatchback, 194 450 km, Srebrny, Nieuszkodzony, Manualna, Niemcy
+Golf,1 896 cm3,1999,90 KM,Diesel,Kompakt,268 258 km,Granatowy,Używane,Manualna,Niemcy

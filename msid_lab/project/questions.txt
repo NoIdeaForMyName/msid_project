@@ -1,0 +1,5 @@
+1. ile danych powinno byc ostatecznie (czy wystarczy golf, bmw e36, bmw e46)
+2. czy jest sposob na wyznaczenie najlepszej metody regresji dla problemu
+ bo spodziewam sie, ze Linear regression nie wchodzi w gre
+ (jest to regresja wielowymiarowa i niekoniecznie liniowa) - i nie wiem czy powinienem
+ przetestowac rozne sposoby, np. polynomial regression, albo decision tree, support vector regression
