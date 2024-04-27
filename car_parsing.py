@@ -11,7 +11,8 @@ class parseStatus(Enum):
 
 class CarParser(metaclass=abc.ABCMeta):
     def __init__(self, html) -> None:
-        self.html: str = html
+        #self.html: str = html
+        self.soup = BeautifulSoup(html, 'html.parser')
         self.parsed: parseStatus = parseStatus.UNPARSED
 
         self.details = {
@@ -27,10 +28,15 @@ class CarParser(metaclass=abc.ABCMeta):
             'condition': '', # damaged | undamaged
             'transmission': '', # manual | automatic
             'origin': '', # poland | germany etc.
+            'price': ''
         }
     
     @abc.abstractmethod
     def parse_html(self) -> parseStatus:
+        pass
+
+    @abc.abstractmethod
+    def get_price(self) -> str:
         pass
 
 
@@ -54,8 +60,7 @@ class OLX_CarParser(CarParser):
         super().__init__(html)
 
     def parse_html(self) -> parseStatus:
-        soup = BeautifulSoup(self.html, 'html.parser')
-        car_data = soup.find('ul', class_='css-sfcl1s')
+        car_data = self.soup.find('ul', class_='css-sfcl1s')
         if car_data is None or isinstance(car_data, bs4.NavigableString):
             self.parsed = parseStatus.UNSUCCESFULLY_PARSED
             return self.parsed
@@ -66,11 +71,21 @@ class OLX_CarParser(CarParser):
     
 
     def fill_details(self, det):
-        name_detail_list = [d.split(':') for d in det]
+        name_detail_list = [[d_.strip() for d_ in d.split(':')] for d in det]
         for name, detail in name_detail_list:
             key = OLX_CarParser.translation.get(name, None)
             if key:
                 self.details[OLX_CarParser.translation[name]] = detail
+        self.details['price'] = self.get_price()
+
+    def get_price(self) -> str:
+        price_tag = self.soup.find('div', attrs={'data-testid': 'ad-price-container'})
+        if isinstance(price_tag, bs4.NavigableString) or price_tag is None:
+            return ''
+        return price_tag.text
+'''
+<div data-testid="ad-price-container" class="css-e2ir3r"><h3 class="css-12vqlj3">9 999 zł</h3></div>
+'''
 
 
 class OTOMOTO_CarParser(CarParser):
@@ -94,13 +109,12 @@ class OTOMOTO_CarParser(CarParser):
         super().__init__(html)
 
     def parse_html(self) -> parseStatus:
-        soup = BeautifulSoup(self.html, 'html.parser')
         #car_data = soup.find('div', class_='ooa-1x860b3 e18eslyg2')
-        car_data = soup.find('div', attrs={'data-testid': 'content-details-section'})
+        car_data = self.soup.find('div', attrs={'data-testid': 'content-details-section'})
         if car_data is None or isinstance(car_data, bs4.NavigableString):
             self.parsed = parseStatus.UNSUCCESFULLY_PARSED
             return self.parsed
-        car_data_list = soup.find_all('div', attrs={'data-testid': 'advert-details-item'})
+        car_data_list = self.soup.find_all('div', attrs={'data-testid': 'advert-details-item'})
         details_list: list[tuple[str, str]] = [(t.find_all()[0].text, t.find_all()[1].text) for t in car_data_list]
         #details_list: list[str] = [t.text for t in car_data]
         self.fill_details(details_list)
@@ -110,6 +124,14 @@ class OTOMOTO_CarParser(CarParser):
 
     def fill_details(self, det):
         for name, detail in det:
+            name, detail = name.strip(), detail.strip()
             key = OTOMOTO_CarParser.translation.get(name, None)
             if key:
                 self.details[OTOMOTO_CarParser.translation[name]] = detail
+        self.details['price'] = self.get_price()
+
+    def get_price(self) -> str:
+        price_tag = self.soup.find('h3', class_='offer-price__number')
+        if isinstance(price_tag, bs4.NavigableString) or price_tag is None or price_tag.parent is None:
+            return ''
+        return price_tag.parent.text
