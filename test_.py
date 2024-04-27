@@ -71,15 +71,24 @@ def get_car_href_list(url):
             writer.writerow(car.details)
 
 
-def get_all_pagination_urls(first_url) -> list[str]:
+def get_all_pagination_urls(first_url: str) -> list[str]:
     html = get_html_content(first_url)
     if html is None:
         raise requests.exceptions.RequestException('An error during initial fetching has occured')
     soup = BeautifulSoup(html.text, 'html.parser')
-    paginations = soup.find_all()
-    return []
+    paginations = soup.find('ul', class_='pagination-list')
+    if isinstance(paginations, bs4.NavigableString) or paginations is None:
+        raise requests.exceptions.RequestException('An error during initial fetching has occured')
+    last_url_number = int(paginations.find_all('li', class_='pagination-item')[-1].text)
+    inline_placement_idx = first_url.find('search%')
+    return [first_url[:inline_placement_idx] + 'page=' + str(counter)+'&' + first_url[inline_placement_idx:] for counter in range(1, last_url_number+1)]
 
+
+def main():
+    first_url = 'https://www.olx.pl/motoryzacja/samochody/volkswagen/?search%5Bfilter_enum_model%5D%5B0%5D=golf'
+    urls = get_all_pagination_urls(first_url)
+    [print(x) for x in urls]
+    #get_car_href_list(first_url)
 
 if __name__ == "__main__":
-    first_url = 'https://www.olx.pl/motoryzacja/samochody/volkswagen/?search%5Bfilter_enum_model%5D%5B0%5D=golf'
-    get_car_href_list(first_url)
+    main()
