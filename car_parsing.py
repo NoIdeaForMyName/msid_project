@@ -19,8 +19,9 @@ class CarParser(metaclass=abc.ABCMeta):
         self.parsed: parseStatus = parseStatus.UNPARSED
 
         self.details = {
-            #'brand': '',
+            'brand': 'Unknown',
             'model': 'Unknown',
+            'generation': 'Unknown',
             'eng_cap': 'Unknown', # in cm^3
             'prod_year': 'Unknown',
             'power': 'Unknown', # KM
@@ -44,6 +45,9 @@ class CarParser(metaclass=abc.ABCMeta):
 
 
 class OLX_CarParser(CarParser):
+    '''
+    OLX parser does not support 'brand' detail, so it can be passed in constructor
+    '''
 
     translation = {
         'Model': 'model',
@@ -59,8 +63,9 @@ class OLX_CarParser(CarParser):
         'Kraj pochodzenia': 'origin',
     }
 
-    def __init__(self, html) -> None:
+    def __init__(self, html, brand:str='Unknown') -> None:
         super().__init__(html)
+        self.details['brand'] = brand
 
     def parse_html(self) -> parseStatus:
         car_data = self.soup.find('ul', class_='css-sfcl1s')
@@ -80,12 +85,30 @@ class OLX_CarParser(CarParser):
             if key:
                 self.details[OLX_CarParser.translation[name]] = detail
         self.details['price'] = self.get_price()
+        gen = self.get_generation()
+        if gen is not None:
+            self.details['generation'] = gen
 
     def get_price(self) -> str:
         price_tag = self.soup.find('div', attrs={'data-testid': 'ad-price-container'})
         if isinstance(price_tag, bs4.NavigableString) or price_tag is None:
             return ''
         return price_tag.text
+    
+    def get_generation(self) -> str | None:
+        model = self.details['model']
+        if model == 'Unknown':
+            return None
+        title_tag = self.soup.find('title')
+        if not isinstance(title_tag, bs4.Tag):
+            return None
+        title_content = title_tag.text.split()
+        for i in range(len(title_content)):
+            if title_content[i] == model and i != len(title_content)-1:
+                return title_content[i+1]
+        return None
+
+
 '''
 <div data-testid="ad-price-container" class="css-e2ir3r"><h3 class="css-12vqlj3">9 999 zł</h3></div>
 '''
@@ -94,8 +117,9 @@ class OLX_CarParser(CarParser):
 class OTOMOTO_CarParser(CarParser):
     
     translation = {
-        #'Marka pojazdu': 'brand',
+        'Marka pojazdu': 'brand',
         'Model pojazdu': 'model',
+        'Generacja': 'generation',
         'Pojemność skokowa': 'eng_cap',
         'Rok produkcji': 'prod_year',
         'Moc': 'power',
