@@ -6,6 +6,8 @@ import csv
 import time
 import os
 
+from tqdm import tqdm
+
 from car_parsing import CarParser, OLX_CarParser, OTOMOTO_CarParser, parseStatus
 
 
@@ -50,8 +52,8 @@ def get_cars_to_parse(car_urls: list[str], olx_brand='Unknown') -> list[CarParse
         elif url.find('otomoto') != -1:
             parsed_car_list.append(OTOMOTO_CarParser(html.text))
         url_counter += 1
-        print(f'{round(url_counter*100/url_number, 2)}%', end='; ', flush=True)
-    print()
+        #print(f'{round(url_counter*100/url_number, 2)}%', end='; ', flush=True)
+    #print()
     return parsed_car_list
 
 
@@ -98,23 +100,20 @@ def main():
         ('BMW', 'Seria 3'): 'https://www.olx.pl/motoryzacja/samochody/bmw/?search%5Bfilter_enum_model%5D%5B0%5D=3-as-sorozat',
         ('Opel', 'Corsa'): 'https://www.olx.pl/motoryzacja/samochody/opel/?search%5Bfilter_enum_model%5D%5B0%5D=corsa'
     }
-
+    sum_failed = 0
     for (brand, model), first_url in car_type_pagination_url_dict.items():
+        print(f'Fetching data for {brand} {model}')
         csv_filename = f'{brand}_{model}.csv'
         urls = get_all_pagination_urls(first_url)
         if os.path.exists(csv_filename):
             print('Overwriting', csv_filename)
             os.remove(csv_filename)
-        # Testing for 1 website (few data samples) per model
-        print(f'Fetching data from: {urls[0]}')
-        import random
-        car_urls = random.choices(get_car_href_list(urls[0]), k=7)
-        cars = get_cars_to_parse(car_urls, olx_brand=brand)
-        failed_nb = parse_cars(cars)
-        print('Failed:', failed_nb)
-        write_to_csv([car.details for car in cars], csv_filename)
-        
-
+        for url in tqdm(urls, desc='Every website'):
+            car_urls = get_car_href_list(url)
+            cars = get_cars_to_parse(car_urls, olx_brand=brand)
+            sum_failed += parse_cars(cars)
+            write_to_csv([car.details for car in cars], csv_filename)
+    print(f'Overall failed: {sum_failed}')
 
 if __name__ == "__main__":
     main()

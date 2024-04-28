@@ -1,8 +1,1299 @@
 brand,model,generation,eng_cap,prod_year,power,fuel_type,car_body,mileage,color,condition,transmission,origin,price,source
-BMW,Seria 3,Unknown,1 994 cm³,2007,129 KM,Benzyna,Sedan,220 000 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,15 900 zł,OLX
+BMW,Seria 3,Unknown,1 951 cm³,2000,136 KM,Diesel,Sedan,333 000 km,Niebieski,Nieuszkodzony,Manualna,Unknown,3 500 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),2 998 cm3,2019,374 KM,Benzyna,Sedan,153 000 km,Biały,Używane,Automatyczna,Polska,202 999PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 999 cm³,2004,231 KM,Benzyna,Coupe,338 500 km,Czerwony,Nieuszkodzony,Manualna,Unknown,20 000 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2013,143 KM,Diesel,Kombi,310 000 km,Czarny,Używane,Manualna,Niemcy,37 777PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 993 cm3,2007,285 KM,Diesel,Kombi,298 400 km,Czarny,Używane,Automatyczna,Unknown,35 800PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2011,170 KM,Benzyna,Kombi,197 000 km,Czarny,Używane,Automatyczna,Niemcy,22 100PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 998 cm³,2014,222 KM,Diesel,Kombi,146 000 km,Niebieski,Nieuszkodzony,Automatyczna,Niemcy,67 500 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,177 KM,Diesel,Kombi,299 200 km,Szary,Używane,Manualna,Włochy,31 700PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2007,122 KM,Diesel,Kombi,377 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,17 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,Unknown,2003,115 KM,Diesel,Sedan,360 000 km,Srebrny,Nieuszkodzony,Manualna,Chorwacja,12 900 zł,OLX
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2021,190 KM,Diesel,Kombi,35 000 km,Czarny,Używane,Automatyczna,Niemcy,144 999PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2009,164 KM,Diesel,Kombi,415 000 km,Biały,Nieuszkodzony,Automatyczna,Unknown,33 900 zł,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2010,170 KM,Benzyna,Sedan,149 769 km,Szary,Nieuszkodzony,Manualna,Unknown,33 900 zł,OLX
+BMW,Seria 3,Unknown,1 500 cm³,2018,146 KM,Benzyna,Kombi,119 900 km,Czarny,Nieuszkodzony,Manualna,Polska,68 999 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2012,215 KM,Diesel,Kabriolet,189 400 km,Czarny,Nieuszkodzony,Automatyczna,Niemcy,100 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2009,177 KM,Diesel,Kombi,286 000 km,Żółty – Złoty,Nieuszkodzony,Automatyczna,Unknown,27 000 zł,OLX
+BMW,Seria 3,Unknown,1 999 cm³,2006,150 KM,LPG,Sedan,290 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,21 499 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2012,245 KM,Benzyna,Sedan,254 400 km,Szary,Używane,Automatyczna,Stany Zjednoczone,56 800PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2017,184 KM,Benzyna,Sedan,131 000 km,Biały,Używane,Automatyczna,Stany Zjednoczone,72 500PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2020,184 KM,Benzyna,Sedan,82 000 km,Szary,Używane,Automatyczna,Polska,134 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2007,150 KM,Benzyna,Sedan,336 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,18 900 zł,OLX
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2019,190 KM,Diesel,Sedan,56 000 km,Biały,Używane,Automatyczna,Polska,160 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 500 cm³,2001,170 KM,Benzyna,Coupe,286 710 km,Inny kolor,Uszkodzony,Automatyczna,Unknown,4 000 zł,OLX
+BMW,Seria 3,Unknown,3 000 cm³,2003,289 KM,Diesel,Coupe,386 000 km,Srebrny,Nieuszkodzony,Manualna,Polska,15 500 zł,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2013,160 KM,Diesel,Kombi,210 000 km,Biały,Nieuszkodzony,Manualna,Polska,40 000 zł,OLX
+BMW,Seria 3,Unknown,2 993 cm³,2009,197 KM,Diesel,Sedan,277 726 km,Czarny,Uszkodzony,Manualna,Niemcy,19 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 996 cm³,2009,143 KM,Diesel,Kombi,261 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,23 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 993 cm³,2014,143 KM,Diesel,Coupe,292 800 km,Czarny,Nieuszkodzony,Manualna,Niemcy,39 900 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,163 KM,Diesel,Kombi,270 500 km,Czarny,Używane,Automatyczna,Niemcy,51 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 598 cm3,2014,136 KM,Benzyna,Kombi,116 000 km,Biały,Używane,Manualna,Unknown,44 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2019,190 KM,Diesel,Sedan,117 917 km,Szary,Używane,Automatyczna,Francja,132 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 497 cm3,2006,218 KM,Benzyna,Coupe,233 000 km,Srebrny,Używane,Automatyczna,Unknown,30 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 996 cm³,2008,218 KM,Benzyna,Sedan,287 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,32 000 złdo negocjacji,OLX
+BMW,Seria 3,E21 (1975-1982),1 573 cm3,1983,75 KM,Benzyna,Sedan,108 000 km,Szary,Używane,Manualna,Unknown,39 900PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),1 951 cm3,2000,136 KM,Diesel,Kombi,320 000 km,Czarny,Używane,Manualna,Unknown,5 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2008,177 KM,Diesel,Kombi,348 000 km,Srebrny,Nieuszkodzony,Manualna,Polska,22 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2006,163 KM,Diesel,Sedan,379 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,23 000 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),2 998 cm3,2023,374 KM,Benzyna,Kombi,5 500 km,Szary,Używane,Automatyczna,Polska,318 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,Unknown,2003,192 KM,Benzyna,Sedan,260 000 km,Zielony,Nieuszkodzony,Manualna,Unknown,12 000 zł,OLX
+BMW,Seria 3,E36 (1990-1999),1 991 cm3,1998,150 KM,Benzyna,Kabriolet,262 100 km,Inny kolor,Używane,Manualna,Unknown,75 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 500 cm³,2005,218 KM,LPG,Sedan,266 000 km,Niebieski,Nieuszkodzony,Manualna,Unknown,21 990 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2008,177 KM,Diesel,Kombi,213 000 km,Niebieski,Używane,Automatyczna,Niemcy,24 250PLN,OTOMOTO
+BMW,Seria 3,E21 (1975-1982),1 766 cm3,1980,90 KM,Benzyna,Coupe,172 000 km,Błękitny,Używane,Manualna,Włochy,39 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2008,143 KM,Benzyna,Kombi,192 572 km,Czarny,Używane,Automatyczna,Niemcy,23 499PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 979 cm³,2001,231 KM,Benzyna,Sedan,289 600 km,Czerwony,Nieuszkodzony,Manualna,Szwajcaria,18 000 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,129 KM,Benzyna+LPG,Sedan,306 000 km,Czarny,Używane,Manualna,Unknown,16 300PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 500 cm³,2001,192 KM,Benzyna,Coupe,280 000 km,Czarny,Nieuszkodzony,Manualna,Polska,15 800 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,163 KM,Diesel,Kombi,295 107 km,Inny kolor,Używane,Manualna,Niemcy,24 999PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 499 cm3,2016,136 KM,Benzyna,Sedan,115 000 km,Biały,Używane,Automatyczna,Unknown,59 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 800 cm³,2003,115 KM,Benzyna,Sedan,240 km,Szary,Nieuszkodzony,Manualna,Polska,6 700 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),2 993 cm3,2015,258 KM,Diesel,Kombi,273 095 km,Srebrny,Używane,Automatyczna,Polska,92 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,129 KM,Benzyna,Sedan,159 000 km,Srebrny,Używane,Manualna,Niemcy,19 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2014,245 KM,Benzyna,Sedan,171 300 km,Szary,Nieuszkodzony,Automatyczna,Holandia,60 000 zł,OLX
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2020,156 KM,Benzyna,Sedan,41 300 km,Czarny,Używane,Automatyczna,Polska,119 899PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 800 cm³,2003,115 KM,Benzyna,Sedan,240 km,Szary,Nieuszkodzony,Manualna,Polska,6 700 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),2 993 cm3,2015,258 KM,Diesel,Kombi,273 095 km,Srebrny,Używane,Automatyczna,Polska,92 000PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2021,258 KM,Benzyna,Sedan,67 000 km,Biały,Używane,Automatyczna,Stany Zjednoczone,139 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2005,118 KM,Diesel,Kombi,313 000 km,Niebieski,Uszkodzony,Manualna,Niemcy,4 300 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2009,143 KM,Diesel,Kombi,245 000 km,Szary,Nieuszkodzony,Manualna,Niemcy,22 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2003,150 KM,Diesel,Kombi,504 100 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,5 600 zł,OLX
+BMW,Seria 3,E46 (1998-2007),2 926 cm3,2002,184 KM,Diesel,Kombi,300 580 km,Srebrny,Używane,Automatyczna,Unknown,11 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,184 KM,Diesel,Kombi,148 000 km,Niebieski,Używane,Automatyczna,Unknown,68 999PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),1 995 cm3,2001,143 KM,Benzyna+LPG,Sedan,271 000 km,Fioletowy,Używane,Manualna,Niemcy,12 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2012,184 KM,Diesel,Sedan,244 000 km,Czerwony,Używane,Automatyczna,Unknown,58 500PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 993 cm3,2011,245 KM,Diesel,Kombi,328 000 km,Szary,Używane,Automatyczna,Unknown,37 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 979 cm³,2013,306 KM,Benzyna,Sedan,148 km,Czarny,Nieuszkodzony,Automatyczna,Stany Zjednoczone,68 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 200 cm³,2005,170 KM,Benzyna,Kabriolet,185 000 km,Czarny,Nieuszkodzony,Automatyczna,Niemcy,25 000 zł,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2007,Unknown,Benzyna,Sedan,325 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,13 900 złdo negocjacji,OLX
+BMW,Seria 3,E46 (1998-2007),2 494 cm3,2000,170 KM,Benzyna,Coupe,177 000 km,Czarny,Używane,Manualna,Unknown,24 900PLN,OTOMOTO
+BMW,Seria 3,E36 (1990-1999),1 796 cm3,1998,140 KM,Benzyna,Kompakt,72 404 km,Srebrny,Używane,Manualna,Unknown,28 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 900 cm³,2000,110 KM,LPG,Sedan,240 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,6 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2013,143 KM,Diesel,Kombi,228 000 km,Biały,Nieuszkodzony,Manualna,Francja,52 000 zł,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2002,150 KM,Diesel,Kombi,316 000 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,18 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2011,116 KM,Diesel,Sedan,289 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,29 500 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2013,184 KM,Benzyna,Sedan,156 000 km,Czarny,Używane,Automatyczna,Unknown,43 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2015,184 KM,Diesel,Kombi,262 000 km,Srebrny,Używane,Automatyczna,Niemcy,69 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2005,Unknown,LPG,Sedan,270 km,Srebrny,Nieuszkodzony,Manualna,Polska,11 900 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2005,150 KM,Benzyna,Sedan,302 735 km,Szary,Uszkodzony,Manualna,Unknown,12 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2013,184 KM,Diesel,Sedan,174 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,58 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2024,184 KM,Benzyna,Sedan,10 km,Biały,Nieuszkodzony,Automatyczna,Polska,198 000 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2013,245 KM,Benzyna,Sedan,219 000 km,Granatowy,Używane,Automatyczna,Stany Zjednoczone,45 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2008,163 KM,Diesel,Sedan,229 029 km,Srebrny,Używane,Automatyczna,Belgia,41 500PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),1 796 cm3,2002,115 KM,Benzyna,Kompakt,189 277 km,Zielony,Używane,Manualna,Niemcy,7 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 993 cm3,2010,245 KM,Diesel,Sedan,237 000 km,Inny kolor,Używane,Automatyczna,Unknown,41 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 598 cm3,2014,136 KM,Benzyna,Sedan,209 500 km,Czarny,Używane,Manualna,Niemcy,53 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2014,184 KM,Diesel,Sedan,271 145 km,Biały,Nieuszkodzony,Automatyczna,Austria,58 900 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 993 cm3,2011,245 KM,Diesel,Kombi,297 000 km,Szary,Używane,Automatyczna,Unknown,45 900PLN,OTOMOTO
 BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,163 KM,Diesel,Kombi,251 000 km,Niebieski,Używane,Manualna,Niemcy,16 900PLN,OTOMOTO
-BMW,Seria 3,Unknown,1 995 cm³,2008,143 KM,Benzyna,Kombi,275 200 km,Czarny,Nieuszkodzony,Manualna,Unknown,19 999 złdo negocjacji,OLX
-BMW,Seria 3,Unknown,1 995 cm³,2008,143 KM,Benzyna,Kombi,275 200 km,Czarny,Nieuszkodzony,Manualna,Unknown,19 999 złdo negocjacji,OLX
-BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2022,258 KM,Benzyna,Sedan,7 125 km,Biały,Używane,Automatyczna,Stany Zjednoczone,150 999PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,143 KM,Diesel,Kombi,284 000 km,Brązowy,Używane,Automatyczna,Unknown,39 500PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2015,245 KM,Benzyna,Sedan,131 000 km,Czarny,Używane,Automatyczna,Unknown,38 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2017,252 KM,Benzyna,Kompakt,75 000 km,Biały,Używane,Automatyczna,Unknown,89 999PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2005,150 KM,LPG,Sedan,282 000 km,Inny kolor,Nieuszkodzony,Automatyczna,Irlandia,13 800 zł,OLX
+BMW,Seria 3,Unknown,2 979 cm³,2002,231 KM,LPG,Sedan,317 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,20 500 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),2 979 cm3,2014,306 KM,Benzyna,Sedan,183 000 km,Srebrny,Używane,Automatyczna,Unknown,83 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2015,258 KM,Benzyna,Sedan,31 400 km,Biały,Używane,Automatyczna,Stany Zjednoczone,33 900PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),1 995 cm3,2003,143 KM,Benzyna,Kombi,170 271 km,Srebrny,Używane,Manualna,Niemcy,11 999PLN,OTOMOTO
+BMW,Seria 3,E30 (1982-1994),1 596 cm3,1994,99 KM,Benzyna,Coupe,203 500 km,Szary,Używane,Manualna,Unknown,24 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2017,150 KM,Diesel,Sedan,186 000 km,Szary,Używane,Manualna,Belgia,59 800PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),1 895 cm3,2001,105 KM,Benzyna+LPG,Sedan,290 000 km,Niebieski,Używane,Manualna,Unknown,6 500PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2017,252 KM,Benzyna,Sedan,102 770 km,Inny kolor,Używane,Automatyczna,Unknown,88 700PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2008,Unknown,Diesel,Kombi,285 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,12 900 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 497 cm3,2007,218 KM,Benzyna+LPG,Coupe,258 000 km,Czarny,Używane,Manualna,Unknown,43 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,Unknown,2004,231 KM,Benzyna,Sedan,219 000 km,Srebrny,Nieuszkodzony,Automatyczna,Niemcy,22 500 zł,OLX
+BMW,Seria 3,Unknown,Unknown,2004,Unknown,Diesel,Sedan,330 km,Niebieski,Nieuszkodzony,Automatyczna,Unknown,3 990 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2012,215 KM,Diesel,Kabriolet,189 400 km,Czarny,Nieuszkodzony,Automatyczna,Niemcy,100 000 złdo negocjacji,OLX
+BMW,Seria 3,E46 (1998-2007),1 951 cm3,1999,136 KM,Diesel,Kombi,220 000 km,Srebrny,Używane,Manualna,Unknown,4 999PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 cm³,2000,105 KM,Benzyna,Sedan,145 200 km,Srebrny,Nieuszkodzony,Manualna,Austria,7 500 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,177 KM,Diesel,Sedan,160 000 km,Niebieski,Używane,Manualna,Polska,44 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2009,143 KM,Benzyna,Sedan,157 000 km,Szary,Nieuszkodzony,Manualna,Unknown,25 900 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 598 cm3,2012,136 KM,Benzyna,Kompakt,163 184 km,Biały,Używane,Manualna,Polska,42 000PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),1 995 cm3,2002,150 KM,Diesel,Sedan,279 518 km,Zielony,Używane,Automatyczna,Unknown,12 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 979 cm3,2009,306 KM,Benzyna,Kabriolet,140 629 km,Biały,Używane,Manualna,Niemcy,64 999PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,143 KM,Diesel,Sedan,302 000 km,Szary,Używane,Automatyczna,Unknown,48 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,3 000 cm³,2009,306 KM,Benzyna,Kabriolet,282 055 km,Czarny,Nieuszkodzony,Automatyczna,Unknown,53 900 zł,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2008,177 KM,Diesel,Kombi,295 000 km,Szary,Używane,Manualna,Unknown,23 500PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2007,129 KM,Benzyna,Sedan,159 000 km,Czarny,Używane,Manualna,Niemcy,17 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 979 cm³,2014,306 KM,Benzyna,Sedan,94 000 km,Czarny,Nieuszkodzony,Automatyczna,Stany Zjednoczone,81 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 500 cm³,1999,Unknown,Benzyna,Sedan,265 000 km,Czerwony,Nieuszkodzony,Manualna,Unknown,9 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2003,150 KM,Diesel,Sedan,381 650 km,Czarny,Nieuszkodzony,Automatyczna,Niemcy,8 600 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2021,190 KM,Diesel,Kombi,44 000 km,Szary,Używane,Automatyczna,Austria,56 000PLN,OTOMOTO
 BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,150 KM,Benzyna,Sedan,232 500 km,Szary,Używane,Manualna,Unknown,29 900PLN,OTOMOTO
-BMW,Seria 3,Unknown,Unknown,2002,231 KM,Benzyna,Kombi,415 000 km,Srebrny,Nieuszkodzony,Automatyczna,Unknown,10 500 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2012,143 KM,Diesel,Kombi,270 000 km,Szary,Używane,Manualna,Unknown,43 900PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),1 951 cm3,2000,136 KM,Diesel,Sedan,313 000 km,Czerwony,Używane,Manualna,Unknown,22 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2022,258 KM,Benzyna,Sedan,7 125 km,Biały,Używane,Automatyczna,Stany Zjednoczone,150 999PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2008,143 KM,Diesel,Kombi,377 067 km,Czarny,Używane,Manualna,Niemcy,19 999PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 900 cm³,2001,105 KM,Benzyna,Sedan,317 569 km,Srebrny,Nieuszkodzony,Manualna,Unknown,4 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,Unknown,2007,170 KM,Diesel,Coupe,258 000 km,Szary,Nieuszkodzony,Manualna,Unknown,23 500 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 979 cm3,2006,231 KM,Benzyna,Coupe,212 800 km,Granatowy,Używane,Automatyczna,Unknown,32 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2013,245 KM,Benzyna,Sedan,128 964 km,Szary,Używane,Automatyczna,Unknown,33 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2007,150 KM,Benzyna,Sedan,160 100 km,Srebrny,Nieuszkodzony,Manualna,Unknown,9 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2014,245 KM,Benzyna,Sedan,209 km,Biały,Nieuszkodzony,Automatyczna,Stany Zjednoczone,77 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2002,143 KM,Benzyna,Coupe,300 000 km,Niebieski,Uszkodzony,Manualna,Unknown,5 000 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2013,183 KM,Diesel,Sedan,280 000 km,Srebrny,Używane,Automatyczna,Unknown,50 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2005,150 KM,Benzyna,Kombi,280 000 km,Czarny,Używane,Automatyczna,Niemcy,20 999PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 998 cm³,2016,184 KM,Benzyna,Sedan,77 740 km,Biały,Nieuszkodzony,Automatyczna,Stany Zjednoczone,71 900 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2013,163 KM,Diesel,Kombi,271 000 km,Brązowy,Używane,Manualna,Unknown,40 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2014,136 KM,Diesel,Kombi,250 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,37 800 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 999 cm³,2002,143 KM,Benzyna,Coupe,200 km,Czarny,Nieuszkodzony,Manualna,Unknown,5 000 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,136 KM,Benzyna+LPG,Auta miejskie,184 000 km,Czarny,Używane,Manualna,Unknown,20 700PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 996 cm3,2009,272 KM,Benzyna,Sedan,222 581 km,Czarny,Używane,Manualna,Szwajcaria,43 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2008,143 KM,Diesel,Kombi,283 200 km,Czarny,Używane,Manualna,Niemcy,19 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 895 cm³,2000,105 KM,LPG,Coupe,235 533 km,Srebrny,Nieuszkodzony,Manualna,Holandia,10 000 zł,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2006,163 KM,Diesel,Sedan,379 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,23 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 900 cm³,2000,118 KM,LPG,Kombi,250 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,5 990 zł,OLX
+BMW,Seria 3,Unknown,Unknown,2007,170 KM,Diesel,Coupe,258 000 km,Szary,Nieuszkodzony,Manualna,Unknown,23 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2006,129 KM,Benzyna,Sedan,241 000 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,16 000 zł,OLX
+BMW,Seria 3,Unknown,1 998 cm³,2005,150 KM,Diesel,Kombi,335 000 km,Srebrny,Uszkodzony,Manualna,Niemcy,2 900 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 499 cm3,2018,136 KM,Benzyna,Sedan,119 820 km,Czarny,Używane,Automatyczna,Unknown,81 500PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,129 KM,Benzyna,Sedan,245 722 km,Czarny,Używane,Manualna,Unknown,16 000PLN,OTOMOTO
+BMW,Seria 3,E36 (1990-1999),1 895 cm3,2000,105 KM,Benzyna,Kompakt,268 900 km,Granatowy,Używane,Automatyczna,Unknown,7 200PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2012,170 KM,Benzyna,Kombi,205 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,25 900 zł,OLX
+BMW,Seria 3,E46 (1998-2007),1 995 cm3,2003,143 KM,Benzyna,Coupe,248 000 km,Czarny,Używane,Manualna,Unknown,18 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm3,2007,122 KM,Diesel,Sedan,275 369 km,Czarny,Używane,Manualna,Unknown,20 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2014,184 KM,Diesel,Sedan,288 500 km,Czarny,Nieuszkodzony,Automatyczna,Polska,63 999 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 200 cm³,2003,170 KM,Benzyna,Kabriolet,313 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,25 000 zł,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2005,143 KM,Benzyna,Kombi,139 500 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,13 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2006,147 KM,Diesel,Kombi,330 000 km,Inny kolor,Nieuszkodzony,Manualna,Polska,12 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 895 cm³,2001,118 KM,LPG,Sedan,300 km,Czarny,Nieuszkodzony,Manualna,Unknown,7 500 zł,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,129 KM,Benzyna,Sedan,245 722 km,Czarny,Używane,Manualna,Unknown,16 000PLN,OTOMOTO
+BMW,Seria 3,E36 (1990-1999),1 895 cm3,2000,105 KM,Benzyna,Kompakt,268 900 km,Granatowy,Używane,Automatyczna,Unknown,7 200PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2012,170 KM,Benzyna,Kombi,205 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,25 900 zł,OLX
+BMW,Seria 3,E46 (1998-2007),1 995 cm3,2003,143 KM,Benzyna,Coupe,248 000 km,Czarny,Używane,Manualna,Unknown,18 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm3,2007,122 KM,Diesel,Sedan,275 369 km,Czarny,Używane,Manualna,Unknown,20 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2014,184 KM,Diesel,Sedan,288 500 km,Czarny,Nieuszkodzony,Automatyczna,Polska,63 999 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 200 cm³,2003,170 KM,Benzyna,Kabriolet,313 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,25 000 zł,OLX
+BMW,Seria 3,Unknown,Unknown,2007,Unknown,Diesel,Kombi,320 000 km,Niebieski,Nieuszkodzony,Manualna,Unknown,21 500 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2008,177 KM,Diesel,Kombi,256 000 km,Czarny,Używane,Automatyczna,Unknown,17 800PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2006,130 KM,LPG,Sedan,262 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,18 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,Unknown,2011,143 KM,Diesel,Kombi,325 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,25 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,Unknown,2003,143 KM,Benzyna,Kombi,327 397 km,Inny kolor,Nieuszkodzony,Automatyczna,Niemcy,8 400 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,163 KM,Diesel,Kombi,330 000 km,Czarny,Używane,Manualna,Niemcy,16 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 997 cm³,2013,248 KM,Benzyna,Sedan,184 000 km,Szary,Nieuszkodzony,Automatyczna,Stany Zjednoczone,65 000 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2008,170 KM,Benzyna,Kabriolet,185 000 km,Czarny,Używane,Manualna,Niemcy,47 500PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2015,143 KM,Diesel,Kombi,344 806 km,Czarny,Używane,Automatyczna,Niemcy,38 600PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 993 cm3,2006,231 KM,Diesel,Sedan,287 000 km,Srebrny,Używane,Automatyczna,Niemcy,28 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2006,164 KM,Diesel,Sedan,228 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,20 900 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2022,190 KM,Diesel,Kombi,36 580 km,Niebieski,Nieuszkodzony,Automatyczna,Unknown,169 900 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2019,252 KM,Benzyna,Sedan,88 122 km,Czarny,Używane,Automatyczna,Stany Zjednoczone,66 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2019,150 KM,Diesel,Kombi,178 000 km,Biały,Używane,Manualna,Niemcy,78 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2015,150 KM,Diesel,Kombi,251 400 km,Srebrny,Używane,Automatyczna,Unknown,48 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2015,143 KM,Diesel,Kombi,159 600 km,Czarny,Używane,Automatyczna,Unknown,58 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2013,140 KM,Diesel,Kombi,314 000 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,37 000 zł,OLX
+BMW,Seria 3,Unknown,Unknown,1990,Unknown,Benzyna,Coupe,1 km,Biały,Nieuszkodzony,Manualna,Unknown,25 999 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,Unknown,2017,150 KM,Diesel,Kombi,180 000 km,Inny kolor,Nieuszkodzony,Automatyczna,Belgia,68 900 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2016,252 KM,Benzyna,Sedan,151 910 km,Czarny,Używane,Automatyczna,Polska,85 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2014,245 KM,Benzyna,Sedan,107 500 km,Srebrny,Używane,Automatyczna,Unknown,54 500PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),1 995 cm3,2006,143 KM,Benzyna,Kabriolet,236 400 km,Szary,Używane,Manualna,Niemcy,23 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2018,184 KM,Benzyna,Sedan,109 074 km,Biały,Używane,Automatyczna,Stany Zjednoczone,39 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 993 cm3,2007,197 KM,Diesel,Kabriolet,295 000 km,Czarny,Używane,Automatyczna,Niemcy,44 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2006,150 KM,Benzyna,Sedan,149 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,24 900 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),2 993 cm3,2014,313 KM,Diesel,Kombi,230 000 km,Biały,Używane,Automatyczna,Niemcy,69 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2008,143 KM,Diesel,Kombi,352 000 km,Czarny,Używane,Manualna,Unknown,21 100PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 998 cm³,1998,150 KM,Benzyna,Sedan,250 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,5 500 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,184 KM,Diesel,Kombi,295 000 km,Czarny,Używane,Automatyczna,Niemcy,52 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 500 cm³,1999,170 KM,Benzyna,Coupe,318 000 km,Srebrny,Nieuszkodzony,Automatyczna,Unknown,15 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2007,130 KM,Benzyna,Kombi,293 556 km,Czarny,Nieuszkodzony,Manualna,Inny,9 900 zł,OLX
+BMW,Seria 3,Unknown,300 cm³,2005,300 KM,Diesel,Sedan,425 km,Żółty – Złoty,Nieuszkodzony,Automatyczna,Niemcy,27 000 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2007,122 KM,Diesel,Kombi,299 445 km,Srebrny,Używane,Manualna,Unknown,20 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2011,163 KM,Diesel,Kombi,280 000 km,Szary,Nieuszkodzony,Manualna,Niemcy,17 900 zł,OLX
+BMW,Seria 3,E36 (1990-1999),1 596 cm3,1994,102 KM,Benzyna,Kompakt,269 000 km,Srebrny,Używane,Manualna,Unknown,8 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,163 KM,Diesel,Kombi,234 000 km,Granatowy,Używane,Automatyczna,Niemcy,24 999PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 596 cm³,2006,116 KM,Benzyna,Hatchback,183 000 km,Czarny,Nieuszkodzony,Manualna,Francja,14 950 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2004,143 KM,LPG,Sedan,351 200 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,5 999 złdo negocjacji,OLX
+BMW,Seria 3,E46 (1998-2007),1 995 cm3,2004,150 KM,Diesel,Kombi,320 000 km,Czarny,Używane,Manualna,Unknown,7 500PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 993 cm3,2008,286 KM,Diesel,Coupe,281 000 km,Czarny,Używane,Automatyczna,Unknown,49 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,3 000 cm³,2002,184 KM,Diesel,Kombi,330 000 km,Srebrny,Nieuszkodzony,Automatyczna,Polska,13 200 zł,OLX
+BMW,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,OLX
+BMW,Seria 3,Unknown,1 998 cm³,2009,177 KM,Diesel,Kombi,261 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,19 999 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 800 cm³,2006,129 KM,Benzyna,Kombi,230 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,14 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2003,143 KM,Benzyna,Sedan,321 000 km,Srebrny,Nieuszkodzony,Manualna,Polska,7 900 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),2 979 cm3,2015,306 KM,Benzyna,Sedan,136 000 km,Czarny,Używane,Automatyczna,Stany Zjednoczone,85 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2008,143 KM,Benzyna,Sedan,225 651 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,23 400 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,143 KM,Diesel,Kombi,220 000 km,Czarny,Używane,Manualna,Unknown,24 200PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 200 cm³,2005,170 KM,Benzyna,Kabriolet,185 000 km,Czarny,Nieuszkodzony,Automatyczna,Niemcy,25 000 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2013,143 KM,Diesel,Kombi,310 000 km,Czarny,Nieuszkodzony,Manualna,Belgia,37 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2010,176 KM,Diesel,Kombi,329 367 km,Srebrny,Nieuszkodzony,Automatyczna,Niemcy,15 500 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2013,184 KM,Diesel,Kombi,225 000 km,Czarny,Używane,Manualna,Unknown,43 999PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 598 cm3,2013,136 KM,Benzyna,Sedan,131 000 km,Biały,Używane,Manualna,Polska,43 000PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2021,190 KM,Diesel,Kombi,108 000 km,Szary,Używane,Automatyczna,Niemcy,129 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2013,163 KM,Diesel,Kombi,225 000 km,Granatowy,Używane,Manualna,Unknown,36 700PLN,OTOMOTO
+BMW,Seria 3,Unknown,Unknown,1998,Unknown,LPG,Sedan,300 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,7 700 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2013,184 KM,Diesel,Sedan,172 000 km,Biały,Nieuszkodzony,Automatyczna,Polska,64 500 zł,OLX
+BMW,Seria 3,Unknown,2 494 cm³,1999,170 KM,LPG,Coupe,310 000 km,Zielony,Nieuszkodzony,Automatyczna,Austria,24 900 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2012,143 KM,Diesel,Sedan,236 980 km,Czarny,Używane,Automatyczna,Unknown,47 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 979 cm3,2007,306 KM,Benzyna,Kabriolet,64 000 km,Biały,Używane,Automatyczna,Japonia,78 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2013,143 KM,Diesel,Kombi,210 000 km,Czarny,Używane,Manualna,Unknown,37 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2021,190 KM,Diesel,Kombi,106 000 km,Szary,Używane,Automatyczna,Szwecja,159 990PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),1 796 cm3,2003,115 KM,Benzyna,Sedan,69 900 km,Zielony,Używane,Manualna,Niemcy,15 999PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2019,190 KM,Diesel,Kombi,79 000 km,Szary,Używane,Automatyczna,Unknown,97 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2011,220 KM,Diesel,Kombi,284 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,26 000 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2016,190 KM,Diesel,Kombi,180 300 km,Czarny,Używane,Automatyczna,Niemcy,62 500PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2018,190 KM,Diesel,Kombi,83 962 km,Biały,Używane,Automatyczna,Polska,94 850PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2008,177 KM,Diesel,Sedan,325 000 km,Czarny,Nieuszkodzony,Automatyczna,Niemcy,22 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2007,177 KM,Diesel,Coupe,267 000 km,Czarny,Nieuszkodzony,Automatyczna,Unknown,34 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2009,143 KM,Diesel,Sedan,314 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,20 900 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 993 cm3,2011,245 KM,Diesel,Kombi,328 000 km,Szary,Używane,Automatyczna,Unknown,37 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2017,190 KM,Diesel,Kombi,75 062 km,Niebieski,Używane,Automatyczna,Polska,99 900PLN,OTOMOTO
+BMW,Seria 3,E36 (1990-1999),1 596 cm3,1998,102 KM,Benzyna,Coupe,130 001 km,Zielony,Używane,Manualna,Niemcy,7 999PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2014,245 KM,Benzyna,Sedan,207 000 km,Srebrny,Używane,Automatyczna,Stany Zjednoczone,69 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2013,184 KM,Diesel,Kombi,227 000 km,Czarny,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),2 171 cm3,2003,170 KM,Benzyna+LPG,Kabriolet,189 000 km,Granatowy,Używane,Automatyczna,Unknown,12 800PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2011,115 KM,Diesel,Kombi,207 928 km,Czarny,Używane,Manualna,Unknown,24 500PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2015,245 KM,Benzyna,Sedan,160 000 km,Granatowy,Używane,Automatyczna,Stany Zjednoczone,61 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 497 cm³,1996,180 KM,Diesel,Kombi,394 000 km,Zielony,Nieuszkodzony,Manualna,Unknown,10 900 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,184 KM,Diesel,Sedan,262 000 km,Czerwony,Używane,Manualna,Niemcy,49 999PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,184 KM,Diesel,Kombi,268 123 km,Szary,Używane,Automatyczna,Belgia,44 800PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 600 cm³,2008,110 KM,Benzyna,Sedan,255 000 km,Czarny,Uszkodzony,Manualna,Niemcy,6 999 zł,OLX
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2020,258 KM,Benzyna,Sedan,93 000 km,Czarny,Używane,Automatyczna,Unknown,129 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2014,184 KM,Diesel,Sedan,309 000 km,Szary,Nieuszkodzony,Automatyczna,Polska,62 800 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,Unknown,2007,150 KM,Benzyna,Kombi,270 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,22 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 998 cm³,2021,292 KM,Benzyna,Kombi,38 000 km,Biały,Nieuszkodzony,Automatyczna,Wielka Brytania,135 000 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2018,190 KM,Diesel,Kombi,140 000 km,Czarny,Używane,Automatyczna,Unknown,64 400PLN,OTOMOTO
+BMW,Seria 3,E30 (1982-1994),2 494 cm3,1987,170 KM,Benzyna,Sedan,167 000 km,Granatowy,Używane,Manualna,Unknown,58 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,3 000 cm³,2009,233 KM,Benzyna,Kabriolet,145 000 km,Biały,Nieuszkodzony,Manualna,Stany Zjednoczone,42 900 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,116 KM,Diesel,Sedan,162 000 km,Czarny,Używane,Manualna,Unknown,52 400PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2009,170 KM,Benzyna,Kombi,187 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,28 000 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2022,190 KM,Diesel,Kombi,50 000 km,Szary,Używane,Automatyczna,Niemcy,179 800PLN,OTOMOTO
+BMW,Seria 3,Unknown,3 000 cm³,2002,247 KM,Diesel,Kombi,380 000 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,12 500 zł,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,177 KM,Diesel,Kombi,221 000 km,Błękitny,Używane,Manualna,Niemcy,28 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2016,245 KM,Benzyna,Kompakt,78 000 km,Czarny,Używane,Automatyczna,Stany Zjednoczone,75 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2020,258 KM,Benzyna,Kombi,80 000 km,Czarny,Używane,Automatyczna,Polska,197 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2009,143 KM,Benzyna,Sedan,157 000 km,Szary,Nieuszkodzony,Manualna,Unknown,25 900 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,177 KM,Diesel,Kombi,221 000 km,Błękitny,Używane,Manualna,Niemcy,28 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2013,184 KM,Benzyna,Kombi,143 000 km,Szary,Używane,Manualna,Niemcy,50 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,3 000 cm³,2008,385 KM,Benzyna,Coupe,216 500 km,Czarny,Nieuszkodzony,Automatyczna,Unknown,62 000 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),2 979 cm3,2014,306 KM,Benzyna,Sedan,175 000 km,Biały,Używane,Automatyczna,Stany Zjednoczone,88 000PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),1 895 cm3,2000,105 KM,Benzyna,Sedan,221 200 km,Srebrny,Używane,Manualna,Unknown,7 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 993 cm3,2010,245 KM,Diesel,Sedan,320 000 km,Granatowy,Używane,Automatyczna,Unknown,46 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 993 cm3,2010,204 KM,Diesel,Sedan,240 123 km,Błękitny,Używane,Manualna,Unknown,29 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,3 000 cm³,2010,Unknown,Diesel,Coupe,269 000 km,Czarny,Nieuszkodzony,Automatyczna,Niemcy,46 800 zł,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2011,115 KM,Diesel,Kombi,349 000 km,Czarny,Używane,Manualna,Niemcy,19 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),2 000 cm3,2018,150 KM,Diesel,Kombi,88 000 km,Niebieski,Używane,Manualna,Polska,76 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,Unknown,2010,335 KM,Benzyna,Kabriolet,207 231 km,Czarny,Nieuszkodzony,Automatyczna,Unknown,36 900 zł,OLX
+BMW,Seria 3,Unknown,Unknown,2004,184 KM,Diesel,Kombi,390 000 km,Czarny,Nieuszkodzony,Automatyczna,Unknown,19 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 800 cm³,2003,115 KM,Benzyna,Sedan,240 km,Szary,Nieuszkodzony,Manualna,Polska,6 700 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2018,150 KM,Diesel,Kombi,111 000 km,Biały,Używane,Automatyczna,Polska,79 000PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2022,184 KM,Hybryda,Kombi,26 300 km,Szary,Używane,Automatyczna,Unknown,229 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 979 cm3,2010,306 KM,Benzyna,Kombi,239 000 km,Czarny,Używane,Automatyczna,Szwajcaria,46 000PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),1 995 cm3,2004,150 KM,Diesel,Kombi,296 787 km,Błękitny,Używane,Manualna,Unknown,10 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2019,150 KM,Diesel,Kombi,105 590 km,Biały,Używane,Automatyczna,Polska,83 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2013,148 KM,Diesel,Kombi,312 000 km,Brązowy – Beżowy,Nieuszkodzony,Manualna,Niemcy,40 500 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2021,184 KM,Benzyna,Kombi,35 000 km,Biały,Używane,Automatyczna,Niemcy,189 900PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),1 995 cm3,2004,143 KM,Benzyna,Coupe,248 000 km,Srebrny,Używane,Automatyczna,Unknown,9 999PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2023,122 KM,Diesel,Kombi,47 201 km,Granatowy,Używane,Automatyczna,Unknown,124 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,163 KM,Diesel,Kombi,349 000 km,Czarny,Używane,Automatyczna,Unknown,18 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,20 cm³,1991,110 KM,Benzyna,Sedan,1 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,3 100 zł,OLX
+BMW,Seria 3,Unknown,1 800 cm³,2002,115 KM,Benzyna,Sedan,357 400 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,6 490 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 499 cm3,2018,136 KM,Benzyna,Sedan,82 000 km,Czarny,Używane,Automatyczna,Polska,67 650PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),1 991 cm3,2000,150 KM,Benzyna+LPG,Coupe,320 000 km,Czarny,Używane,Manualna,Unknown,25 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2014,180 KM,Diesel,Sedan,230 000 km,Szary,Nieuszkodzony,Automatyczna,Belgia,53 500 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,143 KM,Diesel,Sedan,248 000 km,Biały,Używane,Automatyczna,Niemcy,66 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2012,143 KM,Diesel,Sedan,193 600 km,Czarny,Używane,Manualna,Niemcy,51 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2022,190 KM,Diesel,Sedan,15 361 km,Szary,Używane,Automatyczna,Polska,229 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2007,163 KM,Diesel,Sedan,279 000 km,Srebrny,Nieuszkodzony,Manualna,Polska,30 800 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,150 KM,Benzyna,Kombi,187 653 km,Czarny,Używane,Manualna,Unknown,14 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2005,150 KM,Benzyna+LPG,Sedan,190 000 km,Błękitny,Używane,Automatyczna,Niemcy,20 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2017,184 KM,Benzyna,Sedan,73 800 km,Biały,Używane,Automatyczna,Polska,98 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 895 cm³,2000,118 KM,Benzyna,Sedan,357 000 km,Czarny,Nieuszkodzony,Manualna,Polska,4 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2013,160 KM,Diesel,Kombi,210 000 km,Biały,Nieuszkodzony,Manualna,Polska,40 000 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2009,105 KM,Diesel,Kombi,273 500 km,Czarny,Nieuszkodzony,Manualna,Niemcy,29 900 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2014,184 KM,Benzyna,Sedan,245 000 km,Czerwony,Używane,Automatyczna,Unknown,49 999PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 497 cm3,2005,218 KM,Benzyna,Sedan,177 983 km,Srebrny,Używane,Automatyczna,Unknown,14 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2005,163 KM,Diesel,Sedan,365 134 km,Srebrny,Nieuszkodzony,Automatyczna,Niemcy,20 900 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2014,142 KM,Diesel,Sedan,205 000 km,Czarny,Nieuszkodzony,Automatyczna,Polska,44 000 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2020,190 KM,Diesel,Kombi,114 999 km,Srebrny,Używane,Automatyczna,Niemcy,114 999PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2008,143 KM,Benzyna,Kombi,226 000 km,Inny kolor,Używane,Manualna,Unknown,17 999PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2006,150 KM,LPG,Kombi,310 000 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,14 000 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2015,190 KM,Diesel,Sedan,167 000 km,Błękitny,Używane,Automatyczna,Niemcy,92 700PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,143 KM,Diesel,Kombi,192 127 km,Inny kolor,Używane,Manualna,Unknown,35 500PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,163 KM,Diesel,Sedan,353 516 km,Granatowy,Używane,Automatyczna,Włochy,32 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2023,184 KM,Benzyna,Sedan,9 500 km,Biały,Używane,Automatyczna,Polska,209 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 600 cm³,2008,110 KM,Benzyna,Sedan,255 000 km,Czarny,Uszkodzony,Manualna,Niemcy,6 999 zł,OLX
+BMW,Seria 3,Unknown,1 998 cm³,2006,127 KM,Benzyna,Kombi,230 000 km,Szary,Uszkodzony,Manualna,Niemcy,8 500 zł,OLX
+BMW,Seria 3,E46 (1998-2007),2 993 cm3,2004,286 KM,Diesel,Coupe,427 000 km,Granatowy,Używane,Automatyczna,Unknown,23 500PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,163 KM,Diesel,Sedan,353 516 km,Granatowy,Używane,Automatyczna,Włochy,32 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2023,184 KM,Benzyna,Sedan,9 500 km,Biały,Używane,Automatyczna,Polska,209 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2003,143 KM,Benzyna,Coupe,224 540 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,13 600 złdo negocjacji,OLX
+BMW,Seria 3,E46 (1998-2007),1 995 cm3,2002,150 KM,Diesel,Kombi,299 000 km,Srebrny,Używane,Manualna,Unknown,9 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 993 cm³,2012,204 KM,Diesel,Coupe,291 400 km,Czarny,Nieuszkodzony,Manualna,Niemcy,52 900 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 499 cm3,2016,136 KM,Benzyna,Sedan,149 751 km,Czarny,Używane,Manualna,Polska,53 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2008,Unknown,Diesel,Kombi,392 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,19 000 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2010,163 KM,Diesel,Sedan,233 023 km,Srebrny,Używane,Manualna,Unknown,27 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 895 cm³,2001,115 KM,Benzyna,Sedan,220 000 km,Zielony,Nieuszkodzony,Manualna,Niemcy,6 000 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2017,190 KM,Diesel,Kombi,182 100 km,Czarny,Używane,Manualna,Polska,62 800PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2013,184 KM,Diesel,Sedan,172 000 km,Biały,Nieuszkodzony,Automatyczna,Polska,64 500 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2012,143 KM,Diesel,Kombi,267 000 km,Czarny,Nieuszkodzony,Manualna,Francja,27 999 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2006,129 KM,Benzyna,Sedan,254 000 km,Szary,Nieuszkodzony,Manualna,Niemcy,17 600 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,143 KM,Diesel,Kombi,212 000 km,Czarny,Używane,Manualna,Niemcy,30 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2013,143 KM,Diesel,Kombi,255 000 km,Brązowy – Beżowy,Nieuszkodzony,Manualna,Unknown,38 800 zł,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2014,184 KM,Diesel,Sedan,204 km,Inny kolor,Nieuszkodzony,Automatyczna,Wielka Brytania,22 500 zł,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2012,143 KM,Diesel,Kombi,380 000 km,Szary,Nieuszkodzony,Automatyczna,Polska,27 000 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),2 993 cm3,2013,258 KM,Diesel,Kombi,237 875 km,Biały,Używane,Automatyczna,Unknown,77 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2015,163 KM,Diesel,Sedan,212 000 km,Szary,Używane,Automatyczna,Szwecja,56 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 998 cm³,2008,163 KM,Diesel,Coupe,66 000 km,Szary,Nieuszkodzony,Manualna,Belgia,42 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 999 cm³,2005,143 KM,Benzyna,Kombi,246 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,8 900 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,183 KM,Diesel,Kombi,175 000 km,Granatowy,Używane,Manualna,Unknown,49 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 895 cm³,1998,118 KM,Benzyna,Sedan,222 752 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,5 200 zł,OLX
+BMW,Seria 3,Unknown,3 000 cm³,2003,231 KM,Benzyna,Coupe,141 223 km,Srebrny,Nieuszkodzony,Manualna,Wielka Brytania,13 700 zł,OLX
+BMW,Seria 3,Unknown,4 000 cm³,1998,286 KM,Benzyna,Sedan,250 000 km,Niebieski,Nieuszkodzony,Manualna,Unknown,29 500 złdo negocjacji,OLX
+BMW,Seria 3,E36 (1990-1999),1 795 cm3,1993,113 KM,Benzyna,Sedan,163 700 km,Beżowy,Używane,Manualna,Niemcy,16 999PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2023,190 KM,Diesel,Kombi,28 000 km,Inny kolor,Używane,Automatyczna,Unknown,206 886PLN,OTOMOTO
+BMW,Seria 3,Unknown,3 000 cm³,2011,Unknown,Diesel,Kombi,314 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,38 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,Unknown,1990,Unknown,Benzyna,Sedan,270 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,11 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm3,2005,163 KM,Diesel,Sedan,297 550 km,Inny kolor,Używane,Manualna,Unknown,16 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2015,143 KM,Diesel,Sedan,287 000 km,Niebieski,Nieuszkodzony,Automatyczna,Unknown,54 900 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 998 cm3,2011,184 KM,Diesel,Kombi,299 000 km,Czarny,Używane,Automatyczna,Unknown,34 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2008,188 KM,Diesel,Sedan,306 000 km,Czarny,Nieuszkodzony,Manualna,Polska,23 300 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2003,149 KM,Diesel,Sedan,343 200 km,Czarny,Nieuszkodzony,Automatyczna,Niemcy,17 000 zł,OLX
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2020,190 KM,Diesel,Kombi,167 310 km,Niebieski,Używane,Automatyczna,Polska,109 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2019,190 KM,Diesel,Sedan,145 169 km,Granatowy,Używane,Automatyczna,Polska,104 400PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),1 951 cm3,2000,136 KM,Diesel,Sedan,313 000 km,Czerwony,Używane,Manualna,Unknown,22 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 951 cm³,2001,130 KM,Diesel,Sedan,300 000 km,Niebieski,Nieuszkodzony,Manualna,Unknown,4 300 zł,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 993 cm3,2007,231 KM,Diesel,Kombi,314 000 km,Niebieski,Używane,Automatyczna,Niemcy,31 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2020,150 KM,Diesel,Kompakt,96 681 km,Czarny,Używane,Automatyczna,Polska,87 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2011,143 KM,Benzyna,Sedan,245 000 km,Czarny,Używane,Manualna,Unknown,38 000PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),2 993 cm3,2003,204 KM,Diesel,Kombi,365 000 km,Srebrny,Używane,Automatyczna,Unknown,8 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 998 cm³,2014,184 KM,Diesel,Sedan,188 000 km,Czarny,Nieuszkodzony,Automatyczna,Unknown,64 500 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2022,150 KM,Diesel,Sedan,11 150 km,Biały,Używane,Automatyczna,Polska,194 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 796 cm³,2004,115 KM,Benzyna,Hatchback,200 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,4 750 zł,OLX
+BMW,Seria 3,Unknown,2 498 cm³,2003,192 KM,Benzyna,Kabriolet,190 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,11 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2002,143 KM,Benzyna,Coupe,300 000 km,Niebieski,Uszkodzony,Manualna,Unknown,5 000 zł,OLX
+BMW,Seria 3,Unknown,2 cm³,2005,170 KM,Benzyna,Kabriolet,111 200 km,Szary,Nieuszkodzony,Manualna,Wielka Brytania,13 500 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2015,252 KM,Benzyna,Sedan,130 000 km,Biały,Używane,Automatyczna,Stany Zjednoczone,49 400PLN,OTOMOTO
+BMW,Seria 3,Unknown,3 000 cm³,2002,231 KM,Benzyna,Kabriolet,105 000 km,Srebrny,Nieuszkodzony,Automatyczna,Stany Zjednoczone,39 500 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,184 KM,Diesel,Kombi,232 500 km,Czarny,Używane,Automatyczna,Niemcy,51 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 895 cm³,1998,118 KM,Benzyna,Sedan,222 752 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,5 200 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2015,252 KM,Benzyna,Sedan,130 000 km,Biały,Używane,Automatyczna,Stany Zjednoczone,49 400PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2020,190 KM,Diesel,Sedan,71 600 km,Czarny,Używane,Automatyczna,Unknown,132 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,177 KM,Diesel,Kombi,250 100 km,Czarny,Używane,Automatyczna,Unknown,19 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2010,143 KM,Benzyna,Sedan,143 000 km,Srebrny,Używane,Manualna,Unknown,27 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 996 cm3,2010,218 KM,Benzyna,Kombi,177 000 km,Srebrny,Używane,Automatyczna,Szwajcaria,32 900PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),2 171 cm3,2001,170 KM,Benzyna,Coupe,259 193 km,Szary,Używane,Automatyczna,Niemcy,15 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),2 979 cm3,2013,306 KM,Benzyna,Sedan,149 800 km,Szary,Używane,Manualna,Stany Zjednoczone,55 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,129 KM,Benzyna,Kombi,240 000 km,Czarny,Używane,Manualna,Niemcy,15 499PLN,OTOMOTO
+BMW,Seria 3,Unknown,3 000 cm³,2009,234 KM,Benzyna,Coupe,190 000 km,Szary,Nieuszkodzony,Automatyczna,Kanada,40 700 złdo negocjacji,OLX
+BMW,Seria 3,E46 (1998-2007),1 796 cm3,2003,115 KM,Benzyna+LPG,Sedan,238 000 km,Błękitny,Używane,Manualna,Belgia,7 300PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2003,149 KM,Diesel,Sedan,360 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,8 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2006,129 KM,Benzyna,Sedan,254 000 km,Szary,Nieuszkodzony,Manualna,Niemcy,17 600 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 951 cm³,2000,136 KM,Diesel,Kombi,344 000 km,Srebrny,Nieuszkodzony,Automatyczna,Unknown,6 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 996 cm³,2007,272 KM,LPG,Coupe,300 000 km,Inny kolor,Nieuszkodzony,Automatyczna,Niemcy,55 000 zł,OLX
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2020,190 KM,Diesel,Kombi,179 852 km,Szary,Używane,Automatyczna,Unknown,99 999PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2016,150 KM,Diesel,Sedan,243 000 km,Czarny,Używane,Automatyczna,Unknown,49 900PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),2 171 cm3,2003,170 KM,Benzyna+LPG,Sedan,302 021 km,Srebrny,Używane,Manualna,Niemcy,18 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2011,143 KM,Benzyna,Kombi,222 804 km,Złoty,Używane,Manualna,Unknown,22 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2017,150 KM,Diesel,Kombi,80 426 km,Srebrny,Używane,Automatyczna,Unknown,44 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2019,190 KM,Diesel,Kombi,197 832 km,Szary,Używane,Manualna,Belgia,102 500PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2023,258 KM,Benzyna,Kombi,11 300 km,Szary,Używane,Automatyczna,Polska,261 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2002,142 KM,Benzyna,Hatchback,222 000 km,Inny kolor,Nieuszkodzony,Automatyczna,Unknown,4 500 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2017,252 KM,Benzyna,Sedan,69 171 km,Czerwony,Używane,Automatyczna,Polska,106 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 796 cm³,2004,115 KM,Benzyna,Hatchback,200 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,4 750 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2013,184 KM,Diesel,Kombi,231 000 km,Biały,Nieuszkodzony,Automatyczna,Włochy,42 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 979 cm³,2002,231 KM,Benzyna,Coupe,220 000 km,Niebieski,Nieuszkodzony,Manualna,Francja,26 900 złdo negocjacji,OLX
+BMW,Seria 3,E46 (1998-2007),1 991 cm3,1998,150 KM,Benzyna+LPG,Sedan,304 000 km,Srebrny,Używane,Manualna,Niemcy,11 600PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 500 cm³,1997,170 KM,Benzyna,Sedan,300 000 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,9 000 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2017,190 KM,Diesel,Kombi,199 000 km,Szary,Używane,Automatyczna,Niemcy,69 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,143 KM,Diesel,Kombi,300 600 km,Biały,Używane,Automatyczna,Unknown,41 900PLN,OTOMOTO
+BMW,Seria 3,E30 (1982-1994),1 596 cm3,1989,99 KM,Benzyna,Sedan,171 000 km,Biały,Używane,Manualna,Unknown,37 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2003,150 KM,Diesel,Hatchback,250 000 km,Żółty – Złoty,Uszkodzony,Manualna,Unknown,3 200 złdo negocjacji,OLX
+BMW,Seria 3,E46 (1998-2007),1 895 cm3,1999,105 KM,Benzyna,Sedan,266 900 km,Czarny,Używane,Manualna,Unknown,3 750PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2007,129 KM,Benzyna,Kombi,211 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,16 800 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2009,116 KM,Diesel,Sedan,209 494 km,Srebrny,Nieuszkodzony,Manualna,Belgia,23 500 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2020,190 KM,Diesel,Kombi,56 000 km,Czarny,Używane,Automatyczna,Austria,152 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 200 cm³,2003,170 KM,LPG,Kombi,279 800 km,Srebrny,Nieuszkodzony,Automatyczna,Unknown,15 400 zł,OLX
+BMW,Seria 3,Unknown,2 993 cm³,2009,286 KM,Diesel,Sedan,251 000 km,Czarny,Nieuszkodzony,Automatyczna,Unknown,42 900 zł,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2014,143 KM,Diesel,Kombi,229 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,44 500 złdo negocjacji,OLX
+BMW,Seria 3,E46 (1998-2007),1 796 cm3,2003,115 KM,Benzyna,Sedan,240 000 km,Czarny,Używane,Manualna,Unknown,9 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,184 KM,Diesel,Kombi,187 000 km,Szary,Używane,Automatyczna,Polska,50 900PLN,OTOMOTO
+BMW,Seria 3,E30 (1982-1994),1 766 cm3,1985,105 KM,Benzyna,Sedan,124 000 km,Złoty,Używane,Manualna,Unknown,42 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2018,250 KM,Benzyna,Kombi,78 000 km,Szary,Nieuszkodzony,Automatyczna,Stany Zjednoczone,59 999 zł,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 979 cm3,2007,306 KM,Benzyna,Kabriolet,227 000 km,Czarny,Używane,Automatyczna,Unknown,59 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2016,190 KM,Diesel,Kombi,171 200 km,Niebieski,Używane,Automatyczna,Włochy,42 500PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2015,150 KM,Diesel,Sedan,164 000 km,Czarny,Używane,Automatyczna,Polska,64 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2008,143 KM,Diesel,Sedan,281 000 km,Inny kolor,Nieuszkodzony,Automatyczna,Unknown,15 700 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,Unknown,2007,177 KM,Diesel,Kombi,306 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,21 600 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 800 cm³,1997,115 KM,Benzyna,Kabriolet,186 450 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,32 000 zł,OLX
+BMW,Seria 3,Unknown,3 000 cm³,2002,231 KM,Benzyna,Kabriolet,105 000 km,Srebrny,Nieuszkodzony,Automatyczna,Stany Zjednoczone,39 500 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2013,185 KM,Diesel,Hatchback,310 000 km,Biały,Nieuszkodzony,Automatyczna,Unknown,68 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2003,120 KM,Diesel,Kombi,240 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,10 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 800 cm³,1997,115 KM,Benzyna,Kabriolet,186 450 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,32 000 zł,OLX
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2020,190 KM,Diesel,Kombi,150 212 km,Granatowy,Używane,Automatyczna,Niemcy,108 950PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,143 KM,Benzyna,Kombi,178 000 km,Czarny,Używane,Manualna,Unknown,24 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2015,190 KM,Diesel,Kombi,156 624 km,Czarny,Używane,Automatyczna,Polska,74 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 993 cm3,2010,245 KM,Diesel,Kombi,287 000 km,Srebrny,Używane,Automatyczna,Niemcy,40 600PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2010,115 KM,Diesel,Sedan,246 500 km,Biały,Używane,Manualna,Unknown,32 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2017,184 KM,Hybryda Plug-in,Sedan,108 000 km,Granatowy,Używane,Automatyczna,Polska,125 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 993 cm³,2011,245 KM,Diesel,Sedan,244 000 km,Szary,Nieuszkodzony,Automatyczna,Niemcy,45 900 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 499 cm3,2015,136 KM,Benzyna,Sedan,46 639 km,Biały,Używane,Automatyczna,Polska,69 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2005,140 KM,Benzyna,Kombi,234 000 km,Szary,Nieuszkodzony,Manualna,Niemcy,7 800 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2010,105 KM,Benzyna,Kombi,233 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,27 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2003,143 KM,Benzyna,Coupe,164 962 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,19 800 zł,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2001,143 KM,Diesel,Sedan,401 000 km,Niebieski,Nieuszkodzony,Manualna,Unknown,7 000 zł,OLX
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2023,190 KM,Diesel,Kombi,5 km,Biały,Nowe,Automatyczna,Polska,275 850PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 800 cm³,2002,115 KM,LPG,Kombi,270 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,7 000 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2017,150 KM,Diesel,Sedan,122 490 km,Czarny,Używane,Automatyczna,Polska,81 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2024,292 KM,Hybryda,Sedan,5 km,Czarny,Nowe,Automatyczna,Polska,312 200PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,150 KM,Benzyna,Sedan,252 417 km,Czarny,Używane,Manualna,Szwecja,23 500PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2023,184 KM,Benzyna,Kombi,18 360 km,Szary,Używane,Automatyczna,Polska,209 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2021,156 KM,Benzyna,Kombi,65 495 km,Szary,Używane,Automatyczna,Unknown,139 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2012,184 KM,Diesel,Kombi,219 000 km,Czarny,Używane,Manualna,Unknown,57 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 895 cm³,2001,76 KM,Benzyna,Sedan,270 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,3 000 zł,OLX
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2023,156 KM,Benzyna,Sedan,10 000 km,Szary,Używane,Automatyczna,Polska,199 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 796 cm³,2003,116 KM,Benzyna,Sedan,259 000 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,5 900 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2003,143 KM,Benzyna,Sedan,321 000 km,Srebrny,Nieuszkodzony,Manualna,Polska,7 900 zł,OLX
+BMW,Seria 3,Unknown,1 998 cm³,2006,127 KM,Benzyna,Kombi,230 000 km,Szary,Uszkodzony,Manualna,Niemcy,8 500 zł,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 497 cm3,2006,218 KM,Benzyna,Coupe,280 000 km,Srebrny,Używane,Manualna,Unknown,42 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 951 cm³,2002,116 KM,Diesel,Sedan,355 500 km,Czarny,Nieuszkodzony,Manualna,Niemcy,5 600 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2009,143 KM,Diesel,Kombi,278 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,14 900 zł,OLX
+BMW,Seria 3,Unknown,1 796 cm³,2002,115 KM,Benzyna,Sedan,221 648 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,13 000 złdo negocjacji,OLX
+BMW,Seria 3,E46 (1998-2007),2 494 cm3,2000,170 KM,Benzyna,Coupe,208 000 km,Szary,Używane,Automatyczna,Niemcy,22 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2016,150 KM,Diesel,Kombi,103 000 km,Czarny,Używane,Manualna,Unknown,31 700PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2015,245 KM,Benzyna,Sedan,157 151 km,Biały,Używane,Automatyczna,Stany Zjednoczone,62 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2021,184 KM,Hybryda Plug-in,Sedan,67 000 km,Biały,Używane,Automatyczna,Unknown,159 900PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),2 494 cm3,2001,192 KM,Benzyna,Kompakt,241 793 km,Niebieski,Używane,Manualna,Niemcy,14 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2012,143 KM,Diesel,Kombi,267 000 km,Czarny,Nieuszkodzony,Manualna,Francja,27 999 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2017,150 KM,Diesel,Coupe,180 000 km,Biały,Używane,Automatyczna,Polska,85 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 991 cm³,1996,149 KM,Benzyna,Sedan,356 300 km,Czarny,Nieuszkodzony,Manualna,Polska,26 500 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2015,136 KM,Diesel,Kombi,249 000 km,Czerwony,Używane,Automatyczna,Unknown,43 600PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 996 cm3,2010,218 KM,Benzyna,Coupe,211 000 km,Czarny,Używane,Manualna,Unknown,47 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2017,190 KM,Diesel,Kombi,158 000 km,Biały,Używane,Automatyczna,Polska,99 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2021,190 KM,Diesel,Sedan,159 000 km,Biały,Używane,Automatyczna,Unknown,105 999PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,143 KM,Diesel,Sedan,207 000 km,Czarny,Używane,Automatyczna,Francja,49 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2008,Unknown,Diesel,Kombi,280 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,19 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2009,170 KM,Benzyna,Sedan,156 500 km,Czarny,Uszkodzony,Manualna,Niemcy,16 500 złdo negocjacji,OLX
+BMW,Seria 3,E36 (1990-1999),2 793 cm3,1997,193 KM,Benzyna,Kabriolet,178 000 km,Srebrny,Używane,Manualna,Unknown,42 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2011,163 KM,Diesel,Kombi,299 500 km,Czarny,Używane,Manualna,Holandia,31 999PLN,OTOMOTO
+BMW,Seria 3,E36 (1990-1999),1 596 cm3,1996,102 KM,Benzyna,Coupe,154 000 km,Czerwony,Używane,Automatyczna,Unknown,18 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 800 cm³,1997,Unknown,Benzyna,Kabriolet,168 000 km,Inny kolor,Nieuszkodzony,Manualna,Polska,18 600 zł,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 979 cm3,2007,306 KM,Benzyna,Coupe,276 268 km,Szary,Używane,Manualna,Unknown,49 900PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),2 979 cm3,2003,231 KM,Benzyna,Kombi,181 000 km,Szary,Używane,Automatyczna,Szwajcaria,26 500PLN,OTOMOTO
+BMW,Seria 3,E36 (1990-1999),2 793 cm3,1997,193 KM,Benzyna,Kabriolet,178 000 km,Srebrny,Używane,Manualna,Unknown,42 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2011,163 KM,Diesel,Kombi,299 500 km,Czarny,Używane,Manualna,Holandia,31 999PLN,OTOMOTO
+BMW,Seria 3,E36 (1990-1999),1 596 cm3,1996,102 KM,Benzyna,Coupe,154 000 km,Czerwony,Używane,Automatyczna,Unknown,18 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 993 cm3,2009,197 KM,Diesel,Coupe,230 580 km,Biały,Używane,Manualna,Unknown,48 999PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2010,184 KM,Diesel,Sedan,266 252 km,Bordowy,Używane,Automatyczna,Unknown,35 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 800 cm³,2001,115 KM,Benzyna,Hatchback,174 808 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,5 800 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 990 cm3,2009,245 KM,Diesel,Sedan,288 000 km,Biały,Używane,Automatyczna,Unknown,52 500PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),1 995 cm3,2003,143 KM,Benzyna,Sedan,233 000 km,Srebrny,Używane,Manualna,Unknown,17 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2017,190 KM,Diesel,Kombi,260 000 km,Czarny,Używane,Automatyczna,Unknown,64 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),2 993 cm3,2014,313 KM,Diesel,Kombi,279 900 km,Czarny,Używane,Automatyczna,Belgia,74 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2000,136 KM,Diesel,Kombi,395 000 km,Srebrny,Nieuszkodzony,Manualna,Belgia,3 500 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2021,156 KM,Benzyna,Kombi,66 000 km,Szary,Używane,Automatyczna,Polska,124 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2005,150 KM,Diesel,Kombi,250 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,3 490 zł,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 996 cm3,2008,218 KM,Benzyna,Sedan,222 952 km,Srebrny,Używane,Manualna,Niemcy,32 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2005,150 KM,Diesel,Kombi,252 000 km,Czarny,Używane,Manualna,Unknown,15 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2024,156 KM,Benzyna,Sedan,1 km,Biały,Nowe,Automatyczna,Unknown,184 510PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 993 cm3,2005,231 KM,Diesel,Sedan,284 800 km,Szary,Używane,Automatyczna,Niemcy,28 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2019,190 KM,Diesel,Kombi,179 927 km,Srebrny,Używane,Automatyczna,Unknown,89 997PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 000 cm3,2011,170 KM,Benzyna,Kombi,152 000 km,Czarny,Używane,Manualna,Unknown,36 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2022,190 KM,Diesel,Sedan,100 000 km,Czarny,Używane,Automatyczna,Polska,167 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2012,188 KM,Diesel,Sedan,360 000 km,Biały,Nieuszkodzony,Automatyczna,Polska,47 990 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,184 KM,Diesel,Kombi,191 859 km,Srebrny,Używane,Automatyczna,Unknown,55 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 985 cm³,2003,150 KM,Diesel,Kombi,354 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,4 900 zł,OLX
+BMW,Seria 3,Unknown,1 796 cm³,2004,116 KM,Benzyna,Kombi,275 000 km,Zielony,Nieuszkodzony,Manualna,Niemcy,10 500 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2020,190 KM,Diesel,Kombi,189 035 km,Biały,Używane,Automatyczna,Polska,105 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,3 000 cm³,2002,231 KM,Benzyna,Kabriolet,105 000 km,Srebrny,Nieuszkodzony,Automatyczna,Stany Zjednoczone,39 500 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2008,170 KM,Benzyna,Kabriolet,175 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,37 600 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2008,177 KM,Diesel,Kombi,289 756 km,Srebrny,Używane,Automatyczna,Unknown,16 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2020,190 KM,Diesel,Sedan,41 960 km,Biały,Używane,Automatyczna,Polska,159 999PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2013,183 KM,Diesel,Kombi,180 000 km,Czarny,Używane,Automatyczna,Unknown,66 990PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2008,163 KM,Benzyna,Kombi,244 319 km,Czarny,Używane,Manualna,Niemcy,18 000PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2019,292 KM,Hybryda,Sedan,90 000 km,Granatowy,Używane,Automatyczna,Polska,129 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2023,150 KM,Diesel,Sedan,20 km,Biały,Nowe,Automatyczna,Unknown,217 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2013,143 KM,Diesel,Kombi,247 500 km,Czarny,Nieuszkodzony,Manualna,Belgia,35 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 996 cm³,2006,218 KM,Benzyna,Sedan,286 000 km,Żółty – Złoty,Nieuszkodzony,Automatyczna,Unknown,20 900 zł,OLX
+BMW,Seria 3,Unknown,3 000 cm³,2005,231 KM,Diesel,Kombi,368 000 km,Niebieski,Nieuszkodzony,Automatyczna,Unknown,17 400 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,184 KM,Diesel,Kombi,232 500 km,Czarny,Używane,Automatyczna,Niemcy,51 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2005,163 KM,Diesel,Sedan,365 134 km,Srebrny,Nieuszkodzony,Automatyczna,Niemcy,20 900 zł,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,163 KM,Diesel,Kombi,330 000 km,Czarny,Używane,Manualna,Niemcy,16 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2007,143 KM,Diesel,Sedan,220 000 km,Czarny,Używane,Manualna,Unknown,23 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2005,150 KM,Benzyna,Sedan,234 451 km,Czarny,Używane,Manualna,Niemcy,17 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 979 cm³,2014,306 KM,Benzyna,Kombi,247 000 km,Biały,Nieuszkodzony,Automatyczna,Polska,80 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 991 cm³,1994,149 KM,Benzyna,Coupe,149 500 km,Niebieski,Nieuszkodzony,Automatyczna,Niemcy,21 500 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2015,190 KM,Diesel,Kombi,209 000 km,Szary,Używane,Automatyczna,Unknown,60 800PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2023,184 KM,Benzyna,Kombi,17 861 km,Szary,Używane,Automatyczna,Polska,204 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2023,184 KM,Benzyna,Sedan,29 388 km,Szary,Używane,Automatyczna,Polska,199 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,163 KM,Diesel,Kombi,191 000 km,Szary,Używane,Automatyczna,Niemcy,49 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 800 cm³,2006,123 KM,Diesel,Sedan,365 022 km,Czarny,Nieuszkodzony,Manualna,Niemcy,16 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 800 cm³,1998,115 KM,Benzyna,Sedan,314 km,Czerwony,Nieuszkodzony,Manualna,Polska,4 950 zł,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2005,163 KM,Diesel,Sedan,352 km,Niebieski,Uszkodzony,Manualna,Unknown,17 400 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2008,177 KM,Diesel,Kombi,348 000 km,Srebrny,Nieuszkodzony,Manualna,Polska,22 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 997 cm³,2013,248 KM,Benzyna,Sedan,184 000 km,Szary,Nieuszkodzony,Automatyczna,Stany Zjednoczone,65 000 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,143 KM,Diesel,Kombi,214 000 km,Biały,Używane,Manualna,Włochy,41 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 cm³,2003,143 KM,Benzyna,Sedan,284 706 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,10 700 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2017,150 KM,Diesel,Kombi,203 000 km,Inny kolor,Używane,Automatyczna,Niemcy,55 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 796 cm³,2002,116 KM,LPG,Hatchback,290 000 km,Niebieski,Nieuszkodzony,Manualna,Polska,5 500 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2018,190 KM,Diesel,Sedan,93 000 km,Czarny,Używane,Automatyczna,Polska,81 999PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2012,177 KM,Diesel,Kombi,206 464 km,Szary,Używane,Automatyczna,Unknown,25 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 500 cm³,2007,218 KM,Benzyna,Coupe,265 000 km,Niebieski,Uszkodzony,Manualna,Wielka Brytania,10 500 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2008,177 KM,Diesel,Kombi,250 000 km,Szary,Używane,Manualna,Niemcy,24 999PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2013,184 KM,Diesel,Kombi,178 000 km,Biały,Nieuszkodzony,Manualna,Niemcy,50 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,3 000 cm³,1999,400 KM,Benzyna,Coupe,265 050 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,60 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 796 cm³,2004,116 KM,Benzyna,Kombi,275 000 km,Zielony,Nieuszkodzony,Manualna,Niemcy,10 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2013,184 KM,Diesel,Sedan,174 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,58 500 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2019,190 KM,Diesel,Kombi,59 822 km,Czarny,Używane,Automatyczna,Niemcy,97 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),2 998 cm3,2021,374 KM,Benzyna,Kombi,46 346 km,Szary,Używane,Automatyczna,Polska,257 999PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2013,148 KM,Diesel,Coupe,330 000 km,Czarny,Nieuszkodzony,Automatyczna,Unknown,49 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 998 cm3,2017,183 KM,Benzyna,Sedan,104 000 km,Biały,Używane,Automatyczna,Polska,95 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 926 cm³,2001,184 KM,Diesel,Kombi,506 000 km,Zielony,Nieuszkodzony,Manualna,Unknown,9 990 złdo negocjacji,OLX
+BMW,Seria 3,E36 (1990-1999),1 795 cm3,1993,113 KM,Benzyna,Sedan,163 700 km,Beżowy,Używane,Manualna,Niemcy,16 999PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2007,122 KM,Diesel,Sedan,249 500 km,Czarny,Nieuszkodzony,Manualna,Niemcy,17 900 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2018,150 KM,Diesel,Kombi,172 250 km,Biały,Używane,Automatyczna,Unknown,95 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 500 cm³,1999,170 KM,Benzyna,Coupe,318 000 km,Srebrny,Nieuszkodzony,Automatyczna,Unknown,15 000 złdo negocjacji,OLX
+BMW,Seria 3,E46 (1998-2007),1 895 cm3,1999,105 KM,Benzyna,Sedan,225 000 km,Czerwony,Używane,Automatyczna,Niemcy,6 900PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),2 979 cm3,2003,231 KM,Benzyna+LPG,Sedan,254 634 km,Srebrny,Używane,Automatyczna,Unknown,20 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,3 000 cm³,2012,258 KM,Diesel,Kombi,277 000 km,Biały,Nieuszkodzony,Automatyczna,Unknown,79 999 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 998 cm³,2017,185 KM,Diesel,Sedan,205 000 km,Biały,Nieuszkodzony,Automatyczna,Polska,72 900 zł,OLX
+BMW,Seria 3,G20/G21 (2019-),2 993 cm3,2023,286 KM,Diesel,Sedan,5 000 km,Szary,Używane,Automatyczna,Polska,299 000PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2023,245 KM,Benzyna,Sedan,10 km,Niebieski,Nowe,Automatyczna,Polska,297 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 993 cm3,2007,285 KM,Diesel,Kombi,357 700 km,Czarny,Używane,Automatyczna,Niemcy,54 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 596 cm³,1995,102 KM,Benzyna,Sedan,297 700 km,Zielony,Nieuszkodzony,Manualna,Niemcy,6 400 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,Unknown,1998,Unknown,LPG,Sedan,300 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,7 700 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2019,190 KM,Diesel,Kombi,95 348 km,Biały,Używane,Automatyczna,Polska,128 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 499 cm3,2019,136 KM,Benzyna,Kombi,156 200 km,Czarny,Używane,Manualna,Niemcy,59 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2023,190 KM,Diesel,Sedan,6 km,Niebieski,Nowe,Automatyczna,Unknown,259 000PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2023,184 KM,Benzyna,Kombi,18 345 km,Szary,Używane,Automatyczna,Polska,204 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2019,190 KM,Diesel,Kombi,88 871 km,Szary,Używane,Automatyczna,Unknown,129 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2023,156 KM,Benzyna,Sedan,8 000 km,Biały,Używane,Automatyczna,Polska,189 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,3 000 cm³,2003,231 KM,Benzyna,Coupe,141 223 km,Srebrny,Nieuszkodzony,Manualna,Wielka Brytania,13 700 zł,OLX
+BMW,Seria 3,Unknown,2 500 cm³,2001,192 KM,Benzyna,Coupe,284 500 km,Czarny,Nieuszkodzony,Manualna,Polska,15 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 951 cm³,2001,130 KM,Diesel,Sedan,300 000 km,Niebieski,Nieuszkodzony,Manualna,Unknown,4 300 zł,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2002,170 KM,Diesel,Kombi,420 000 km,Szary,Nieuszkodzony,Manualna,Unknown,9 999 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 200 cm³,2000,170 KM,Benzyna,Sedan,330 000 km,Zielony,Nieuszkodzony,Manualna,Unknown,8 900 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2005,150 KM,Diesel,Sedan,380 000 km,Czarny,Używane,Manualna,Hiszpania,9 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 796 cm³,2004,116 KM,Benzyna,Kombi,275 000 km,Zielony,Nieuszkodzony,Manualna,Niemcy,10 500 złdo negocjacji,OLX
+BMW,Seria 3,E46 (1998-2007),2 171 cm3,2004,170 KM,Benzyna,Kabriolet,297 800 km,Niebieski,Używane,Automatyczna,Unknown,24 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),2 993 cm3,2015,258 KM,Diesel,Kombi,334 608 km,Czarny,Używane,Automatyczna,Niemcy,62 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2012,183 KM,Diesel,Sedan,168 400 km,Czarny,Używane,Manualna,Unknown,52 000PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),2 171 cm3,2001,170 KM,Benzyna+LPG,Sedan,400 500 km,Błękitny,Używane,Manualna,Niemcy,25 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2008,177 KM,Diesel,Kombi,274 000 km,Granatowy,Używane,Manualna,Niemcy,20 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2011,143 KM,Diesel,Kombi,305 000 km,Biały,Używane,Manualna,Unknown,19 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2012,188 KM,Diesel,Sedan,360 000 km,Biały,Nieuszkodzony,Automatyczna,Polska,47 990 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 798 cm³,2004,115 KM,Benzyna,Sedan,239 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,5 990 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2006,163 KM,Diesel,Kombi,312 000 km,Niebieski,Nieuszkodzony,Automatyczna,Niemcy,18 600 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2011,143 KM,Diesel,Kombi,305 000 km,Biały,Używane,Manualna,Unknown,19 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2007,170 KM,Benzyna,Coupe,230 000 km,Szary,Uszkodzony,Manualna,Niemcy,17 900 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2016,184 KM,Benzyna,Sedan,114 000 km,Niebieski,Używane,Automatyczna,Unknown,69 999PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2020,184 KM,Benzyna,Kombi,80 000 km,Szary,Używane,Automatyczna,Polska,142 999PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,163 KM,Diesel,Kombi,277 000 km,Czarny,Używane,Manualna,Niemcy,41 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 500 cm³,2000,192 KM,Benzyna,Sedan,338 000 km,Czarny,Nieuszkodzony,Manualna,Polska,11 000 zł,OLX
+BMW,Seria 3,Unknown,1 900 cm³,1999,118 KM,LPG,Sedan,250 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,6 300 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 996 cm³,2009,170 KM,Diesel,Kombi,264 019 km,Szary,Nieuszkodzony,Automatyczna,Niemcy,39 000 zł,OLX
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2020,190 KM,Diesel,Kombi,189 035 km,Biały,Używane,Automatyczna,Polska,105 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2013,245 KM,Benzyna,Sedan,92 000 km,Srebrny,Używane,Automatyczna,Unknown,60 999PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2009,177 KM,Diesel,Kombi,290 000 km,Czerwony,Nieuszkodzony,Manualna,Słowacja,14 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2008,177 KM,Diesel,Kombi,230 000 km,Niebieski,Nieuszkodzony,Automatyczna,Unknown,21 000 zł,OLX
+BMW,Seria 3,Unknown,1 993 cm³,2014,143 KM,Diesel,Coupe,292 800 km,Czarny,Nieuszkodzony,Manualna,Niemcy,39 900 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2022,150 KM,Hybryda,Kombi,4 209 km,Biały,Używane,Automatyczna,Polska,171 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2023,150 KM,Benzyna,Kombi,10 000 km,Czarny,Używane,Automatyczna,Polska,226 800PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2002,143 KM,LPG,Hatchback,280 000 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,4 500 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2015,245 KM,Benzyna,Sedan,72 526 km,Biały,Używane,Automatyczna,Stany Zjednoczone,38 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,177 KM,Diesel,Coupe,255 000 km,Granatowy,Używane,Manualna,Niemcy,29 500PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 598 cm3,2013,170 KM,Benzyna,Sedan,223 500 km,Brązowy,Używane,Manualna,Holandia,44 500PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),2 998 cm3,2016,326 KM,Benzyna,Sedan,133 645 km,Srebrny,Używane,Manualna,Unknown,114 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2008,177 KM,Diesel,Kombi,430 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,14 500 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2013,116 KM,Diesel,Kombi,213 729 km,Czarny,Używane,Manualna,Unknown,32 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 599 cm³,1982,90 KM,Benzyna,Coupe,280 000 km,Zielony,Nieuszkodzony,Manualna,Unknown,16 500 zł,OLX
+BMW,Seria 3,Unknown,2 793 cm³,2000,193 KM,Benzyna,Sedan,326 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,13 500 zł,OLX
+BMW,Seria 3,Unknown,1 800 cm³,2006,129 KM,Benzyna,Kombi,230 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,14 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2006,163 KM,Diesel,Kombi,355 341 km,Szary,Nieuszkodzony,Manualna,Polska,11 000 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2021,190 KM,Diesel,Auta miejskie,83 000 km,Szary,Używane,Automatyczna,Polska,145 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2011,183 KM,Diesel,Kombi,238 146 km,Czarny,Nieuszkodzony,Automatyczna,Niemcy,29 900 zł,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2006,173 KM,Benzyna,Sedan,174 000 km,Biały,Nieuszkodzony,Manualna,Polska,24 900 zł,OLX
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2020,184 KM,Hybryda Plug-in,Sedan,64 000 km,Błękitny,Używane,Automatyczna,Belgia,95 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,Unknown,2010,335 KM,Benzyna,Kabriolet,207 231 km,Czarny,Nieuszkodzony,Automatyczna,Unknown,36 900 zł,OLX
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2022,156 KM,Benzyna,Sedan,13 440 km,Biały,Używane,Automatyczna,Polska,153 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 993 cm³,2003,204 KM,Diesel,Kombi,407 000 km,Czarny,Nieuszkodzony,Automatyczna,Unknown,19 500 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2013,143 KM,Diesel,Kombi,242 000 km,Szary,Nieuszkodzony,Manualna,Belgia,40 900 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2015,245 KM,Benzyna,Sedan,199 000 km,Czerwony,Używane,Automatyczna,Unknown,76 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 500 cm³,2006,218 KM,Benzyna,Sedan,175 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,49 990 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2007,170 KM,Benzyna,Coupe,302 km,Czarny,Nieuszkodzony,Manualna,Wielka Brytania,21 900 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2017,190 KM,Diesel,Sedan,148 000 km,Biały,Używane,Automatyczna,Polska,85 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 600 cm³,2008,110 KM,Benzyna,Sedan,255 000 km,Czarny,Uszkodzony,Manualna,Niemcy,6 999 zł,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2010,177 KM,Diesel,Kombi,267 000 km,Szary,Używane,Manualna,Unknown,23 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 895 cm³,2001,Unknown,Benzyna,Kombi,214 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,9 000 złdo negocjacji,OLX
+BMW,Seria 3,E30 (1982-1994),1 997 cm3,2016,184 KM,Benzyna,Sedan,141 000 km,Granatowy,Używane,Automatyczna,Unknown,69 999PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2007,170 KM,Benzyna,Coupe,291 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,29 777 zł,OLX
+BMW,Seria 3,G20/G21 (2019-),2 998 cm3,2022,374 KM,Benzyna,Sedan,29 773 km,Granatowy,Używane,Automatyczna,Polska,"325 969,14PLN",OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,129 KM,Benzyna,Kombi,153 000 km,Granatowy,Używane,Manualna,Niemcy,20 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2013,143 KM,Diesel,Kombi,188 000 km,Czarny,Używane,Automatyczna,Niemcy,52 500PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2019,190 KM,Diesel,Kombi,60 000 km,Szary,Używane,Automatyczna,Unknown,194 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,Unknown,2005,150 KM,Diesel,Sedan,356 100 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,18 999 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2020,190 KM,Diesel,Sedan,94 000 km,Czarny,Używane,Automatyczna,Polska,139 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2013,184 KM,Benzyna,Sedan,180 000 km,Szary,Nieuszkodzony,Automatyczna,Niemcy,57 950 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2018,150 KM,Diesel,Kombi,128 966 km,Srebrny,Używane,Automatyczna,Polska,69 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2007,170 KM,Benzyna,Coupe,291 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,29 777 zł,OLX
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2020,190 KM,Diesel,Sedan,94 000 km,Czarny,Używane,Automatyczna,Polska,139 500PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),2 998 cm3,2021,374 KM,Benzyna,Sedan,35 000 km,Niebieski,Używane,Automatyczna,Polska,259 000PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2020,190 KM,Diesel,Sedan,204 600 km,Czarny,Używane,Automatyczna,Dania,103 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 599 cm3,2009,122 KM,Benzyna,Kombi,259 720 km,Czarny,Używane,Manualna,Unknown,17 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,3 000 cm³,2001,231 KM,LPG,Sedan,432 000 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,28 800 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),2 993 cm3,2020,340 KM,Diesel,Sedan,98 450 km,Czarny,Używane,Automatyczna,Polska,"210 243,67PLN",OTOMOTO
+BMW,Seria 3,Unknown,1 796 cm³,2004,115 KM,Benzyna,Hatchback,194 740 km,Czarny,Nieuszkodzony,Manualna,Niemcy,7 000 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2016,184 KM,Benzyna,Sedan,107 000 km,Czarny,Używane,Automatyczna,Kanada,72 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2004,150 KM,Diesel,Kombi,270 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,11 300 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2018,190 KM,Diesel,Kombi,104 836 km,Srebrny,Używane,Automatyczna,Niemcy,69 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 997 cm³,2020,184 KM,Benzyna,Hatchback,73 500 km,Czarny,Nieuszkodzony,Automatyczna,Polska,115 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 600 cm³,1997,105 KM,Benzyna,Coupe,180 000 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,11 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2007,163 KM,Diesel,Kombi,254 000 km,Inny kolor,Uszkodzony,Automatyczna,Unknown,12 300 zł,OLX
+BMW,Seria 3,Unknown,2 793 cm³,1995,193 KM,Benzyna,Coupe,201 991 km,Zielony,Nieuszkodzony,Manualna,Niemcy,39 500 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2015,190 KM,Diesel,Kombi,255 000 km,Szary,Używane,Automatyczna,Unknown,56 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2007,163 KM,Diesel,Kombi,330 000 km,Czarny,Nieuszkodzony,Automatyczna,Włochy,21 500 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2012,163 KM,Diesel,Sedan,241 000 km,Szary,Używane,Automatyczna,Unknown,64 500PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2019,190 KM,Diesel,Sedan,50 000 km,Czarny,Używane,Automatyczna,Unknown,134 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2023,184 KM,Benzyna,Sedan,5 km,Szary,Nowe,Automatyczna,Unknown,254 200PLN,OTOMOTO
+BMW,Seria 3,Unknown,Unknown,2004,184 KM,Diesel,Kombi,390 000 km,Czarny,Nieuszkodzony,Automatyczna,Unknown,19 500 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 993 cm3,2009,245 KM,Diesel,Kombi,312 000 km,Czarny,Używane,Manualna,Niemcy,25 800PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2016,252 KM,Benzyna,Sedan,145 644 km,Srebrny,Używane,Automatyczna,Unknown,37 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2024,156 KM,Benzyna,Sedan,1 km,Czarny,Nowe,Automatyczna,Polska,189 995PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2011,142 KM,Diesel,Kombi,208 000 km,Szary,Nieuszkodzony,Manualna,Niemcy,28 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 998 cm³,1988,124 KM,Benzyna,Sedan,210 000 km,Szary,Nieuszkodzony,Manualna,Francja,30 500 zł,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2014,115 KM,Diesel,Kombi,149 000 km,Czarny,Nieuszkodzony,Manualna,Holandia,42 900 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2022,184 KM,Benzyna,Kombi,40 462 km,Czarny,Używane,Automatyczna,Polska,149 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 499 cm3,2016,136 KM,Benzyna,Sedan,187 000 km,Czarny,Używane,Manualna,Polska,52 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2015,190 KM,Diesel,Kombi,177 000 km,Czarny,Używane,Automatyczna,Niemcy,69 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2015,116 KM,Diesel,Kombi,196 643 km,Biały,Nieuszkodzony,Automatyczna,Niemcy,49 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 600 cm³,2008,110 KM,Benzyna,Sedan,255 000 km,Czarny,Uszkodzony,Manualna,Niemcy,6 999 zł,OLX
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2019,190 KM,Diesel,Kombi,129 500 km,Czarny,Używane,Automatyczna,Dania,96 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2007,129 KM,Benzyna,Sedan,208 000 km,Srebrny,Używane,Manualna,Niemcy,17 500PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2010,183 KM,Diesel,Kombi,340 000 km,Granatowy,Używane,Manualna,Unknown,31 365PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,170 KM,Benzyna,Coupe,170 000 km,Czarny,Używane,Manualna,Niemcy,37 800PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2011,143 KM,Diesel,Kombi,329 000 km,Zielony,Używane,Manualna,Niemcy,14 600PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2002,150 KM,Diesel,Kombi,501 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,5 600 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2006,147 KM,Diesel,Kombi,330 000 km,Inny kolor,Nieuszkodzony,Manualna,Polska,12 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2005,200 KM,Diesel,Sedan,390 000 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,13 500 złdo negocjacji,OLX
+BMW,Seria 3,E46 (1998-2007),1 895 cm3,1998,118 KM,Benzyna,Sedan,290 000 km,Srebrny,Używane,Manualna,Niemcy,6 600PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2009,143 KM,Diesel,Kombi,298 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,19 800 zł,OLX
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2024,245 KM,Benzyna,Sedan,1 km,Biały,Nowe,Automatyczna,Polska,249 060PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2021,190 KM,Diesel,Kombi,17 063 km,Szary,Używane,Automatyczna,Niemcy,142 700PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2013,122 KM,Diesel,Sedan,194 000 km,Srebrny,Używane,Manualna,Belgia,40 890PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 900 cm³,1999,106 KM,Benzyna,Hatchback,252 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,6 000 zł,OLX
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2020,258 KM,Benzyna,Sedan,142 100 km,Czarny,Używane,Automatyczna,Polska,121 800PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),2 993 cm3,2013,258 KM,Diesel,Kombi,213 000 km,Czarny,Używane,Automatyczna,Unknown,65 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,163 KM,Diesel,Kombi,406 500 km,Czarny,Używane,Manualna,Unknown,9 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2011,143 KM,Benzyna,Sedan,205 500 km,Czarny,Nieuszkodzony,Manualna,Niemcy,27 200 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 800 cm³,1999,193 KM,Benzyna,Sedan,231 000 km,Biały,Nieuszkodzony,Manualna,Polska,13 500 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 000 cm3,2011,170 KM,Benzyna,Kombi,152 000 km,Czarny,Używane,Manualna,Unknown,36 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 500 cm³,2006,218 KM,LPG,Coupe,263 000 km,Czerwony,Nieuszkodzony,Manualna,Unknown,30 900 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2020,258 KM,Benzyna,Sedan,142 100 km,Czarny,Używane,Automatyczna,Polska,121 800PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),2 993 cm3,2013,258 KM,Diesel,Kombi,213 000 km,Czarny,Używane,Automatyczna,Unknown,65 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,163 KM,Diesel,Kombi,406 500 km,Czarny,Używane,Manualna,Unknown,9 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2011,143 KM,Benzyna,Sedan,205 500 km,Czarny,Nieuszkodzony,Manualna,Niemcy,27 200 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2007,177 KM,Diesel,Coupe,247 000 km,Szary,Używane,Automatyczna,Niemcy,29 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2007,122 KM,Diesel,Sedan,365 000 km,Czarny,Używane,Manualna,Belgia,19 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 497 cm3,2006,218 KM,Benzyna+LPG,Kombi,272 329 km,Czarny,Używane,Automatyczna,Włochy,26 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2015,136 KM,Diesel,Hatchback,210 000 km,Czarny,Nieuszkodzony,Automatyczna,Polska,57 000 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2010,177 KM,Diesel,Kombi,284 000 km,Czarny,Używane,Manualna,Niemcy,29 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,143 KM,Diesel,Kombi,270 000 km,Czarny,Używane,Manualna,Niemcy,19 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 500 cm³,2007,218 KM,Benzyna,Coupe,265 000 km,Niebieski,Uszkodzony,Manualna,Wielka Brytania,10 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 800 cm³,2005,116 KM,Benzyna,Kombi,246 655 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,9 900 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2013,184 KM,Diesel,Kombi,327 000 km,Biały,Nieuszkodzony,Automatyczna,Niemcy,42 500 zł,OLX
+BMW,Seria 3,E46 (1998-2007),1 995 cm3,2003,150 KM,Diesel,Kombi,338 984 km,Srebrny,Używane,Automatyczna,Unknown,10 200PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2012,184 KM,Benzyna,Sedan,154 000 km,Szary,Nieuszkodzony,Automatyczna,Polska,42 000 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2008,143 KM,Benzyna,Sedan,285 000 km,Srebrny,Używane,Manualna,Unknown,21 900PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),2 494 cm3,2001,192 KM,Benzyna,Kabriolet,350 000 km,Czarny,Używane,Manualna,Unknown,12 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2012,115 KM,Diesel,Sedan,193 700 km,Inny kolor,Nieuszkodzony,Manualna,Belgia,44 500 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2016,245 KM,Benzyna,Sedan,88 000 km,Czerwony,Używane,Automatyczna,Unknown,78 800PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 997 cm³,2014,295 KM,Benzyna,Sedan,198 000 km,Szary,Nieuszkodzony,Automatyczna,Polska,80 000 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2024,156 KM,Benzyna,Sedan,1 km,Szary,Nowe,Automatyczna,Polska,184 884PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2012,190 KM,Diesel,Kombi,340 000 km,Biały,Używane,Automatyczna,Unknown,49 999PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2011,143 KM,Diesel,Kombi,296 100 km,Szary,Nieuszkodzony,Manualna,Niemcy,32 900 złdo negocjacji,OLX
+BMW,Seria 3,E46 (1998-2007),1 951 cm3,1999,136 KM,Diesel,Kombi,220 000 km,Srebrny,Używane,Manualna,Unknown,4 999PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2014,180 KM,Diesel,Sedan,230 000 km,Szary,Nieuszkodzony,Automatyczna,Belgia,53 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2003,149 KM,Diesel,Kombi,380 km,Szary,Nieuszkodzony,Manualna,Unknown,4 600 zł,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2008,177 KM,Diesel,Sedan,180 000 km,Fioletowy,Używane,Manualna,Unknown,8 500PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),2 998 cm3,2024,374 KM,Benzyna,Sedan,1 km,Czarny,Nowe,Automatyczna,Polska,310 845PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 600 cm³,1997,Unknown,Benzyna,Sedan,197 000 km,Czerwony,Nieuszkodzony,Manualna,Francja,1 100 zł,OLX
+BMW,Seria 3,Unknown,1 800 cm³,1992,113 KM,Benzyna,Kombi,396 640 km,Biały,Nieuszkodzony,Manualna,Niemcy,16 900 zł,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2013,140 KM,Diesel,Kombi,314 000 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,37 000 zł,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,129 KM,Benzyna,Sedan,174 000 km,Czarny,Używane,Manualna,Niemcy,20 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2011,143 KM,Diesel,Kombi,284 510 km,Fioletowy,Używane,Manualna,Unknown,19 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2007,143 KM,Diesel,Sedan,371 500 km,Czarny,Używane,Manualna,Unknown,19 000PLN,OTOMOTO
+BMW,Seria 3,E36 (1990-1999),2 793 cm3,1996,193 KM,Benzyna,Kabriolet,92 174 km,Inny kolor,Używane,Automatyczna,Unknown,59 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2016,245 KM,Benzyna,Sedan,126 000 km,Biały,Używane,Automatyczna,Stany Zjednoczone,73 800PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2006,129 KM,Benzyna,Sedan,270 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,17 500 zł,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2005,Unknown,LPG,Sedan,270 km,Srebrny,Nieuszkodzony,Manualna,Polska,11 900 zł,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2013,184 KM,Benzyna,Sedan,180 000 km,Szary,Nieuszkodzony,Automatyczna,Niemcy,57 950 zł,OLX
+BMW,Seria 3,Unknown,1 998 cm³,2016,183 KM,Benzyna,Sedan,161 500 km,Czarny,Nieuszkodzony,Automatyczna,Polska,59 900 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2020,156 KM,Benzyna,Sedan,85 200 km,Biały,Używane,Automatyczna,Polska,127 400PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2019,190 KM,Diesel,Kombi,116 300 km,Szary,Używane,Automatyczna,Niemcy,139 851PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2008,170 KM,Benzyna,Coupe,270 000 km,Czarny,Używane,Manualna,Niemcy,34 900PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),1 895 cm3,2001,118 KM,Benzyna+LPG,Kombi,172 000 km,Niebieski,Używane,Manualna,Niemcy,5 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2003,142 KM,LPG,Kombi,266 570 km,Srebrny,Nieuszkodzony,Automatyczna,Niemcy,15 500 zł,OLX
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2024,184 KM,Benzyna,Sedan,5 km,Czarny,Nowe,Automatyczna,Polska,301 100PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 500 cm³,2000,171 KM,Benzyna,Sedan,212 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,14 500 zł,OLX
+BMW,Seria 3,Unknown,2 996 cm³,2005,Unknown,Benzyna,Sedan,261 141 km,Czarny,Nieuszkodzony,Automatyczna,Unknown,35 500 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,143 KM,Benzyna,Kombi,225 000 km,Czarny,Używane,Manualna,Unknown,24 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2008,170 KM,Diesel,Kombi,375 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,16 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2008,170 KM,Benzyna,Sedan,125 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,25 500 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,184 KM,Diesel,Sedan,220 000 km,Granatowy,Używane,Automatyczna,Unknown,61 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,143 KM,Benzyna,Kombi,225 000 km,Czarny,Używane,Manualna,Unknown,24 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 500 cm³,2003,170 KM,LPG,Sedan,373 000 km,Szary,Nieuszkodzony,Manualna,Unknown,10 000 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2007,129 KM,Benzyna,Sedan,134 000 km,Srebrny,Używane,Manualna,Unknown,23 800PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2003,116 KM,Diesel,Sedan,240 200 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,12 500 zł,OLX
+BMW,Seria 3,Unknown,1 895 cm³,1999,118 KM,Benzyna,Sedan,278 111 km,Inny kolor,Nieuszkodzony,Manualna,Polska,5 000 zł,OLX
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2020,184 KM,Hybryda,Kombi,80 000 km,Biały,Używane,Automatyczna,Unknown,28 500PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2023,190 KM,Diesel,Sedan,24 922 km,Czarny,Używane,Automatyczna,Unknown,226 900PLN,OTOMOTO
+BMW,Seria 3,E36 (1990-1999),1 895 cm3,2000,105 KM,Benzyna,Kompakt,176 000 km,Bordowy,Używane,Manualna,Niemcy,23 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2005,143 KM,Benzyna,Kabriolet,291 098 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,15 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2000,143 KM,Benzyna,Kombi,218 000 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,16 600 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2012,143 KM,Diesel,Sedan,261 000 km,Czarny,Nieuszkodzony,Manualna,Belgia,49 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 800 cm³,1988,105 KM,Benzyna,Sedan,274 000 km,Żółty – Złoty,Nieuszkodzony,Manualna,Unknown,18 900 zł,OLX
+BMW,Seria 3,Unknown,1 996 cm³,2008,177 KM,Diesel,Kombi,320 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,12 900 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),2 979 cm3,2016,306 KM,Benzyna,Sedan,59 757 km,Biały,Używane,Automatyczna,Unknown,55 910PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2008,177 KM,Diesel,Kombi,240 000 km,Czarny,Używane,Automatyczna,Niemcy,17 950PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 996 cm3,2008,218 KM,Benzyna,Sedan,228 400 km,Biały,Używane,Automatyczna,Szwajcaria,41 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 996 cm3,2008,218 KM,Benzyna,Kombi,225 000 km,Szary,Używane,Automatyczna,Szwajcaria,18 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 996 cm3,2008,218 KM,Benzyna,Kombi,225 000 km,Szary,Używane,Automatyczna,Szwajcaria,18 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2013,184 KM,Benzyna,Coupe,166 000 km,Czarny,Używane,Automatyczna,Polska,63 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2014,143 KM,Diesel,Kombi,195 337 km,Biały,Nieuszkodzony,Manualna,Niemcy,35 000 zł,OLX
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2020,190 KM,Diesel,Kombi,189 338 km,Szary,Używane,Automatyczna,Unknown,112 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2021,190 KM,Diesel,Sedan,123 000 km,Czarny,Używane,Manualna,Polska,112 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2015,190 KM,Diesel,Kombi,155 700 km,Biały,Używane,Automatyczna,Polska,77 700PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2013,184 KM,Diesel,Kombi,327 000 km,Biały,Nieuszkodzony,Automatyczna,Niemcy,42 500 zł,OLX
+BMW,Seria 3,Unknown,1 800 cm³,2004,116 KM,Benzyna,Sedan,272 km,Srebrny,Nieuszkodzony,Manualna,Unknown,8 999 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2005,Unknown,LPG,Sedan,270 km,Srebrny,Nieuszkodzony,Manualna,Polska,11 900 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2018,252 KM,Benzyna,Sedan,78 473 km,Srebrny,Używane,Automatyczna,Polska,99 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2014,Unknown,Diesel,Kombi,267 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,39 900 zł,OLX
+BMW,Seria 3,E46 (1998-2007),1 995 cm3,2003,143 KM,Benzyna,Kabriolet,158 000 km,Srebrny,Używane,Manualna,Unknown,15 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2016,150 KM,Diesel,Sedan,163 560 km,Srebrny,Używane,Automatyczna,Unknown,87 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 993 cm3,2006,231 KM,Diesel,Coupe,393 000 km,Czarny,Używane,Automatyczna,Unknown,32 500PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2017,150 KM,Diesel,Sedan,96 000 km,Biały,Używane,Automatyczna,Polska,95 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2007,122 KM,Diesel,Kombi,320 000 km,Czarny,Używane,Manualna,Holandia,14 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2019,190 KM,Diesel,Kombi,98 800 km,Czarny,Używane,Automatyczna,Polska,123 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,163 KM,Diesel,Kombi,285 999 km,Złoty,Używane,Manualna,Holandia,23 500PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 979 cm3,2009,306 KM,Benzyna,Kabriolet,98 000 km,Biały,Używane,Automatyczna,Niemcy,70 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2007,150 KM,Benzyna,Sedan,160 100 km,Srebrny,Nieuszkodzony,Manualna,Unknown,9 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2011,170 KM,Benzyna,Sedan,204 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,29 900 zł,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2003,143 KM,LPG,Sedan,309 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,9 700 zł,OLX
+BMW,Seria 3,Unknown,1 991 cm³,1991,129 KM,Benzyna,Kabriolet,154 850 km,Zielony,Nieuszkodzony,Manualna,Niemcy,84 900 złdo negocjacji,OLX
+BMW,Seria 3,E46 (1998-2007),2 793 cm3,1999,193 KM,Benzyna,Coupe,298 000 km,Czarny,Używane,Manualna,Unknown,15 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2018,252 KM,Benzyna,Auta miejskie,101 000 km,Srebrny,Używane,Automatyczna,Stany Zjednoczone,85 500PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2010,143 KM,Benzyna,Kombi,125 000 km,Biały,Używane,Manualna,Niemcy,30 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2010,183 KM,Diesel,Kombi,267 000 km,Szary,Używane,Manualna,Niemcy,24 700PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),1 995 cm3,2002,150 KM,Diesel,Sedan,200 000 km,Czarny,Używane,Automatyczna,Niemcy,12 999PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2019,183 KM,Benzyna,Sedan,70 000 km,Biały,Używane,Automatyczna,Unknown,145 000PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2024,150 KM,Diesel,Sedan,5 km,Szary,Nowe,Automatyczna,Polska,260 100PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2022,190 KM,Diesel,Sedan,23 486 km,Czarny,Używane,Automatyczna,Polska,189 850PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,177 KM,Diesel,Kombi,268 000 km,Srebrny,Używane,Manualna,Unknown,24 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2014,184 KM,Diesel,Sedan,204 km,Inny kolor,Nieuszkodzony,Automatyczna,Wielka Brytania,22 500 zł,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2013,140 KM,Diesel,Kombi,314 000 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,37 000 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2003,149 KM,Diesel,Sedan,343 200 km,Czarny,Nieuszkodzony,Automatyczna,Niemcy,17 000 zł,OLX
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2022,190 KM,Diesel,Sedan,23 486 km,Czarny,Używane,Automatyczna,Polska,189 850PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,177 KM,Diesel,Kombi,268 000 km,Srebrny,Używane,Manualna,Unknown,24 000PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),2 993 cm3,2022,285 KM,Diesel,Kombi,10 500 km,Czarny,Używane,Automatyczna,Niemcy,272 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 993 cm3,2006,231 KM,Diesel,Kombi,439 600 km,Czarny,Używane,Automatyczna,Unknown,17 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 998 cm³,2010,Unknown,Diesel,Sedan,240 000 km,Czarny,Uszkodzony,Manualna,Belgia,15 500 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2018,150 KM,Diesel,Sedan,165 280 km,Biały,Używane,Automatyczna,Unknown,77 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2009,143 KM,Diesel,Sedan,218 800 km,Biały,Nieuszkodzony,Manualna,Unknown,27 999 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2021,184 KM,Hybryda Plug-in,Sedan,49 500 km,Szary,Używane,Automatyczna,Niemcy,159 600PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),2 979 cm3,2001,231 KM,Benzyna,Coupe,208 800 km,Srebrny,Używane,Automatyczna,Unknown,25 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2001,143 KM,LPG,Sedan,297 000 km,Niebieski,Uszkodzony,Manualna,Inny,4 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2014,115 KM,Diesel,Kombi,149 000 km,Czarny,Nieuszkodzony,Manualna,Holandia,42 900 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2020,150 KM,Diesel,Kombi,187 935 km,Czarny,Używane,Automatyczna,Unknown,114 999PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2012,215 KM,Diesel,Kabriolet,189 400 km,Czarny,Nieuszkodzony,Automatyczna,Niemcy,100 000 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 979 cm3,2012,306 KM,Benzyna,Coupe,171 997 km,Niebieski,Używane,Automatyczna,Unknown,34 000PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2020,156 KM,Benzyna,Sedan,85 135 km,Biały,Używane,Automatyczna,Polska,112 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2011,200 KM,Diesel,Sedan,330 000 km,Czarny,Nieuszkodzony,Manualna,Holandia,35 000 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2012,143 KM,Benzyna,Kombi,144 000 km,Szary,Używane,Manualna,Niemcy,32 999PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2006,150 KM,Benzyna,Sedan,249 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,17 999 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2022,184 KM,Hybryda,Kombi,4 000 km,Szary,Nowe,Automatyczna,Polska,335 100PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2023,156 KM,Benzyna,Sedan,12 378 km,Biały,Używane,Automatyczna,Polska,189 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2024,292 KM,Hybryda Plug-in,Sedan,10 km,Niebieski,Nowe,Automatyczna,Polska,264 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 499 cm3,2018,136 KM,Benzyna,Sedan,86 431 km,Czarny,Używane,Automatyczna,Polska,84 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,143 KM,Diesel,Sedan,364 073 km,Czarny,Używane,Automatyczna,Unknown,34 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2017,252 KM,Benzyna,Kompakt,75 000 km,Biały,Używane,Automatyczna,Unknown,89 999PLN,OTOMOTO
+BMW,Seria 3,Unknown,Unknown,2005,150 KM,Benzyna,Sedan,262 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,16 000 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2013,116 KM,Diesel,Kombi,229 000 km,Biały,Używane,Manualna,Niemcy,43 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 800 cm³,1999,193 KM,Benzyna,Coupe,300 000 km,Biały,Nieuszkodzony,Manualna,Niemcy,60 000 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),2 979 cm3,2014,306 KM,Benzyna,Sedan,148 845 km,Biały,Używane,Automatyczna,Unknown,44 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 598 cm3,2013,136 KM,Benzyna,Sedan,207 000 km,Biały,Używane,Manualna,Unknown,46 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 998 cm³,2009,145 KM,Benzyna,Sedan,206 000 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,19 900 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),2 979 cm3,2013,306 KM,Benzyna,Sedan,156 966 km,Czerwony,Używane,Automatyczna,Unknown,38 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2005,163 KM,Diesel,Sedan,352 km,Niebieski,Uszkodzony,Manualna,Unknown,17 400 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 991 cm³,1999,149 KM,Benzyna,Coupe,237 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,9 600 zł,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 979 cm3,2010,306 KM,Benzyna,Kabriolet,76 000 km,Biały,Używane,Automatyczna,Unknown,68 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,163 KM,Diesel,Kombi,330 000 km,Czarny,Używane,Manualna,Niemcy,16 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2015,245 KM,Benzyna,Sedan,275 000 km,Niebieski,Używane,Automatyczna,Stany Zjednoczone,65 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,3 000 cm³,2006,197 KM,Diesel,Sedan,370 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,24 900 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2012,150 KM,Diesel,Sedan,305 000 km,Szary,Nieuszkodzony,Automatyczna,Unknown,40 500 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2012,184 KM,Diesel,Sedan,150 800 km,Brązowy,Używane,Manualna,Niemcy,55 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 993 cm3,2007,197 KM,Diesel,Kombi,298 161 km,Srebrny,Używane,Automatyczna,Unknown,35 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2007,150 KM,LPG,Sedan,215 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,21 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2002,150 KM,Diesel,Sedan,308 000 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,8 999 zł,OLX
+BMW,Seria 3,E46 (1998-2007),1 995 cm3,2006,150 KM,Benzyna,Kabriolet,280 000 km,Inny kolor,Używane,Manualna,Niemcy,25 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2022,184 KM,Benzyna,Sedan,4 000 km,Czarny,Nowe,Automatyczna,Polska,244 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2011,183 KM,Diesel,Kombi,236 000 km,Srebrny,Używane,Automatyczna,Niemcy,28 500PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,177 KM,Diesel,Kombi,351 000 km,Czarny,Używane,Manualna,Unknown,25 500PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),2 979 cm3,2015,306 KM,Benzyna,Sedan,192 716 km,Szary,Używane,Automatyczna,Unknown,39 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 996 cm³,2003,143 KM,LPG,Kombi,229 000 km,Szary,Nieuszkodzony,Manualna,Niemcy,9 300 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2017,150 KM,Diesel,Kombi,109 587 km,Granatowy,Używane,Automatyczna,Unknown,69 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 800 cm³,2004,Unknown,LPG,Sedan,264 000 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,5 500 zł,OLX
+BMW,Seria 3,Unknown,2 500 cm³,2006,218 KM,Benzyna,Sedan,175 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,49 990 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2014,250 KM,Benzyna,Hatchback,212 000 km,Szary,Nieuszkodzony,Automatyczna,Stany Zjednoczone,53 900 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2011,183 KM,Diesel,Kombi,236 000 km,Srebrny,Używane,Automatyczna,Niemcy,28 500PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,177 KM,Diesel,Kombi,351 000 km,Czarny,Używane,Manualna,Unknown,25 500PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),2 979 cm3,2015,306 KM,Benzyna,Sedan,192 716 km,Szary,Używane,Automatyczna,Unknown,39 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 996 cm³,2003,143 KM,LPG,Kombi,229 000 km,Szary,Nieuszkodzony,Manualna,Niemcy,9 300 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2017,150 KM,Diesel,Kombi,109 587 km,Granatowy,Używane,Automatyczna,Unknown,69 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2007,177 KM,Diesel,Coupe,267 000 km,Czarny,Nieuszkodzony,Automatyczna,Unknown,34 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 997 cm³,2003,184 KM,Diesel,Sedan,289 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,22 900 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2012,184 KM,Diesel,Kombi,244 000 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,46 500 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2015,190 KM,Diesel,Kombi,197 000 km,Czarny,Używane,Manualna,Belgia,54 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,184 KM,Diesel,Kombi,239 000 km,Biały,Używane,Automatyczna,Polska,49 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2009,105 KM,Diesel,Kombi,273 500 km,Czarny,Nieuszkodzony,Manualna,Niemcy,29 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,3 000 cm³,2005,258 KM,LPG,Sedan,249 000 km,Szary,Nieuszkodzony,Manualna,Unknown,24 999 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2011,116 KM,Diesel,Sedan,289 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,29 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 993 cm³,2006,231 KM,Diesel,Kombi,358 000 km,Srebrny,Nieuszkodzony,Automatyczna,Unknown,25 999 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2017,150 KM,Diesel,Kombi,255 000 km,Biały,Nieuszkodzony,Automatyczna,Niemcy,49 000 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2019,190 KM,Diesel,Sedan,142 000 km,Szary,Używane,Automatyczna,Niemcy,133 800PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),2 998 cm3,2022,374 KM,Benzyna,Kombi,48 000 km,Niebieski,Używane,Automatyczna,Unknown,265 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2011,163 KM,Diesel,Kombi,328 000 km,Biały,Używane,Manualna,Niemcy,27 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,3 000 cm³,2002,231 KM,Benzyna,Kabriolet,105 000 km,Srebrny,Nieuszkodzony,Automatyczna,Stany Zjednoczone,39 500 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2016,190 KM,Diesel,Kombi,251 875 km,Biały,Używane,Manualna,Unknown,62 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2009,177 KM,Diesel,Sedan,230 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,31 800 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2011,184 KM,Diesel,Coupe,220 000 km,Czarny,Nieuszkodzony,Manualna,Belgia,39 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2003,200 KM,Diesel,Sedan,290 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,8 700 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,1999,150 KM,Benzyna,Sedan,345 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,3 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 200 cm³,2002,170 KM,Benzyna,Coupe,310 000 km,Czarny,Nieuszkodzony,Automatyczna,Niemcy,15 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2014,115 KM,Diesel,Kombi,149 000 km,Czarny,Nieuszkodzony,Manualna,Holandia,42 900 złdo negocjacji,OLX
+BMW,Seria 3,E46 (1998-2007),2 494 cm3,2003,192 KM,Benzyna+LPG,Kompakt,203 000 km,Srebrny,Używane,Manualna,Unknown,13 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 793 cm³,1995,193 KM,Benzyna,Kombi,319 500 km,Niebieski,Nieuszkodzony,Manualna,Unknown,23 328 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2021,190 KM,Diesel,Sedan,120 225 km,Niebieski,Używane,Automatyczna,Polska,149 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2020,190 KM,Diesel,Kombi,159 142 km,Niebieski,Używane,Automatyczna,Polska,109 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2012,143 KM,Diesel,Sedan,203 450 km,Inny kolor,Używane,Manualna,Belgia,36 700PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2017,252 KM,Benzyna,Sedan,57 000 km,Czarny,Używane,Automatyczna,Unknown,125 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2003,143 KM,Benzyna,Kabriolet,262 000 km,Czarny,Nieuszkodzony,Manualna,Dania,22 000 zł,OLX
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2022,184 KM,Benzyna,Sedan,21 650 km,Biały,Używane,Automatyczna,Polska,169 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 599 cm3,2009,122 KM,Benzyna,Sedan,199 500 km,Czarny,Używane,Manualna,Austria,27 200PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2007,163 KM,Diesel,Kombi,316 000 km,Brązowy – Beżowy,Nieuszkodzony,Manualna,Niemcy,17 000 zł,OLX
+BMW,Seria 3,Unknown,1 796 cm³,2003,116 KM,Benzyna,Sedan,259 000 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,5 900 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2012,143 KM,Diesel,Kombi,267 000 km,Czarny,Nieuszkodzony,Manualna,Francja,27 999 zł,OLX
+BMW,Seria 3,Unknown,3 000 cm³,2007,197 KM,Diesel,Kombi,280 000 km,Niebieski,Nieuszkodzony,Automatyczna,Niemcy,25 000 zł,OLX
+BMW,Seria 3,Unknown,3 000 cm³,2005,258 KM,LPG,Sedan,249 000 km,Szary,Nieuszkodzony,Manualna,Unknown,24 999 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 998 cm³,2007,177 KM,Diesel,Kombi,250 500 km,Brązowy – Beżowy,Nieuszkodzony,Manualna,Unknown,19 500 zł,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2010,143 KM,Diesel,Kombi,273 000 km,Czarny,Używane,Manualna,Unknown,21 600PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2007,163 KM,Diesel,Kombi,338 812 km,Czarny,Nieuszkodzony,Manualna,Unknown,20 400 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2020,184 KM,Benzyna,Sedan,116 000 km,Biały,Używane,Automatyczna,Polska,136 530PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2007,170 KM,Benzyna,Kabriolet,240 000 km,Biały,Uszkodzony,Manualna,Niemcy,26 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2003,130 KM,Diesel,Coupe,370 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,4 300 zł,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2007,177 KM,Diesel,Sedan,396 000 km,Czarny,Używane,Automatyczna,Unknown,7 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 598 cm3,2014,136 KM,Benzyna,Sedan,182 000 km,Biały,Używane,Automatyczna,Polska,49 990PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2018,184 KM,Hybryda Plug-in,Sedan,86 000 km,Szary,Używane,Automatyczna,Polska,115 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 951 cm³,2000,136 KM,Diesel,Kombi,344 000 km,Srebrny,Nieuszkodzony,Automatyczna,Unknown,6 500 złdo negocjacji,OLX
+BMW,Seria 3,E46 (1998-2007),2 793 cm3,2000,193 KM,Benzyna,Coupe,222 145 km,Szary,Używane,Automatyczna,Niemcy,13 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2013,185 KM,Diesel,Hatchback,310 000 km,Biały,Nieuszkodzony,Automatyczna,Unknown,68 000 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2018,184 KM,Hybryda Plug-in,Sedan,86 000 km,Szary,Używane,Automatyczna,Polska,115 000PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2021,184 KM,Benzyna,Kombi,59 595 km,Niebieski,Używane,Automatyczna,Niemcy,164 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2017,190 KM,Diesel,Sedan,218 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,64 000 zł,OLX
+BMW,Seria 3,Unknown,1 900 cm³,1999,Unknown,LPG,Sedan,333 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,8 000 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,150 KM,Benzyna,Kombi,222 800 km,Czarny,Używane,Automatyczna,Niemcy,19 999PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2012,183 KM,Diesel,Sedan,202 000 km,Czerwony,Używane,Manualna,Unknown,54 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 796 cm³,2003,115 KM,Benzyna,Hatchback,226 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,7 500 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2008,177 KM,Diesel,Kombi,241 000 km,Czarny,Używane,Manualna,Niemcy,20 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2021,156 KM,Benzyna,Kombi,52 100 km,Niebieski,Używane,Automatyczna,Polska,139 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2019,184 KM,Hybryda Plug-in,Sedan,35 000 km,Czarny,Używane,Automatyczna,Belgia,117 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 996 cm³,2003,143 KM,LPG,Kombi,229 000 km,Szary,Nieuszkodzony,Manualna,Niemcy,9 300 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 490 cm³,1991,170 KM,Benzyna,Coupe,197 000 km,Zielony,Nieuszkodzony,Manualna,Stany Zjednoczone,69 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2007,130 KM,Benzyna,Kombi,293 556 km,Czarny,Nieuszkodzony,Manualna,Inny,9 900 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2013,218 KM,Diesel,Kombi,195 000 km,Biały,Używane,Manualna,Belgia,57 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 596 cm³,1996,102 KM,Benzyna,Hatchback,42 450 km,Czarny,Nieuszkodzony,Manualna,Holandia,24 900 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2014,245 KM,Benzyna,Sedan,177 366 km,Biały,Używane,Automatyczna,Stany Zjednoczone,69 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2011,183 KM,Diesel,Kombi,310 000 km,Czarny,Używane,Manualna,Unknown,29 999PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 979 cm3,2010,306 KM,Benzyna,Coupe,172 000 km,Czarny,Używane,Manualna,Unknown,79 500PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2010,143 KM,Diesel,Kombi,325 124 km,Szary,Używane,Manualna,Niemcy,24 800PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2007,163 KM,Diesel,Sedan,200 000 km,Czarny,Nieuszkodzony,Automatyczna,Unknown,23 900 zł,OLX
+BMW,Seria 3,Unknown,Unknown,1990,Unknown,Benzyna,Coupe,1 km,Biały,Nieuszkodzony,Manualna,Unknown,25 999 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2022,156 KM,Benzyna,Sedan,21 900 km,Szary,Używane,Automatyczna,Polska,151 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2008,170 KM,Benzyna,Kombi,230 000 km,Czarny,Używane,Manualna,Unknown,20 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2012,150 KM,Diesel,Sedan,305 000 km,Szary,Nieuszkodzony,Automatyczna,Unknown,40 500 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2003,143 KM,Benzyna,Coupe,164 962 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,19 800 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2010,184 KM,Diesel,Sedan,270 000 km,Czarny,Nieuszkodzony,Automatyczna,Niemcy,38 000 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2023,190 KM,Diesel,Kombi,7 km,Czarny,Nowe,Automatyczna,Unknown,259 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 500 cm³,2004,192 KM,Benzyna,Kombi,267 500 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,15 500 zł,OLX
+BMW,Seria 3,Unknown,1 754 cm³,1987,102 KM,Benzyna,Coupe,99 000 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,56 000 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2024,190 KM,Diesel,Sedan,1 km,Biały,Nowe,Automatyczna,Polska,220 160PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2000,150 KM,Benzyna,Kombi,178 000 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,8 600 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2024,184 KM,Benzyna,Sedan,5 km,Czarny,Nowe,Automatyczna,Unknown,233 550PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2009,170 KM,Benzyna,Coupe,121 447 km,Czarny,Nieuszkodzony,Manualna,Wielka Brytania,13 999 zł,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 497 cm3,2005,218 KM,Benzyna,Kombi,206 000 km,Granatowy,Używane,Manualna,Niemcy,21 600PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2019,190 KM,Diesel,Sedan,89 000 km,Czarny,Używane,Automatyczna,Polska,129 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 900 cm³,1999,120 KM,LPG,Hatchback,234 000 km,Żółty – Złoty,Nieuszkodzony,Automatyczna,Niemcy,14 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 993 cm³,2006,231 KM,Diesel,Kombi,358 000 km,Srebrny,Nieuszkodzony,Automatyczna,Unknown,25 999 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2003,160 KM,LPG,Sedan,192 356 km,Niebieski,Nieuszkodzony,Manualna,Polska,8 777 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 cm³,2003,143 KM,Benzyna,Sedan,284 706 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,10 700 złdo negocjacji,OLX
+BMW,Seria 3,E46 (1998-2007),2 494 cm3,2002,192 KM,Benzyna,Kompakt,332 000 km,Czarny,Używane,Manualna,Niemcy,19 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2019,183 KM,Benzyna,Sedan,144 000 km,Czarny,Używane,Automatyczna,Polska,100 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 996 cm3,2008,218 KM,Benzyna,Sedan,229 336 km,Czarny,Używane,Automatyczna,Niemcy,31 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,183 KM,Diesel,Kombi,155 000 km,Biały,Używane,Automatyczna,Unknown,74 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 993 cm3,2006,286 KM,Diesel,Coupe,270 000 km,Czarny,Używane,Automatyczna,Unknown,34 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2022,190 KM,Diesel,Sedan,21 000 km,Szary,Używane,Automatyczna,Polska,225 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm3,2017,190 KM,Diesel,Sedan,170 000 km,Srebrny,Używane,Manualna,Unknown,58 600PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2023,156 KM,Benzyna,Sedan,5 000 km,Biały,Nowe,Automatyczna,Unknown,194 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2009,145 KM,Diesel,Kombi,426 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,18 000 zł,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2011,130 KM,Diesel,Kombi,246 100 km,Inny kolor,Nieuszkodzony,Manualna,Belgia,23 900 zł,OLX
+BMW,Seria 3,E46 (1998-2007),1 951 cm3,1999,136 KM,Diesel,Kombi,220 000 km,Srebrny,Używane,Manualna,Unknown,4 999PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 900 cm³,2000,118 KM,LPG,Kombi,25 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,3 990 zł,OLX
+BMW,Seria 3,E46 (1998-2007),2 793 cm3,2000,193 KM,Benzyna,Coupe,257 784 km,Niebieski,Używane,Manualna,Niemcy,32 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2011,130 KM,Diesel,Kombi,246 100 km,Inny kolor,Nieuszkodzony,Manualna,Belgia,23 900 zł,OLX
+BMW,Seria 3,Unknown,1 996 cm³,2006,129 KM,LPG,Kombi,345 000 km,Czarny,Nieuszkodzony,Manualna,Holandia,19 500 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2013,184 KM,Benzyna,Sedan,129 029 km,Czarny,Używane,Manualna,Polska,60 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2003,150 KM,Diesel,Coupe,200 000 km,Srebrny,Nieuszkodzony,Automatyczna,Niemcy,14 900 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 499 cm3,2017,136 KM,Benzyna,Kombi,104 605 km,Biały,Używane,Automatyczna,Polska,73 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2018,184 KM,Benzyna,Sedan,133 000 km,Szary,Używane,Automatyczna,Hiszpania,82 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2018,184 KM,Hybryda Plug-in,Sedan,89 000 km,Biały,Używane,Automatyczna,Stany Zjednoczone,92 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2020,190 KM,Diesel,Kabriolet,58 765 km,Czerwony,Używane,Automatyczna,Niemcy,107 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2021,190 KM,Diesel,Kombi,108 200 km,Czarny,Używane,Automatyczna,Polska,148 800PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2020,190 KM,Diesel,Kombi,56 239 km,Szary,Używane,Automatyczna,Polska,154 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,Unknown,2010,143 KM,Diesel,Kombi,267 747 km,Czarny,Nieuszkodzony,Manualna,Niemcy,21 990 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2004,115 KM,Diesel,Coupe,281 760 km,Srebrny,Nieuszkodzony,Manualna,Polska,2 990 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 499 cm3,2016,136 KM,Benzyna,Sedan,113 305 km,Biały,Używane,Manualna,Polska,66 600PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2021,258 KM,Benzyna,Sedan,28 000 km,Biały,Nieuszkodzony,Automatyczna,Stany Zjednoczone,146 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 998 cm³,2006,129 KM,Benzyna,Sedan,208 000 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,9 900 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2016,150 KM,Diesel,Kombi,146 160 km,Czarny,Nieuszkodzony,Manualna,Niemcy,57 000 złdo negocjacji,OLX
+BMW,Seria 3,E21 (1975-1982),1 596 cm3,1980,99 KM,Benzyna,Coupe,58 912 km,Srebrny,Używane,Manualna,Unknown,65 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2013,143 KM,Diesel,Sedan,240 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,49 000 złdo negocjacji,OLX
+BMW,Seria 3,E36 (1990-1999),1 796 cm3,1998,115 KM,Benzyna,Kabriolet,152 500 km,Czerwony,Używane,Manualna,Niemcy,34 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 600 cm³,1996,102 KM,LPG,Kombi,216 000 km,Czarny,Nieuszkodzony,Manualna,Polska,11 900 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2016,184 KM,Hybryda Plug-in,Sedan,127 000 km,Szary,Używane,Automatyczna,Unknown,82 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2017,184 KM,Hybryda,Sedan,129 707 km,Biały,Używane,Automatyczna,Polska,94 990PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 895 cm³,1999,116 KM,Benzyna,Sedan,285 000 km,Czerwony,Uszkodzony,Manualna,Polska,2 400 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2006,150 KM,LPG,Sedan,270 000 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,19 199 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2004,150 KM,Diesel,Kombi,274 000 km,Srebrny,Nieuszkodzony,Manualna,Polska,6 990 zł,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,143 KM,Benzyna,Kombi,182 000 km,Inny kolor,Używane,Manualna,Unknown,14 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 497 cm³,2005,218 KM,Benzyna,Sedan,242 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,25 000 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,143 KM,Diesel,Kombi,162 779 km,Szary,Używane,Automatyczna,Belgia,30 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2006,150 KM,Benzyna,Kombi,232 440 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,9 600 zł,OLX
+BMW,Seria 3,G20/G21 (2019-),2 000 cm3,2020,184 KM,Benzyna,Sedan,70 500 km,Szary,Używane,Automatyczna,Polska,149 890PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2021,184 KM,Hybryda,Sedan,31 580 km,Biały,Używane,Automatyczna,Unknown,149 900PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),1 796 cm3,2004,115 KM,Benzyna,Kompakt,260 000 km,Czarny,Używane,Manualna,Unknown,7 777PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 998 cm³,2008,Unknown,Diesel,Kombi,335 500 km,Niebieski,Nieuszkodzony,Manualna,Belgia,21 900 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2008,177 KM,Diesel,Sedan,247 000 km,Szary,Używane,Manualna,Unknown,28 500PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2020,156 KM,Benzyna,Kombi,58 000 km,Czarny,Używane,Automatyczna,Unknown,53 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2006,163 KM,Diesel,Kombi,276 000 km,Srebrny,Nieuszkodzony,Automatyczna,Unknown,22 700 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2012,183 KM,Diesel,Auta miejskie,272 000 km,Szary,Używane,Automatyczna,Polska,55 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2017,190 KM,Diesel,Kombi,214 500 km,Biały,Nieuszkodzony,Automatyczna,Niemcy,75 000 zł,OLX
+BMW,Seria 3,Unknown,2 500 cm³,2000,Unknown,Benzyna,Kombi,279 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,5 400 zł,OLX
+BMW,Seria 3,Unknown,Unknown,2013,Unknown,Benzyna,Sedan,176 000 km,Biały,Uszkodzony,Automatyczna,Unknown,3 900 zł,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2010,170 KM,Benzyna,Kabriolet,139 500 km,Czarny,Używane,Manualna,Unknown,48 500PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 993 cm3,2011,245 KM,Diesel,Sedan,347 000 km,Szary,Używane,Automatyczna,Niemcy,26 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,143 KM,Benzyna,Sedan,215 000 km,Srebrny,Używane,Manualna,Niemcy,21 400PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),1 995 cm3,2001,150 KM,Diesel,Auta miejskie,247 000 km,Czarny,Używane,Manualna,Unknown,12 600PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2007,170 KM,Benzyna,Kabriolet,238 000 km,Szary,Używane,Automatyczna,Niemcy,29 999PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2006,129 KM,Benzyna,Sedan,228 421 km,Inny kolor,Nieuszkodzony,Manualna,Polska,17 800 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2010,143 KM,Benzyna,Kombi,184 000 km,Czarny,Używane,Manualna,Niemcy,33 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 993 cm³,2006,300 KM,Diesel,Sedan,230 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,35 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2003,143 KM,Benzyna,Kombi,284 003 km,Zielony,Nieuszkodzony,Automatyczna,Unknown,4 900 zł,OLX
+BMW,Seria 3,Unknown,2 799 cm³,2003,192 KM,Benzyna,Coupe,212 400 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,33 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2014,245 KM,Benzyna,Sedan,171 300 km,Szary,Nieuszkodzony,Automatyczna,Holandia,60 000 zł,OLX
+BMW,Seria 3,Unknown,1 996 cm³,2003,143 KM,LPG,Kombi,229 000 km,Szary,Nieuszkodzony,Manualna,Niemcy,9 300 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 993 cm3,2009,197 KM,Diesel,Kombi,280 000 km,Bordowy,Używane,Automatyczna,Niemcy,48 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 796 cm³,2002,Unknown,Benzyna,Sedan,251 706 km,Szary,Nieuszkodzony,Manualna,Niemcy,11 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2005,129 KM,Benzyna,Sedan,235 675 km,Czarny,Nieuszkodzony,Manualna,Niemcy,16 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2009,177 KM,Diesel,Sedan,330 000 km,Srebrny,Nieuszkodzony,Manualna,Polska,21 000 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),2 979 cm3,2013,306 KM,Benzyna,Sedan,73 892 km,Granatowy,Używane,Automatyczna,Stany Zjednoczone,39 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2018,184 KM,Benzyna,Sedan,30 000 km,Biały,Używane,Automatyczna,Unknown,96 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,22 cm³,2002,170 KM,LPG,Sedan,265 km,Czarny,Nieuszkodzony,Automatyczna,Polska,8 500 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2013,218 KM,Diesel,Kombi,237 196 km,Inny kolor,Używane,Manualna,Niemcy,47 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm3,2008,177 KM,Diesel,Kombi,260 000 km,Czarny,Używane,Automatyczna,Unknown,23 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2011,143 KM,Diesel,Kombi,229 000 km,Czarny,Używane,Manualna,Niemcy,19 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2011,142 KM,Diesel,Kombi,208 000 km,Szary,Nieuszkodzony,Manualna,Niemcy,28 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 800 cm³,2004,116 KM,Benzyna,Sedan,272 km,Srebrny,Nieuszkodzony,Manualna,Unknown,8 999 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2020,190 KM,Diesel,Kombi,189 035 km,Biały,Używane,Automatyczna,Polska,105 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 993 cm3,2007,197 KM,Diesel,Kombi,350 000 km,Granatowy,Używane,Manualna,Niemcy,27 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2012,184 KM,Diesel,Kombi,335 000 km,Szary,Używane,Automatyczna,Niemcy,43 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),2 993 cm3,2012,258 KM,Diesel,Kombi,250 000 km,Czarny,Używane,Automatyczna,Unknown,42 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 cm³,2014,143 KM,Diesel,Kombi,168 000 km,Czarny,Nieuszkodzony,Automatyczna,Niemcy,47 600 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 898 cm³,1999,118 KM,LPG,Kombi,240 km,Zielony,Nieuszkodzony,Manualna,Niemcy,6 660 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 800 cm³,1997,193 KM,LPG,Coupe,315 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,22 499 zł,OLX
+BMW,Seria 3,E46 (1998-2007),1 995 cm3,2002,149 KM,Diesel,Kombi,299 999 km,Srebrny,Używane,Manualna,Unknown,9 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2013,183 KM,Benzyna,Sedan,210 350 km,Czarny,Nieuszkodzony,Manualna,Niemcy,33 500 zł,OLX
+BMW,Seria 3,Unknown,1 796 cm³,1991,115 KM,LPG,Kombi,250 000 km,Zielony,Nieuszkodzony,Manualna,Niemcy,12 000 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2022,184 KM,Hybryda Plug-in,Kombi,20 043 km,Granatowy,Używane,Automatyczna,Unknown,129 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2016,245 KM,Benzyna,Kompakt,78 000 km,Czarny,Używane,Automatyczna,Stany Zjednoczone,75 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2010,170 KM,Benzyna,Sedan,149 769 km,Szary,Nieuszkodzony,Manualna,Unknown,33 900 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2012,163 KM,Diesel,Sedan,276 800 km,Niebieski,Używane,Automatyczna,Unknown,49 700PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2010,143 KM,Diesel,Kombi,354 000 km,Szary,Używane,Automatyczna,Unknown,23 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2014,143 KM,Diesel,Kombi,280 000 km,Czarny,Nieuszkodzony,Manualna,Holandia,37 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2005,150 KM,Benzyna,Sedan,280 000 km,Inny kolor,Uszkodzony,Automatyczna,Holandia,9 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2012,143 KM,Diesel,Sedan,325 000 km,Brązowy – Beżowy,Nieuszkodzony,Manualna,Niemcy,34 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2005,129 KM,LPG,Sedan,355 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,16 000 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2016,190 KM,Diesel,Kombi,190 500 km,Brązowy,Używane,Automatyczna,Niemcy,71 500PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,143 KM,Diesel,Kombi,176 000 km,Szary,Używane,Manualna,Unknown,47 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 800 cm³,2002,115 KM,Benzyna,Hatchback,260 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,7 300 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,1999,170 KM,Benzyna,Coupe,267 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,10 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 800 cm³,2001,Unknown,Benzyna,Sedan,200 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,2 850 zł,OLX
+BMW,Seria 3,Unknown,1 998 cm³,1988,124 KM,Benzyna,Sedan,210 000 km,Szary,Nieuszkodzony,Manualna,Francja,30 500 zł,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2007,170 KM,Benzyna,Kabriolet,240 000 km,Biały,Uszkodzony,Manualna,Niemcy,26 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,Unknown,2003,Unknown,Benzyna,Sedan,332 935 km,Srebrny,Nieuszkodzony,Manualna,Unknown,7 500 zł,OLX
+BMW,Seria 3,E46 (1998-2007),1 995 cm3,2004,143 KM,Benzyna+LPG,Kabriolet,163 000 km,Czarny,Używane,Manualna,Unknown,24 900PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),2 171 cm3,2002,170 KM,Benzyna,Sedan,199 000 km,Srebrny,Używane,Automatyczna,Niemcy,12 999PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),2 171 cm3,2002,170 KM,Benzyna,Sedan,199 000 km,Srebrny,Używane,Automatyczna,Niemcy,12 999PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 497 cm³,2006,218 KM,Benzyna,Coupe,233 000 km,Srebrny,Nieuszkodzony,Automatyczna,Unknown,29 500 złdo negocjacji,OLX
+BMW,Seria 3,E46 (1998-2007),1 995 cm3,2001,143 KM,Benzyna,Kabriolet,150 000 km,Granatowy,Używane,Manualna,Niemcy,23 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 800 cm³,2004,Unknown,Benzyna,Sedan,245 km,Srebrny,Nieuszkodzony,Manualna,Unknown,3 800 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2012,183 KM,Diesel,Sedan,183 000 km,Czarny,Używane,Manualna,Unknown,44 000PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),2 793 cm3,1999,193 KM,Benzyna,Sedan,186 000 km,Niebieski,Używane,Automatyczna,Niemcy,17 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 800 cm³,2003,Unknown,Benzyna,Hatchback,270 000 km,Niebieski,Nieuszkodzony,Manualna,Unknown,5 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2008,143 KM,Diesel,Kombi,287 km,Biały,Nieuszkodzony,Manualna,Unknown,19 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,Unknown,2003,143 KM,Benzyna,Kombi,327 397 km,Inny kolor,Nieuszkodzony,Automatyczna,Niemcy,8 400 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2006,150 KM,LPG,Sedan,270 000 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,19 199 zł,OLX
+BMW,Seria 3,E46 (1998-2007),2 926 cm3,2002,184 KM,Diesel,Sedan,300 000 km,Czarny,Używane,Automatyczna,Unknown,25 000PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),2 793 cm3,1999,193 KM,Benzyna,Sedan,186 000 km,Niebieski,Używane,Automatyczna,Niemcy,17 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 800 cm³,2003,Unknown,Benzyna,Hatchback,270 000 km,Niebieski,Nieuszkodzony,Manualna,Unknown,5 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2008,143 KM,Diesel,Kombi,287 km,Biały,Nieuszkodzony,Manualna,Unknown,19 900 złdo negocjacji,OLX
+BMW,Seria 3,E46 (1998-2007),2 979 cm3,2001,231 KM,Benzyna,Kabriolet,253 700 km,Niebieski,Używane,Manualna,Niemcy,39 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,143 KM,Diesel,Kombi,278 427 km,Biały,Używane,Automatyczna,Niemcy,52 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 979 cm³,2002,231 KM,LPG,Sedan,317 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,20 500 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 996 cm3,2006,258 KM,Benzyna+LPG,Sedan,240 000 km,Czarny,Używane,Automatyczna,Niemcy,32 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 800 cm³,2002,116 KM,LPG,Hatchback,326 000 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,4 800 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2010,143 KM,Diesel,Sedan,211 954 km,Czarny,Używane,Manualna,Unknown,28 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,3 000 cm³,2002,255 KM,Benzyna,Coupe,230 000 km,Niebieski,Nieuszkodzony,Manualna,Wielka Brytania,29 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 900 cm³,2001,Unknown,Benzyna,Hatchback,156 000 km,Srebrny,Nieuszkodzony,Manualna,Polska,13 900 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2012,215 KM,Diesel,Kabriolet,189 400 km,Czarny,Nieuszkodzony,Automatyczna,Niemcy,100 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2013,143 KM,Diesel,Kombi,242 000 km,Szary,Nieuszkodzony,Manualna,Belgia,40 900 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2005,163 KM,Diesel,Sedan,220 000 km,Czarny,Używane,Manualna,Unknown,21 900PLN,OTOMOTO
+BMW,Seria 3,E36 (1990-1999),1 596 cm3,1997,102 KM,Benzyna+LPG,Kompakt,314 500 km,Zielony,Używane,Manualna,Unknown,6 450PLN,OTOMOTO
+BMW,Seria 3,Unknown,20 cm³,1991,110 KM,Benzyna,Sedan,1 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,3 100 zł,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2012,183 KM,Diesel,Kombi,229 150 km,Czarny,Używane,Manualna,Niemcy,38 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,177 KM,Diesel,Kombi,260 000 km,Szary,Używane,Manualna,Niemcy,28 400PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,170 KM,Benzyna,Sedan,111 600 km,Czarny,Używane,Manualna,Niemcy,23 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 996 cm³,2007,272 KM,Benzyna,Kombi,277 900 km,Niebieski,Nieuszkodzony,Automatyczna,Szwajcaria,33 400 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2013,143 KM,Diesel,Kombi,230 000 km,Biały,Używane,Manualna,Belgia,44 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2019,190 KM,Diesel,Sedan,76 000 km,Niebieski,Nieuszkodzony,Automatyczna,Polska,156 999 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2016,150 KM,Diesel,Kombi,194 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,45 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 900 cm³,2000,103 KM,LPG,Sedan,250 000 km,Zielony,Nieuszkodzony,Manualna,Niemcy,2 490 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2013,184 KM,Diesel,Kombi,327 000 km,Biały,Nieuszkodzony,Automatyczna,Niemcy,42 500 zł,OLX
+BMW,Seria 3,Unknown,2 800 cm³,1999,193 KM,Benzyna,Sedan,231 000 km,Biały,Nieuszkodzony,Manualna,Polska,13 500 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2011,183 KM,Diesel,Sedan,250 000 km,Szary,Używane,Manualna,Unknown,37 500PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2008,143 KM,Benzyna,Kombi,232 000 km,Biały,Używane,Manualna,Niemcy,22 900PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),2 979 cm3,2001,231 KM,Benzyna,Sedan,302 000 km,Niebieski,Używane,Manualna,Niemcy,35 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),2 993 cm3,2016,313 KM,Diesel,Kombi,89 000 km,Srebrny,Używane,Automatyczna,Unknown,139 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2013,183 KM,Diesel,Sedan,249 000 km,Biały,Używane,Manualna,Unknown,52 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 895 cm³,2000,118 KM,Benzyna,Kombi,245 400 km,Inny kolor,Nieuszkodzony,Automatyczna,Niemcy,8 999 zł,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2008,177 KM,Diesel,Kombi,306 122 km,Srebrny,Używane,Automatyczna,Unknown,22 500PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2007,150 KM,Benzyna,Sedan,350 000 km,Granatowy,Używane,Manualna,Unknown,14 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,143 KM,Diesel,Sedan,151 565 km,Czarny,Używane,Manualna,Unknown,53 000PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),1 796 cm3,2002,115 KM,Benzyna,Sedan,188 000 km,Granatowy,Używane,Manualna,Niemcy,12 400PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2005,163 KM,Diesel,Sedan,352 km,Niebieski,Uszkodzony,Manualna,Unknown,17 400 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2014,164 KM,Diesel,Hatchback,215 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,50 000 zł,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2015,150 KM,Diesel,Hatchback,174 345 km,Czarny,Nieuszkodzony,Manualna,Belgia,55 300 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 993 cm3,2006,285 KM,Diesel,Coupe,231 900 km,Srebrny,Używane,Automatyczna,Unknown,62 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 796 cm³,2003,116 KM,Benzyna,Coupe,271 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,3 750 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2011,163 KM,Diesel,Kombi,237 000 km,Czarny,Używane,Manualna,Unknown,16 500PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2016,150 KM,Diesel,Kombi,230 000 km,Granatowy,Używane,Automatyczna,Niemcy,53 999PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,122 KM,Diesel,Sedan,250 000 km,Szary,Używane,Manualna,Unknown,12 999PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2016,150 KM,Diesel,Kombi,192 042 km,Biały,Używane,Manualna,Unknown,56 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,129 KM,Benzyna,Sedan,213 327 km,Czarny,Używane,Manualna,Polska,15 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2010,143 KM,Diesel,Sedan,205 000 km,Niebieski,Nieuszkodzony,Manualna,Wielka Brytania,13 900 zł,OLX
+BMW,Seria 3,E46 (1998-2007),1 995 cm3,2003,115 KM,Diesel,Kombi,255 500 km,Czarny,Używane,Manualna,Niemcy,8 800PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2010,143 KM,Diesel,Sedan,209 300 km,Czarny,Używane,Manualna,Unknown,32 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 200 cm³,2003,170 KM,LPG,Kombi,279 800 km,Srebrny,Nieuszkodzony,Automatyczna,Unknown,15 400 zł,OLX
+BMW,Seria 3,Unknown,2 497 cm³,2006,218 KM,Benzyna,Coupe,233 000 km,Srebrny,Nieuszkodzony,Automatyczna,Unknown,29 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2005,130 KM,LPG,Sedan,184 540 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,20 300 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2010,143 KM,Diesel,Sedan,209 300 km,Czarny,Używane,Manualna,Unknown,32 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,143 KM,Diesel,Kombi,280 000 km,Czarny,Używane,Manualna,Niemcy,35 999PLN,OTOMOTO
+BMW,Seria 3,Unknown,4 000 cm³,1998,286 KM,Benzyna,Sedan,250 000 km,Niebieski,Nieuszkodzony,Manualna,Unknown,29 500 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 996 cm3,2009,272 KM,Benzyna,Coupe,176 000 km,Czarny,Używane,Automatyczna,Unknown,39 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 200 cm³,2003,185 KM,Benzyna,Hatchback,204 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,12 221 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,3 000 cm³,2002,184 KM,Diesel,Kombi,323 000 km,Srebrny,Nieuszkodzony,Automatyczna,Unknown,9 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 996 cm³,2005,150 KM,Benzyna,Sedan,244 400 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,11 500 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2021,190 KM,Diesel,Sedan,49 000 km,Biały,Używane,Automatyczna,Unknown,199 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,143 KM,Diesel,Kombi,184 540 km,Brązowy,Używane,Automatyczna,Unknown,52 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2014,164 KM,Diesel,Hatchback,215 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,50 000 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2003,149 KM,Diesel,Sedan,360 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,8 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 900 cm³,2000,118 KM,LPG,Kombi,250 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,5 990 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2012,143 KM,Diesel,Kombi,267 000 km,Czarny,Nieuszkodzony,Manualna,Francja,27 999 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 499 cm3,2018,136 KM,Benzyna,Sedan,65 469 km,Niebieski,Używane,Automatyczna,Polska,84 850PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2007,170 KM,Benzyna,Coupe,302 km,Czarny,Nieuszkodzony,Manualna,Wielka Brytania,21 900 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2012,163 KM,Diesel,Sedan,224 572 km,Czerwony,Używane,Manualna,Niemcy,60 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 499 cm3,2016,136 KM,Benzyna,Sedan,152 000 km,Biały,Używane,Automatyczna,Polska,63 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2005,200 KM,Diesel,Sedan,390 000 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,13 500 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,163 KM,Diesel,Kombi,262 000 km,Szary,Używane,Manualna,Belgia,23 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2017,150 KM,Diesel,Sedan,79 802 km,Czerwony,Używane,Manualna,Polska,59 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2013,184 KM,Diesel,Kombi,245 000 km,Biały,Uszkodzony,Manualna,Niemcy,43 000 zł,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,143 KM,Benzyna,Kombi,182 000 km,Inny kolor,Używane,Manualna,Unknown,14 900PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),2 979 cm3,2001,231 KM,Benzyna,Sedan,278 551 km,Czarny,Używane,Automatyczna,Niemcy,14 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2003,150 KM,Diesel,Sedan,381 650 km,Czarny,Nieuszkodzony,Automatyczna,Niemcy,8 600 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2004,143 KM,Benzyna,Coupe,242 500 km,Srebrny,Nieuszkodzony,Manualna,Holandia,15 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 796 cm³,2003,116 KM,Benzyna,Sedan,259 000 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,5 900 zł,OLX
+BMW,Seria 3,E46 (1998-2007),1 995 cm3,2002,143 KM,Benzyna,Kombi,223 852 km,Granatowy,Używane,Automatyczna,Niemcy,10 400PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 796 cm³,1996,115 KM,Benzyna,Kabriolet,145 km,Czarny,Nieuszkodzony,Manualna,Polska,29 900 zł,OLX
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2022,190 KM,Diesel,Kombi,109 000 km,Szary,Używane,Automatyczna,Niemcy,162 237PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2020,150 KM,Diesel,Kombi,206 400 km,Czarny,Używane,Automatyczna,Belgia,80 900PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),2 494 cm3,2000,192 KM,Benzyna,Kombi,228 315 km,Inny kolor,Używane,Automatyczna,Niemcy,15 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,170 KM,Benzyna,Coupe,228 500 km,Biały,Używane,Manualna,Niemcy,45 000PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),1 995 cm3,2005,143 KM,Benzyna,Kabriolet,148 258 km,Niebieski,Używane,Manualna,Unknown,23 800PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 993 cm3,2009,245 KM,Diesel,Kombi,380 000 km,Czarny,Używane,Automatyczna,Dania,23 000PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),1 995 cm3,2002,150 KM,Diesel,Sedan,331 800 km,Szary,Używane,Manualna,Unknown,8 600PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2008,143 KM,Diesel,Kombi,271 284 km,Czarny,Nieuszkodzony,Manualna,Polska,17 999 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2016,245 KM,Benzyna,Sedan,88 000 km,Czerwony,Używane,Automatyczna,Unknown,78 800PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 500 cm³,1999,170 KM,Benzyna,Coupe,318 000 km,Srebrny,Nieuszkodzony,Automatyczna,Unknown,15 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2008,177 KM,Diesel,Kombi,348 000 km,Srebrny,Nieuszkodzony,Manualna,Polska,22 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 178 cm³,2000,170 KM,Benzyna,Sedan,311 205 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,9 600 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2015,184 KM,Benzyna,Sedan,113 000 km,Czarny,Używane,Automatyczna,Kanada,59 999PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,143 KM,Diesel,Kombi,281 550 km,Srebrny,Używane,Manualna,Unknown,28 500PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),1 995 cm3,2003,143 KM,Benzyna,Coupe,227 000 km,Srebrny,Używane,Manualna,Unknown,16 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2005,163 KM,Diesel,Sedan,287 000 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,18 900 zł,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,143 KM,Benzyna,Sedan,239 000 km,Czarny,Używane,Manualna,Unknown,17 300PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2021,156 KM,Benzyna,Kombi,69 000 km,Biały,Używane,Automatyczna,Polska,124 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2012,143 KM,Diesel,Sedan,261 000 km,Czarny,Nieuszkodzony,Manualna,Belgia,49 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2013,184 KM,Diesel,Sedan,236 511 km,Biały,Nieuszkodzony,Automatyczna,Francja,61 500 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2017,190 KM,Diesel,Kombi,129 000 km,Szary,Używane,Automatyczna,Unknown,35 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 998 cm³,1988,124 KM,Benzyna,Sedan,210 000 km,Szary,Nieuszkodzony,Manualna,Francja,30 500 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2009,143 KM,Diesel,Sedan,308 km,Czarny,Nieuszkodzony,Manualna,Polska,22 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 800 cm³,2002,116 KM,LPG,Hatchback,326 000 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,4 800 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,143 KM,Diesel,Kombi,281 550 km,Srebrny,Używane,Manualna,Unknown,28 500PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),1 995 cm3,2003,143 KM,Benzyna,Coupe,227 000 km,Srebrny,Używane,Manualna,Unknown,16 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2005,163 KM,Diesel,Sedan,287 000 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,18 900 zł,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,143 KM,Benzyna,Sedan,239 000 km,Czarny,Używane,Manualna,Unknown,17 300PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2021,156 KM,Benzyna,Kombi,69 000 km,Biały,Używane,Automatyczna,Polska,124 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2012,143 KM,Diesel,Sedan,261 000 km,Czarny,Nieuszkodzony,Manualna,Belgia,49 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2013,184 KM,Diesel,Sedan,236 511 km,Biały,Nieuszkodzony,Automatyczna,Francja,61 500 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2017,190 KM,Diesel,Kombi,129 000 km,Szary,Używane,Automatyczna,Unknown,35 500PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2010,143 KM,Diesel,Sedan,399 000 km,Czarny,Używane,Manualna,Włochy,25 500PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2013,184 KM,Diesel,Sedan,224 878 km,Brązowy,Używane,Manualna,Niemcy,62 900PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),1 995 cm3,2005,143 KM,Benzyna,Kabriolet,240 126 km,Inny kolor,Używane,Manualna,Niemcy,29 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2013,116 KM,Diesel,Kombi,249 000 km,Czarny,Nieuszkodzony,Manualna,Polska,34 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2006,147 KM,Diesel,Kombi,330 000 km,Inny kolor,Nieuszkodzony,Manualna,Polska,12 500 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2014,245 KM,Benzyna,Sedan,178 000 km,Czarny,Używane,Automatyczna,Stany Zjednoczone,57 500PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2010,143 KM,Benzyna,Kombi,146 000 km,Biały,Używane,Manualna,Niemcy,34 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2008,177 KM,Diesel,Coupe,244 500 km,Niebieski,Nieuszkodzony,Manualna,Holandia,38 600 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2018,252 KM,Benzyna,Sedan,92 500 km,Biały,Używane,Automatyczna,Unknown,99 777PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,143 KM,Benzyna,Sedan,122 000 km,Czarny,Używane,Automatyczna,Unknown,38 700PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),2 494 cm3,2000,170 KM,Benzyna+LPG,Sedan,292 000 km,Złoty,Używane,Manualna,Unknown,18 000PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2019,190 KM,Diesel,Kombi,210 000 km,Biały,Używane,Automatyczna,Niemcy,115 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2015,116 KM,Diesel,Kombi,277 274 km,Czarny,Używane,Manualna,Niemcy,39 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2020,184 KM,Hybryda Plug-in,Kombi,57 000 km,Czarny,Używane,Automatyczna,Unknown,149 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2005,143 KM,Benzyna,Kombi,139 500 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,13 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2005,163 KM,Diesel,Kombi,310 000 km,Szary,Nieuszkodzony,Automatyczna,Niemcy,24 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 994 cm³,2007,129 KM,Benzyna,Sedan,220 000 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,15 900 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2014,143 KM,Diesel,Kombi,262 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,39 499 zł,OLX
+BMW,Seria 3,E46 (1998-2007),1 951 cm3,2002,115 KM,Diesel,Kombi,470 000 km,Czarny,Używane,Manualna,Niemcy,6 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 497 cm3,2006,218 KM,Benzyna,Sedan,387 750 km,Srebrny,Używane,Manualna,Unknown,19 500PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2012,143 KM,Diesel,Sedan,260 000 km,Czarny,Używane,Manualna,Niemcy,47 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2012,143 KM,Diesel,Kombi,246 000 km,Czarny,Używane,Manualna,Niemcy,33 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2018,245 KM,Benzyna,Sedan,45 000 km,Biały,Używane,Automatyczna,Unknown,96 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2015,163 KM,Diesel,Kombi,167 000 km,Biały,Używane,Automatyczna,Unknown,64 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2020,150 KM,Diesel,Kombi,168 000 km,Czarny,Używane,Automatyczna,Niemcy,92 800PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2020,150 KM,Diesel,Kombi,168 000 km,Czarny,Używane,Automatyczna,Niemcy,92 800PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),2 993 cm3,2005,204 KM,Diesel,Kombi,339 900 km,Srebrny,Używane,Manualna,Unknown,17 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 cm³,2011,Unknown,Diesel,Kombi,270 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,25 000 zł,OLX
+BMW,Seria 3,Unknown,2 793 cm³,2000,193 KM,Benzyna,Sedan,326 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,13 500 zł,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2007,163 KM,Diesel,Kombi,254 000 km,Inny kolor,Uszkodzony,Automatyczna,Unknown,12 300 zł,OLX
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2021,156 KM,Benzyna,Kombi,66 000 km,Szary,Używane,Automatyczna,Polska,124 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2016,150 KM,Diesel,Kombi,175 500 km,Czarny,Używane,Manualna,Niemcy,51 000PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),2 171 cm3,2003,170 KM,Benzyna,Sedan,321 000 km,Granatowy,Używane,Manualna,Niemcy,13 999PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2002,150 KM,Diesel,Kombi,230 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,14 999 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 979 cm3,2011,306 KM,Benzyna,Coupe,150 000 km,Granatowy,Używane,Automatyczna,Unknown,72 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2010,143 KM,Diesel,Kombi,318 500 km,Biały,Nieuszkodzony,Manualna,Unknown,29 500 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2011,143 KM,Diesel,Kombi,327 000 km,Granatowy,Używane,Automatyczna,Unknown,25 800PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,143 KM,Diesel,Kombi,272 000 km,Srebrny,Używane,Manualna,Szwajcaria,42 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2018,190 KM,Diesel,Kombi,81 200 km,Biały,Używane,Automatyczna,Unknown,79 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 999 cm³,2010,184 KM,Diesel,Kombi,320 km,Czarny,Nieuszkodzony,Manualna,Polska,25 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 800 cm³,2001,Unknown,LPG,Sedan,220 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,7 500 zł,OLX
+BMW,Seria 3,Unknown,2 494 cm³,2002,192 KM,Benzyna,Coupe,238 000 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,32 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 500 cm³,2006,218 KM,Benzyna,Sedan,189 000 km,Szary,Nieuszkodzony,Automatyczna,Niemcy,22 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,Unknown,2003,Unknown,Benzyna,Sedan,332 935 km,Srebrny,Nieuszkodzony,Manualna,Unknown,7 500 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm3,2010,183 KM,Diesel,Kabriolet,189 000 km,Brązowy,Używane,Automatyczna,Unknown,46 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2020,190 KM,Diesel,Kombi,102 822 km,Niebieski,Używane,Automatyczna,Polska,144 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2005,150 KM,Benzyna,Sedan,302 500 km,Srebrny,Używane,Manualna,Niemcy,13 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2013,245 KM,Benzyna,Kompakt,272 000 km,Granatowy,Używane,Automatyczna,Stany Zjednoczone,46 500PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 993 cm3,2007,231 KM,Diesel,Coupe,207 000 km,Granatowy,Używane,Automatyczna,Unknown,39 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2006,164 KM,Diesel,Kombi,418 000 km,Czarny,Nieuszkodzony,Automatyczna,Unknown,17 999 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2013,143 KM,Diesel,Sedan,267 000 km,Biały,Używane,Manualna,Niemcy,34 900PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),1 951 cm3,2002,115 KM,Diesel,Sedan,280 240 km,Granatowy,Używane,Manualna,Unknown,8 500PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),2 979 cm3,2000,231 KM,Benzyna+LPG,Sedan,206 000 km,Srebrny,Używane,Automatyczna,Unknown,14 000PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),1 796 cm3,2002,115 KM,Benzyna,Coupe,199 000 km,Niebieski,Używane,Manualna,Niemcy,9 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 998 cm³,2014,222 KM,Diesel,Kombi,146 000 km,Niebieski,Nieuszkodzony,Automatyczna,Niemcy,67 500 złdo negocjacji,OLX
+BMW,Seria 3,E46 (1998-2007),2 793 cm3,2000,193 KM,Benzyna,Coupe,222 145 km,Szary,Używane,Automatyczna,Niemcy,13 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2007,177 KM,Diesel,Coupe,267 000 km,Czarny,Nieuszkodzony,Automatyczna,Unknown,34 000 złdo negocjacji,OLX
+BMW,Seria 3,E46 (1998-2007),2 171 cm3,2001,170 KM,Benzyna,Sedan,290 000 km,Czarny,Używane,Manualna,Niemcy,16 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 996 cm³,2008,177 KM,Diesel,Kombi,320 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,12 900 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2012,245 KM,Benzyna,Sedan,245 000 km,Biały,Używane,Automatyczna,Unknown,59 999PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,163 KM,Diesel,Kombi,264 012 km,Zielony,Używane,Automatyczna,Niemcy,18 800PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 998 cm³,2013,184 KM,Diesel,Sedan,288 000 km,Inny kolor,Nieuszkodzony,Automatyczna,Niemcy,47 500 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2009,143 KM,Diesel,Kombi,289 336 km,Szary,Używane,Manualna,Unknown,20 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2013,184 KM,Diesel,Kombi,315 000 km,Czarny,Używane,Manualna,Niemcy,38 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2007,150 KM,Benzyna,Kombi,185 000 km,Błękitny,Używane,Manualna,Niemcy,18 500PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),2 171 cm3,2004,170 KM,Benzyna,Kombi,330 000 km,Czarny,Używane,Manualna,Niemcy,10 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 800 cm³,1995,193 KM,Benzyna,Kabriolet,182 600 km,Czarny,Nieuszkodzony,Automatyczna,Niemcy,36 700 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2018,252 KM,Benzyna,Auta miejskie,101 000 km,Srebrny,Używane,Automatyczna,Stany Zjednoczone,85 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 997 cm³,2020,184 KM,Benzyna,Hatchback,73 500 km,Czarny,Nieuszkodzony,Automatyczna,Polska,115 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 800 cm³,2002,115 KM,LPG,Hatchback,189 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,4 990 zł,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 993 cm3,2007,231 KM,Diesel,Kombi,275 000 km,Srebrny,Używane,Manualna,Unknown,29 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 997 cm³,2014,180 KM,Benzyna,Sedan,280 000 km,Czarny,Nieuszkodzony,Automatyczna,Unknown,58 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 494 cm³,2003,192 KM,Benzyna,Coupe,219 000 km,Szary,Nieuszkodzony,Automatyczna,Polska,20 500 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 497 cm3,2006,218 KM,Benzyna+LPG,Sedan,170 000 km,Srebrny,Używane,Manualna,Unknown,25 900PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2020,150 KM,Diesel,Kombi,122 185 km,Inny kolor,Używane,Automatyczna,Niemcy,97 400PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 979 cm³,2000,231 KM,LPG,Coupe,340 000 km,Niebieski,Nieuszkodzony,Manualna,Unknown,21 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2004,150 KM,Diesel,Hatchback,373 000 km,Niebieski,Nieuszkodzony,Automatyczna,Unknown,5 300 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2018,190 KM,Diesel,Sedan,169 201 km,Czarny,Używane,Automatyczna,Polska,74 500PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 499 cm3,2018,136 KM,Benzyna,Sedan,130 000 km,Czarny,Używane,Automatyczna,Unknown,75 200PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,143 KM,Diesel,Kombi,221 000 km,Srebrny,Używane,Manualna,Unknown,28 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2014,245 KM,Benzyna,Sedan,143 000 km,Czarny,Używane,Automatyczna,Unknown,59 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,184 KM,Diesel,Kombi,232 500 km,Czarny,Używane,Automatyczna,Niemcy,51 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,300 cm³,2005,300 KM,Diesel,Sedan,425 km,Żółty – Złoty,Nieuszkodzony,Automatyczna,Niemcy,27 000 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,129 KM,Benzyna,Sedan,244 392 km,Srebrny,Używane,Manualna,Niemcy,14 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2005,150 KM,Benzyna,Sedan,250 000 km,Szary,Nieuszkodzony,Manualna,Niemcy,16 000 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2012,116 KM,Diesel,Sedan,180 332 km,Srebrny,Używane,Manualna,Niemcy,38 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 497 cm³,2006,217 KM,Benzyna,Kombi,257 000 km,Czarny,Nieuszkodzony,Automatyczna,Szwajcaria,26 000 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2005,150 KM,Benzyna,Kombi,317 000 km,Srebrny,Używane,Manualna,Unknown,17 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 979 cm3,2007,306 KM,Benzyna,Coupe,114 000 km,Srebrny,Używane,Automatyczna,Unknown,62 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 cm³,2005,150 KM,Diesel,Kombi,341 000 km,Czarny,Nieuszkodzony,Manualna,Belgia,14 900 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2018,184 KM,Benzyna,Kombi,97 000 km,Biały,Używane,Automatyczna,Niemcy,87 900PLN,OTOMOTO
+BMW,Seria 3,E36 (1990-1999),1 800 cm3,1991,140 KM,Benzyna,Sedan,347 000 km,Biały,Używane,Manualna,Unknown,29 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,163 KM,Diesel,Sedan,320 000 km,Srebrny,Używane,Manualna,Unknown,18 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2013,184 KM,Diesel,Sedan,236 511 km,Biały,Nieuszkodzony,Automatyczna,Francja,61 500 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2004,150 KM,Diesel,Kombi,274 000 km,Srebrny,Nieuszkodzony,Manualna,Polska,6 990 zł,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2008,170 KM,Benzyna,Sedan,125 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,25 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 cm³,2005,150 KM,Diesel,Kombi,341 000 km,Czarny,Nieuszkodzony,Manualna,Belgia,14 900 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 998 cm3,2018,184 KM,Benzyna,Kombi,97 000 km,Biały,Używane,Automatyczna,Niemcy,87 900PLN,OTOMOTO
+BMW,Seria 3,E36 (1990-1999),1 800 cm3,1991,140 KM,Benzyna,Sedan,347 000 km,Biały,Używane,Manualna,Unknown,29 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,163 KM,Diesel,Sedan,320 000 km,Srebrny,Używane,Manualna,Unknown,18 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2007,163 KM,Diesel,Kombi,200 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,19 900 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2014,245 KM,Benzyna,Sedan,164 162 km,Czarny,Używane,Automatyczna,Unknown,58 000PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2008,170 KM,Benzyna,Kombi,212 500 km,Czarny,Używane,Manualna,Niemcy,18 999PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2007,129 KM,Benzyna,Kombi,248 000 km,Szary,Używane,Manualna,Niemcy,22 900PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 996 cm3,2006,258 KM,Benzyna+LPG,Kombi,288 942 km,Szary,Używane,Automatyczna,Unknown,32 900PLN,OTOMOTO
+BMW,Seria 3,E30 (1982-1994),2 494 cm3,1987,170 KM,Benzyna,Sedan,171 000 km,Srebrny,Używane,Manualna,Unknown,36 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,Unknown,2007,150 KM,Benzyna,Kombi,270 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,22 000 złdo negocjacji,OLX
+BMW,Seria 3,E46 (1998-2007),2 926 cm3,2002,184 KM,Diesel,Sedan,299 000 km,Szary,Używane,Manualna,Niemcy,8 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2004,117 KM,Diesel,Sedan,210 000 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,7 500 zł,OLX
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2021,184 KM,Hybryda Plug-in,Kombi,41 000 km,Szary,Używane,Automatyczna,Unknown,144 999PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2021,258 KM,Benzyna,Sedan,33 000 km,Czarny,Używane,Automatyczna,Stany Zjednoczone,148 000PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),2 494 cm3,2000,170 KM,Benzyna,Coupe,246 000 km,Srebrny,Używane,Manualna,Unknown,12 400PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2013,245 KM,Benzyna,Sedan,237 621 km,Niebieski,Używane,Automatyczna,Polska,49 999PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2008,143 KM,Benzyna,Hatchback,311 000 km,Czarny,Nieuszkodzony,Automatyczna,Niemcy,16 800 złdo negocjacji,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 993 cm3,2011,245 KM,Diesel,Coupe,263 000 km,Czarny,Używane,Manualna,Unknown,63 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2012,150 KM,Diesel,Sedan,305 000 km,Szary,Nieuszkodzony,Automatyczna,Unknown,40 500 zł,OLX
+BMW,Seria 3,Unknown,2 793 cm³,2000,193 KM,Benzyna,Sedan,326 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,13 500 zł,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2003,143 KM,Benzyna,Sedan,224 000 km,Zielony,Nieuszkodzony,Manualna,Unknown,9 900 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2008,170 KM,Diesel,Kombi,375 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,16 000 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 951 cm³,2001,130 KM,Diesel,Sedan,300 000 km,Niebieski,Nieuszkodzony,Manualna,Unknown,4 300 zł,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2008,Unknown,Diesel,Kombi,280 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,19 900 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2019,190 KM,Diesel,Kombi,59 822 km,Czarny,Używane,Automatyczna,Niemcy,97 900PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2013,143 KM,Diesel,Kombi,289 000 km,Czarny,Używane,Automatyczna,Niemcy,41 700PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2013,184 KM,Diesel,Kombi,305 000 km,Czarny,Używane,Automatyczna,Unknown,41 999PLN,OTOMOTO
+BMW,Seria 3,E46 (1998-2007),2 171 cm3,2001,170 KM,Benzyna,Coupe,336 000 km,Srebrny,Używane,Manualna,Unknown,14 500PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2008,170 KM,Benzyna,Kombi,200 765 km,Szary,Używane,Automatyczna,Unknown,20 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 000 cm³,2014,163 KM,Diesel,Kombi,311 000 km,Brązowy – Beżowy,Nieuszkodzony,Manualna,Unknown,44 000 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 997 cm3,2014,245 KM,Benzyna,Sedan,85 000 km,Błękitny,Używane,Manualna,Stany Zjednoczone,86 500PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2009,Unknown,Diesel,Kombi,210 000 km,Srebrny,Nieuszkodzony,Automatyczna,Polska,21 000 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2012,163 KM,Diesel,Sedan,219 000 km,Granatowy,Używane,Automatyczna,Unknown,53 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2008,136 KM,Diesel,Sedan,295 874 km,Szary,Uszkodzony,Manualna,Belgia,8 000 zł,OLX
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2021,258 KM,Benzyna,Sedan,20 000 km,Czarny,Używane,Automatyczna,Unknown,155 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 800 cm³,1999,193 KM,Benzyna,Sedan,231 000 km,Biały,Nieuszkodzony,Manualna,Polska,13 500 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,2 000 cm³,2002,170 KM,Diesel,Kombi,420 000 km,Szary,Nieuszkodzony,Manualna,Unknown,9 999 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 900 cm³,2000,118 KM,LPG,Kombi,25 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,3 990 zł,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2013,143 KM,Diesel,Sedan,106 000 km,Brązowy,Używane,Automatyczna,Niemcy,50 000PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm3,2014,116 KM,Diesel,Sedan,78 000 km,Czarny,Używane,Automatyczna,Belgia,61 000PLN,OTOMOTO
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2015,184 KM,Diesel,Kombi,138 000 km,Biały,Używane,Manualna,Niemcy,60 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,2 500 cm³,2004,Unknown,LPG,Coupe,331 946 km,Inny kolor,Nieuszkodzony,Automatyczna,Polska,6 500 zł,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),2 993 cm3,2008,231 KM,Diesel,Kombi,360 000 km,Czarny,Używane,Automatyczna,Unknown,32 000PLN,OTOMOTO
+BMW,Seria 3,G20/G21 (2019-),1 995 cm3,2020,190 KM,Diesel,Kombi,132 985 km,Szary,Używane,Automatyczna,Szwecja,129 899PLN,OTOMOTO
+BMW,Seria 3,E36 (1990-1999),1 796 cm3,1997,115 KM,Benzyna+LPG,Kombi,376 000 km,Fioletowy,Używane,Manualna,Unknown,9 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 997 cm³,2012,184 KM,Benzyna,Sedan,207 495 km,Szary,Nieuszkodzony,Automatyczna,Niemcy,70 000 złdo negocjacji,OLX
+BMW,Seria 3,F30/F31 (2012-2020),1 995 cm3,2014,184 KM,Diesel,Sedan,132 000 km,Czarny,Używane,Automatyczna,Polska,76 260PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 597 cm³,1997,105 KM,Benzyna,Sedan,293 922 km,Zielony,Nieuszkodzony,Manualna,Niemcy,3 000 zł,OLX

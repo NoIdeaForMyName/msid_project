@@ -1,8 +1,1301 @@
 brand,model,generation,eng_cap,prod_year,power,fuel_type,car_body,mileage,color,condition,transmission,origin,price,source
-Volkswagen,Golf,VIII (2020-),1 968 cm3,2023,115 KM,Diesel,Kombi,5 km,Szary,Nowe,Manualna,Unknown,149 980PLN,OTOMOTO
+Volkswagen,Golf,VI,1 968 cm³,2008,110 KM,Diesel,Hatchback,175 257 km,Czarny,Nieuszkodzony,Manualna,Unknown,17 900 zł,OLX
+Volkswagen,Golf,Unknown,1 400 cm³,2016,122 KM,Benzyna,Hatchback,111 100 km,Srebrny,Nieuszkodzony,Automatyczna,Niemcy,47 900 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,90 KM,Benzyna,Kompakt,149 000 km,Niebieski,Używane,Manualna,Unknown,13 900PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 500 cm³,2021,131 KM,Benzyna,Hatchback,6 500 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,88 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2019,245 KM,Benzyna,Kompakt,60 000 km,Czarny,Używane,Automatyczna,Francja,48 800PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2011,105 KM,Diesel,Kombi,231 200 km,Srebrny,Używane,Manualna,Niemcy,23 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2015,150 KM,Diesel,Kombi,88 400 km,Bordowy,Używane,Manualna,Unknown,52 800PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,90 KM,Diesel,Kombi,129 350 km,Srebrny,Używane,Manualna,Polska,40 900PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 498 cm3,2020,150 KM,Benzyna,Kompakt,64 000 km,Szary,Używane,Manualna,Polska,89 900PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 595 cm3,1998,100 KM,Benzyna,Kompakt,248 512 km,Czarny,Używane,Automatyczna,Polska,5 600PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kompakt,372 000 km,Srebrny,Używane,Manualna,Belgia,16 500PLN,OTOMOTO
+Volkswagen,Golf,5,1 900 cm³,2008,105 KM,Diesel,Hatchback,320 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,8 000 złdo negocjacji,OLX
+Volkswagen,Golf,V,14 cm³,2006,80 KM,Benzyna,Hatchback,246 km,Inny kolor,Nieuszkodzony,Manualna,Polska,5 500 złdo negocjacji,OLX
+Volkswagen,Golf,VI,1 968 cm³,2009,110 KM,Diesel,Hatchback,200 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,22 550 zł,OLX
+Volkswagen,Golf,V,1 900 cm³,2009,110 KM,Diesel,Kombi,220 000 km,Srebrny,Nieuszkodzony,Manualna,Polska,7 500 złdo negocjacji,OLX
+Volkswagen,Golf,5,1 399 cm³,2004,90 KM,Benzyna,Hatchback,260 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,12 000 zł,OLX
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2011,122 KM,Benzyna,Kompakt,214 500 km,Szary,Używane,Manualna,Polska,24 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2006,105 KM,Diesel,Kompakt,384 632 km,Szary,Używane,Manualna,Niemcy,12 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2010,160 KM,Benzyna,Coupe,222 000 km,Biały,Używane,Manualna,Unknown,27 499PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2010,160 KM,Benzyna,Kombi,167 000 km,Szary,Używane,Manualna,Polska,21 500PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2015,230 KM,Benzyna,Kompakt,140 000 km,Granatowy,Używane,Automatyczna,Unknown,67 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2006,90 KM,Diesel,Auta miejskie,295 000 km,Inny kolor,Używane,Manualna,Unknown,12 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,110 KM,Diesel,Kombi,183 000 km,Czarny,Używane,Manualna,Niemcy,44 500PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2003,75 KM,Benzyna,Kompakt,220 315 km,Srebrny,Używane,Manualna,Niemcy,9 200PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2014,150 KM,Diesel,Kombi,307 000 km,Szary,Używane,Automatyczna,Niemcy,38 990PLN,OTOMOTO
+Volkswagen,Golf,FULL,1 600 cm³,2018,115 KM,Diesel,Kombi,227 000 km,Brązowy – Beżowy,Nieuszkodzony,Manualna,Polska,43 500 zł,OLX
+Volkswagen,Golf,6,1 390 cm³,2009,80 KM,Benzyna,Hatchback,214 766 km,Biały,Nieuszkodzony,Manualna,Niemcy,17 300 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2007,80 KM,Benzyna,Auta małe,196 000 km,Granatowy,Używane,Manualna,Niemcy,10 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2015,110 KM,Diesel,Kompakt,213 000 km,Srebrny,Używane,Manualna,Niemcy,44 900PLN,OTOMOTO
+Volkswagen,Golf,7,1 968 cm³,2019,150 KM,Diesel,Hatchback,95 000 km,Srebrny,Nieuszkodzony,Automatyczna,Niemcy,56 000 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2007,80 KM,Benzyna+LPG,Kompakt,196 000 km,Granatowy,Używane,Manualna,Polska,12 100PLN,OTOMOTO
+Volkswagen,Golf,5,1 900 cm³,2008,105 KM,Diesel,Kombi,336 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,11 500 zł,OLX
+Volkswagen,Golf,Unknown,1 896 cm³,2006,1 KM,Diesel,Hatchback,227 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,13 400 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,110 KM,Diesel,Kombi,130 676 km,Czerwony,Używane,Manualna,Unknown,49 900PLN,OTOMOTO
 Volkswagen,Golf,lV,1 600 cm³,1999,100 KM,Benzyna,Hatchback,270 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,5 500 złdo negocjacji,OLX
-Volkswagen,Golf,VII (2012-2020),1 598 cm3,2015,110 KM,Diesel,Kombi,198 000 km,Czarny,Używane,Manualna,Niemcy,39 900PLN,OTOMOTO
-Volkswagen,Golf,V (2003-2009),1 390 cm3,2007,140 KM,Benzyna,Kompakt,153 142 km,Granatowy,Używane,Automatyczna,Niemcy,18 000PLN,OTOMOTO
 Volkswagen,Golf,V,1 390 cm³,2005,1 KM,Benzyna,Hatchback,213 000 km,Niebieski,Nieuszkodzony,Manualna,Polska,6 100 zł,OLX
-Volkswagen,Golf,IV (1997-2006),1 896 cm3,2002,100 KM,Diesel,Kombi,270 000 km,Srebrny,Używane,Manualna,Niemcy,14 700PLN,OTOMOTO
-Volkswagen,Golf,IV,1 400 cm³,2000,75 KM,Benzyna,Hatchback,250 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,1 490 zł,OLX
+Volkswagen,Golf,VW,140 cm³,2007,140 KM,Diesel,Kombi,310 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,10 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),999 cm3,2018,110 KM,Benzyna,Kombi,193 540 km,Szary,Używane,Manualna,Unknown,33 900PLN,OTOMOTO
+Volkswagen,Golf,VI,1 400 cm³,2009,Unknown,Benzyna,Hatchback,203 000 km,Szary,Uszkodzony,Manualna,Niemcy,14 900 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2017,220 KM,Benzyna,Kompakt,131 000 km,Srebrny,Używane,Automatyczna,Unknown,69 900PLN,OTOMOTO
+Volkswagen,Golf,III,1 800 cm³,1997,90 KM,Benzyna,Hatchback,212 000 km,Szary,Nieuszkodzony,Manualna,Unknown,7 400 zł,OLX
+Volkswagen,Golf,7,1 598 cm³,2016,90 KM,Diesel,Hatchback,180 000 km,Szary,Nieuszkodzony,Manualna,Polska,42 500 złdo negocjacji,OLX
+Volkswagen,Golf,combi,Unknown,2008,Unknown,Diesel,Kombi,323 000 km,Biały,Nieuszkodzony,Manualna,Polska,6 399 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2015,230 KM,Benzyna,Kompakt,99 889 km,Biały,Używane,Automatyczna,Niemcy,49 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2014,184 KM,Diesel,Kompakt,230 000 km,Inny kolor,Używane,Manualna,Unknown,59 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2007,140 KM,Benzyna,Kompakt,153 142 km,Granatowy,Używane,Automatyczna,Niemcy,18 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 968 cm3,2011,140 KM,Diesel,Kombi,285 000 km,Srebrny,Używane,Automatyczna,Unknown,25 900PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 594 cm³,2005,105 KM,Benzyna,Hatchback,191 140 km,Czarny,Nieuszkodzony,Manualna,Niemcy,9 500 złdo negocjacji,OLX
+Volkswagen,Golf,4,1 600 cm³,1998,105 KM,LPG,Hatchback,216 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,4 800 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2016,184 KM,Diesel,Kombi,210 000 km,Biały,Używane,Automatyczna,Unknown,69 000PLN,OTOMOTO
+Volkswagen,Golf,4,1 cm³,1998,75 KM,Benzyna,Kabriolet,262 030 km,Niebieski,Nieuszkodzony,Manualna,Polska,6 500 zł,OLX
+Volkswagen,Golf,VIII (2020-),1 498 cm3,2020,150 KM,Benzyna,Kompakt,48 026 km,Czarny,Używane,Automatyczna,Polska,102 900PLN,OTOMOTO
+Volkswagen,Golf,V,2 000 cm³,2008,143 KM,Diesel,Kombi,330 600 km,Czarny,Nieuszkodzony,Manualna,Niemcy,12 500 złdo negocjacji,OLX
+Volkswagen,Golf,VI,1 968 cm³,2008,110 KM,Diesel,Hatchback,175 257 km,Czarny,Nieuszkodzony,Manualna,Unknown,17 900 zł,OLX
+Volkswagen,Golf,VI,1 968 cm³,2009,110 KM,Diesel,Hatchback,200 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,22 550 zł,OLX
+Volkswagen,Golf,Unknown,2 cm³,2005,200 KM,Benzyna,Coupe,263 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,22 500 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 500 cm³,2021,131 KM,Benzyna,Hatchback,6 500 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,88 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2019,245 KM,Benzyna,Kompakt,60 000 km,Czarny,Używane,Automatyczna,Francja,48 800PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2011,105 KM,Diesel,Kombi,231 200 km,Srebrny,Używane,Manualna,Niemcy,23 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2015,150 KM,Diesel,Kombi,88 400 km,Bordowy,Używane,Manualna,Unknown,52 800PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,90 KM,Diesel,Kombi,129 350 km,Srebrny,Używane,Manualna,Polska,40 900PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 498 cm3,2020,150 KM,Benzyna,Kompakt,64 000 km,Szary,Używane,Manualna,Polska,89 900PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 595 cm3,1998,100 KM,Benzyna,Kompakt,248 512 km,Czarny,Używane,Automatyczna,Polska,5 600PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kompakt,372 000 km,Srebrny,Używane,Manualna,Belgia,16 500PLN,OTOMOTO
+Volkswagen,Golf,5,1 900 cm³,2008,105 KM,Diesel,Hatchback,320 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,8 000 złdo negocjacji,OLX
+Volkswagen,Golf,V,1 900 cm³,2009,110 KM,Diesel,Kombi,220 000 km,Srebrny,Nieuszkodzony,Manualna,Polska,7 500 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 390 cm³,2004,90 KM,Benzyna,Hatchback,206 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,6 000 złdo negocjacji,OLX
+Volkswagen,Golf,5,1 399 cm³,2004,90 KM,Benzyna,Hatchback,260 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,12 000 zł,OLX
+Volkswagen,Golf,V,14 cm³,2006,80 KM,Benzyna,Hatchback,246 km,Inny kolor,Nieuszkodzony,Manualna,Polska,5 500 złdo negocjacji,OLX
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2011,122 KM,Benzyna,Kompakt,214 500 km,Szary,Używane,Manualna,Polska,24 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2006,105 KM,Diesel,Kompakt,384 632 km,Szary,Używane,Manualna,Niemcy,12 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2010,160 KM,Benzyna,Coupe,222 000 km,Biały,Używane,Manualna,Unknown,27 499PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2010,160 KM,Benzyna,Kombi,167 000 km,Szary,Używane,Manualna,Polska,21 500PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2015,230 KM,Benzyna,Kompakt,140 000 km,Granatowy,Używane,Automatyczna,Unknown,67 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2006,90 KM,Diesel,Auta miejskie,295 000 km,Inny kolor,Używane,Manualna,Unknown,12 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,110 KM,Diesel,Kombi,183 000 km,Czarny,Używane,Manualna,Niemcy,44 500PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2003,75 KM,Benzyna,Kompakt,220 315 km,Srebrny,Używane,Manualna,Niemcy,9 200PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2014,150 KM,Diesel,Kombi,307 000 km,Szary,Używane,Automatyczna,Niemcy,38 990PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 896 cm³,2000,90 KM,Diesel,Hatchback,356 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,3 999 złdo negocjacji,OLX
+Volkswagen,Golf,1.6,1 598 cm³,2010,105 KM,Diesel,Kombi,230 000 km,Srebrny,Nieuszkodzony,Automatyczna,Polska,24 444 złdo negocjacji,OLX
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2007,80 KM,Benzyna,Auta małe,196 000 km,Granatowy,Używane,Manualna,Niemcy,10 900PLN,OTOMOTO
+Volkswagen,Golf,FULL,1 600 cm³,2018,115 KM,Diesel,Kombi,227 000 km,Brązowy – Beżowy,Nieuszkodzony,Manualna,Polska,43 500 zł,OLX
+Volkswagen,Golf,7,1 968 cm³,2019,150 KM,Diesel,Hatchback,95 000 km,Srebrny,Nieuszkodzony,Automatyczna,Niemcy,56 000 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2007,80 KM,Benzyna+LPG,Kompakt,196 000 km,Granatowy,Używane,Manualna,Polska,12 100PLN,OTOMOTO
+Volkswagen,Golf,5,1 900 cm³,2008,105 KM,Diesel,Kombi,336 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,11 500 zł,OLX
+Volkswagen,Golf,Unknown,1 896 cm³,2006,1 KM,Diesel,Hatchback,227 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,13 400 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,110 KM,Diesel,Kombi,130 676 km,Czerwony,Używane,Manualna,Unknown,49 900PLN,OTOMOTO
+Volkswagen,Golf,lV,1 600 cm³,1999,100 KM,Benzyna,Hatchback,270 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,5 500 złdo negocjacji,OLX
+Volkswagen,Golf,V,1 390 cm³,2005,1 KM,Benzyna,Hatchback,213 000 km,Niebieski,Nieuszkodzony,Manualna,Polska,6 100 zł,OLX
+Volkswagen,Golf,VW,140 cm³,2007,140 KM,Diesel,Kombi,310 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,10 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),999 cm3,2018,110 KM,Benzyna,Kombi,193 540 km,Szary,Używane,Manualna,Unknown,33 900PLN,OTOMOTO
+Volkswagen,Golf,V,1 900 cm³,2008,105 KM,Diesel,Hatchback,345 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,11 500 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2015,110 KM,Diesel,Kompakt,213 000 km,Srebrny,Używane,Manualna,Niemcy,44 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2017,220 KM,Benzyna,Kompakt,131 000 km,Srebrny,Używane,Automatyczna,Unknown,69 900PLN,OTOMOTO
+Volkswagen,Golf,VI,1 400 cm³,2009,Unknown,Benzyna,Hatchback,203 000 km,Szary,Uszkodzony,Manualna,Niemcy,14 900 złdo negocjacji,OLX
+Volkswagen,Golf,combi,Unknown,2008,Unknown,Diesel,Kombi,323 000 km,Biały,Nieuszkodzony,Manualna,Polska,6 399 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2015,230 KM,Benzyna,Kompakt,99 889 km,Biały,Używane,Automatyczna,Niemcy,49 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2014,184 KM,Diesel,Kompakt,230 000 km,Inny kolor,Używane,Manualna,Unknown,59 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2007,140 KM,Benzyna,Kompakt,153 142 km,Granatowy,Używane,Automatyczna,Niemcy,18 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 968 cm3,2011,140 KM,Diesel,Kombi,285 000 km,Srebrny,Używane,Automatyczna,Unknown,25 900PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 594 cm³,2005,105 KM,Benzyna,Hatchback,191 140 km,Czarny,Nieuszkodzony,Manualna,Niemcy,9 500 złdo negocjacji,OLX
+Volkswagen,Golf,4,1 600 cm³,1998,105 KM,LPG,Hatchback,216 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,4 800 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2016,184 KM,Diesel,Kombi,210 000 km,Biały,Używane,Automatyczna,Unknown,69 000PLN,OTOMOTO
+Volkswagen,Golf,4,1 cm³,1998,75 KM,Benzyna,Kabriolet,262 030 km,Niebieski,Nieuszkodzony,Manualna,Polska,6 500 zł,OLX
+Volkswagen,Golf,V,2 000 cm³,2008,143 KM,Diesel,Kombi,330 600 km,Czarny,Nieuszkodzony,Manualna,Niemcy,12 500 złdo negocjacji,OLX
+Volkswagen,Golf,VI (2008-2013),1 197 cm3,2012,105 KM,Benzyna,Kabriolet,104 000 km,Inny kolor,Używane,Manualna,Unknown,35 900PLN,OTOMOTO
+Volkswagen,Golf,IV,1 600 cm³,2000,101 KM,Benzyna,Hatchback,250 000 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,1 490 zł,OLX
+Volkswagen,Golf,VI,1 598 cm³,2012,105 KM,Diesel,Hatchback,144 500 km,Czarny,Uszkodzony,Manualna,Belgia,22 000 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,2 cm³,2005,200 KM,Benzyna,Coupe,263 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,22 500 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 500 cm³,2021,131 KM,Benzyna,Hatchback,6 500 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,88 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2019,245 KM,Benzyna,Kompakt,60 000 km,Czarny,Używane,Automatyczna,Francja,48 800PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2011,105 KM,Diesel,Kombi,231 200 km,Srebrny,Używane,Manualna,Niemcy,23 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2015,150 KM,Diesel,Kombi,88 400 km,Bordowy,Używane,Manualna,Unknown,52 800PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,90 KM,Diesel,Kombi,129 350 km,Srebrny,Używane,Manualna,Polska,40 900PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 498 cm3,2020,150 KM,Benzyna,Kompakt,64 000 km,Szary,Używane,Manualna,Polska,89 900PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 595 cm3,1998,100 KM,Benzyna,Kompakt,248 512 km,Czarny,Używane,Automatyczna,Polska,5 600PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kompakt,372 000 km,Srebrny,Używane,Manualna,Belgia,16 500PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 390 cm³,2004,90 KM,Benzyna,Hatchback,206 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,6 000 złdo negocjacji,OLX
+Volkswagen,Golf,VI,1 598 cm³,2011,105 KM,Diesel,Kombi,222 522 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,17 900 zł,OLX
+Volkswagen,Golf,5,1 900 cm³,2005,105 KM,Diesel,Hatchback,266 500 km,Niebieski,Nieuszkodzony,Automatyczna,Niemcy,17 999 zł,OLX
+Volkswagen,Golf,5,1 900 cm³,2008,105 KM,Diesel,Hatchback,320 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,8 000 złdo negocjacji,OLX
+Volkswagen,Golf,V,14 cm³,2006,80 KM,Benzyna,Hatchback,246 km,Inny kolor,Nieuszkodzony,Manualna,Polska,5 500 złdo negocjacji,OLX
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2011,122 KM,Benzyna,Kompakt,214 500 km,Szary,Używane,Manualna,Polska,24 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2006,105 KM,Diesel,Kompakt,384 632 km,Szary,Używane,Manualna,Niemcy,12 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2010,160 KM,Benzyna,Coupe,222 000 km,Biały,Używane,Manualna,Unknown,27 499PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2010,160 KM,Benzyna,Kombi,167 000 km,Szary,Używane,Manualna,Polska,21 500PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2015,230 KM,Benzyna,Kompakt,140 000 km,Granatowy,Używane,Automatyczna,Unknown,67 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2006,90 KM,Diesel,Auta miejskie,295 000 km,Inny kolor,Używane,Manualna,Unknown,12 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,110 KM,Diesel,Kombi,183 000 km,Czarny,Używane,Manualna,Niemcy,44 500PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2003,75 KM,Benzyna,Kompakt,220 315 km,Srebrny,Używane,Manualna,Niemcy,9 200PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 896 cm³,2000,90 KM,Diesel,Hatchback,356 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,3 999 złdo negocjacji,OLX
+Volkswagen,Golf,1.6,1 598 cm³,2010,105 KM,Diesel,Kombi,230 000 km,Srebrny,Nieuszkodzony,Automatyczna,Polska,24 444 złdo negocjacji,OLX
+Volkswagen,Golf,V,1 900 cm³,2008,105 KM,Diesel,Hatchback,345 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,11 500 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2014,150 KM,Diesel,Kombi,307 000 km,Szary,Używane,Automatyczna,Niemcy,38 990PLN,OTOMOTO
+Volkswagen,Golf,FULL,1 600 cm³,2018,115 KM,Diesel,Kombi,227 000 km,Brązowy – Beżowy,Nieuszkodzony,Manualna,Polska,43 500 zł,OLX
+Volkswagen,Golf,7,1 968 cm³,2019,150 KM,Diesel,Hatchback,95 000 km,Srebrny,Nieuszkodzony,Automatyczna,Niemcy,56 000 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2007,80 KM,Benzyna+LPG,Kompakt,196 000 km,Granatowy,Używane,Manualna,Polska,12 100PLN,OTOMOTO
+Volkswagen,Golf,5,1 900 cm³,2008,105 KM,Diesel,Kombi,336 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,11 500 zł,OLX
+Volkswagen,Golf,Unknown,1 896 cm³,2006,1 KM,Diesel,Hatchback,227 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,13 400 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,110 KM,Diesel,Kombi,130 676 km,Czerwony,Używane,Manualna,Unknown,49 900PLN,OTOMOTO
+Volkswagen,Golf,lV,1 600 cm³,1999,100 KM,Benzyna,Hatchback,270 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,5 500 złdo negocjacji,OLX
+Volkswagen,Golf,V,1 390 cm³,2005,1 KM,Benzyna,Hatchback,213 000 km,Niebieski,Nieuszkodzony,Manualna,Polska,6 100 zł,OLX
+Volkswagen,Golf,VW,140 cm³,2007,140 KM,Diesel,Kombi,310 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,10 000 złdo negocjacji,OLX
+Volkswagen,Golf,6,1 600 cm³,2012,110 KM,Diesel,Kombi,241 780 km,Inny kolor,Uszkodzony,Manualna,Niemcy,11 500 zł,OLX
+Volkswagen,Golf,3,1 800 cm³,1993,90 KM,Benzyna,Hatchback,236 000 km,Inny kolor,Nieuszkodzony,Manualna,Szwajcaria,5 500 zł,OLX
+Volkswagen,Golf,GTI,2 000 cm³,2006,250 KM,Benzyna,Hatchback,252 000 km,Czerwony,Nieuszkodzony,Manualna,Polska,27 900 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),999 cm3,2018,110 KM,Benzyna,Kombi,193 540 km,Szary,Używane,Manualna,Unknown,33 900PLN,OTOMOTO
+Volkswagen,Golf,VI,1 400 cm³,2009,Unknown,Benzyna,Hatchback,203 000 km,Szary,Uszkodzony,Manualna,Niemcy,14 900 złdo negocjacji,OLX
+Volkswagen,Golf,combi,Unknown,2008,Unknown,Diesel,Kombi,323 000 km,Biały,Nieuszkodzony,Manualna,Polska,6 399 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2015,230 KM,Benzyna,Kompakt,99 889 km,Biały,Używane,Automatyczna,Niemcy,49 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2014,184 KM,Diesel,Kompakt,230 000 km,Inny kolor,Używane,Manualna,Unknown,59 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2007,140 KM,Benzyna,Kompakt,153 142 km,Granatowy,Używane,Automatyczna,Niemcy,18 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 968 cm3,2011,140 KM,Diesel,Kombi,285 000 km,Srebrny,Używane,Automatyczna,Unknown,25 900PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 594 cm³,2005,105 KM,Benzyna,Hatchback,191 140 km,Czarny,Nieuszkodzony,Manualna,Niemcy,9 500 złdo negocjacji,OLX
+Volkswagen,Golf,4,1 600 cm³,1998,105 KM,LPG,Hatchback,216 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,4 800 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2016,184 KM,Diesel,Kombi,210 000 km,Biały,Używane,Automatyczna,Unknown,69 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 197 cm3,2012,105 KM,Benzyna,Kabriolet,104 000 km,Inny kolor,Używane,Manualna,Unknown,35 900PLN,OTOMOTO
+Volkswagen,Golf,IV,1 600 cm³,2000,101 KM,Benzyna,Hatchback,250 000 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,1 490 zł,OLX
+Volkswagen,Golf,VI,1 598 cm³,2011,105 KM,Diesel,Kombi,222 522 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,17 900 zł,OLX
+Volkswagen,Golf,VI,1 598 cm³,2012,105 KM,Diesel,Hatchback,144 500 km,Czarny,Uszkodzony,Manualna,Belgia,22 000 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,2 cm³,2005,200 KM,Benzyna,Coupe,263 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,22 500 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 500 cm³,2021,131 KM,Benzyna,Hatchback,6 500 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,88 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2019,245 KM,Benzyna,Kompakt,60 000 km,Czarny,Używane,Automatyczna,Francja,48 800PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2011,105 KM,Diesel,Kombi,231 200 km,Srebrny,Używane,Manualna,Niemcy,23 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2015,150 KM,Diesel,Kombi,88 400 km,Bordowy,Używane,Manualna,Unknown,52 800PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,90 KM,Diesel,Kombi,129 350 km,Srebrny,Używane,Manualna,Polska,40 900PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 498 cm3,2020,150 KM,Benzyna,Kompakt,64 000 km,Szary,Używane,Manualna,Polska,89 900PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 595 cm3,1998,100 KM,Benzyna,Kompakt,248 512 km,Czarny,Używane,Automatyczna,Polska,5 600PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kompakt,372 000 km,Srebrny,Używane,Manualna,Belgia,16 500PLN,OTOMOTO
+Volkswagen,Golf,5,1 900 cm³,2005,105 KM,Diesel,Hatchback,266 500 km,Niebieski,Nieuszkodzony,Automatyczna,Niemcy,17 999 zł,OLX
+Volkswagen,Golf,1.6,1 598 cm³,2010,105 KM,Diesel,Kombi,230 000 km,Srebrny,Nieuszkodzony,Automatyczna,Polska,24 444 złdo negocjacji,OLX
+Volkswagen,Golf,V,1 900 cm³,2008,105 KM,Diesel,Hatchback,345 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,11 500 złdo negocjacji,OLX
+Volkswagen,Golf,5,1 900 cm³,2008,105 KM,Diesel,Hatchback,320 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,8 000 złdo negocjacji,OLX
+Volkswagen,Golf,V,14 cm³,2006,80 KM,Benzyna,Hatchback,246 km,Inny kolor,Nieuszkodzony,Manualna,Polska,5 500 złdo negocjacji,OLX
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2011,122 KM,Benzyna,Kompakt,214 500 km,Szary,Używane,Manualna,Polska,24 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2006,105 KM,Diesel,Kompakt,384 632 km,Szary,Używane,Manualna,Niemcy,12 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2010,160 KM,Benzyna,Coupe,222 000 km,Biały,Używane,Manualna,Unknown,27 499PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2010,160 KM,Benzyna,Kombi,167 000 km,Szary,Używane,Manualna,Polska,21 500PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2015,230 KM,Benzyna,Kompakt,140 000 km,Granatowy,Używane,Automatyczna,Unknown,67 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2006,90 KM,Diesel,Auta miejskie,295 000 km,Inny kolor,Używane,Manualna,Unknown,12 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,110 KM,Diesel,Kombi,183 000 km,Czarny,Używane,Manualna,Niemcy,44 500PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2003,75 KM,Benzyna,Kompakt,220 315 km,Srebrny,Używane,Manualna,Niemcy,9 200PLN,OTOMOTO
+Volkswagen,Golf,6,1 600 cm³,2012,110 KM,Diesel,Kombi,241 780 km,Inny kolor,Uszkodzony,Manualna,Niemcy,11 500 zł,OLX
+Volkswagen,Golf,3,1 800 cm³,1993,90 KM,Benzyna,Hatchback,236 000 km,Inny kolor,Nieuszkodzony,Manualna,Szwajcaria,5 500 zł,OLX
+Volkswagen,Golf,GTI,2 000 cm³,2006,250 KM,Benzyna,Hatchback,252 000 km,Czerwony,Nieuszkodzony,Manualna,Polska,27 900 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2014,150 KM,Diesel,Kombi,307 000 km,Szary,Używane,Automatyczna,Niemcy,38 990PLN,OTOMOTO
+Volkswagen,Golf,FULL,1 600 cm³,2018,115 KM,Diesel,Kombi,227 000 km,Brązowy – Beżowy,Nieuszkodzony,Manualna,Polska,43 500 zł,OLX
+Volkswagen,Golf,7,1 968 cm³,2019,150 KM,Diesel,Hatchback,95 000 km,Srebrny,Nieuszkodzony,Automatyczna,Niemcy,56 000 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2007,80 KM,Benzyna+LPG,Kompakt,196 000 km,Granatowy,Używane,Manualna,Polska,12 100PLN,OTOMOTO
+Volkswagen,Golf,5,1 900 cm³,2008,105 KM,Diesel,Kombi,336 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,11 500 zł,OLX
+Volkswagen,Golf,Unknown,1 896 cm³,2006,1 KM,Diesel,Hatchback,227 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,13 400 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,110 KM,Diesel,Kombi,130 676 km,Czerwony,Używane,Manualna,Unknown,49 900PLN,OTOMOTO
+Volkswagen,Golf,lV,1 600 cm³,1999,100 KM,Benzyna,Hatchback,270 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,5 500 złdo negocjacji,OLX
+Volkswagen,Golf,V,1 390 cm³,2005,1 KM,Benzyna,Hatchback,213 000 km,Niebieski,Nieuszkodzony,Manualna,Polska,6 100 zł,OLX
+Volkswagen,Golf,VW,140 cm³,2007,140 KM,Diesel,Kombi,310 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,10 000 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 600 cm³,2007,102 KM,LPG,Kombi,300 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,11 500 złdo negocjacji,OLX
+Volkswagen,Golf,V (2003-2009),1 984 cm3,2004,150 KM,Benzyna,Auta miejskie,299 689 km,Niebieski,Używane,Manualna,Unknown,9 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2009,105 KM,Diesel,Kompakt,227 600 km,Biały,Używane,Manualna,Unknown,26 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),999 cm3,2018,110 KM,Benzyna,Kombi,193 540 km,Szary,Używane,Manualna,Unknown,33 900PLN,OTOMOTO
+Volkswagen,Golf,VI,1 400 cm³,2009,Unknown,Benzyna,Hatchback,203 000 km,Szary,Uszkodzony,Manualna,Niemcy,14 900 złdo negocjacji,OLX
+Volkswagen,Golf,combi,Unknown,2008,Unknown,Diesel,Kombi,323 000 km,Biały,Nieuszkodzony,Manualna,Polska,6 399 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2015,230 KM,Benzyna,Kompakt,99 889 km,Biały,Używane,Automatyczna,Niemcy,49 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2014,184 KM,Diesel,Kompakt,230 000 km,Inny kolor,Używane,Manualna,Unknown,59 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2007,140 KM,Benzyna,Kompakt,153 142 km,Granatowy,Używane,Automatyczna,Niemcy,18 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 968 cm3,2011,140 KM,Diesel,Kombi,285 000 km,Srebrny,Używane,Automatyczna,Unknown,25 900PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 594 cm³,2005,105 KM,Benzyna,Hatchback,191 140 km,Czarny,Nieuszkodzony,Manualna,Niemcy,9 500 złdo negocjacji,OLX
+Volkswagen,Golf,4,1 600 cm³,1998,105 KM,LPG,Hatchback,216 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,4 800 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2016,184 KM,Diesel,Kombi,210 000 km,Biały,Używane,Automatyczna,Unknown,69 000PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 900 cm³,2000,66 KM,Diesel,Kabriolet,108 728 km,Zielony,Nieuszkodzony,Manualna,Polska,13 500 złdo negocjacji,OLX
+Volkswagen,Golf,5,1 968 cm³,2008,140 KM,Diesel,Hatchback,396 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,14 500 złdo negocjacji,OLX
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2009,122 KM,Benzyna,Kombi,198 000 km,Czarny,Używane,Manualna,Niemcy,16 700PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,6,2 000 cm³,2010,140 KM,Diesel,Kombi,361 000 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,17 500 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,67 960 km,Czarny,Używane,Automatyczna,Polska,77 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,75 KM,Benzyna,Kompakt,248 666 km,Srebrny,Używane,Manualna,Niemcy,7 500PLN,OTOMOTO
+Volkswagen,Golf,VI,1 598 cm³,2012,105 KM,Diesel,Hatchback,144 500 km,Czarny,Uszkodzony,Manualna,Belgia,22 000 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,2 cm³,2005,200 KM,Benzyna,Coupe,263 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,22 500 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 500 cm³,2021,131 KM,Benzyna,Hatchback,6 500 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,88 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2019,245 KM,Benzyna,Kompakt,60 000 km,Czarny,Używane,Automatyczna,Francja,48 800PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2011,105 KM,Diesel,Kombi,231 200 km,Srebrny,Używane,Manualna,Niemcy,23 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2015,150 KM,Diesel,Kombi,88 400 km,Bordowy,Używane,Manualna,Unknown,52 800PLN,OTOMOTO
+Volkswagen,Golf,V,1 896 cm³,2009,105 KM,Diesel,Kombi,306 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,12 000 złdo negocjacji,OLX
+Volkswagen,Golf,IV,1 984 cm³,1999,115 KM,Benzyna,Hatchback,241 000 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,2 399 zł,OLX
+Volkswagen,Golf,5,1 900 cm³,2005,105 KM,Diesel,Hatchback,266 500 km,Niebieski,Nieuszkodzony,Automatyczna,Niemcy,17 999 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,90 KM,Diesel,Kombi,129 350 km,Srebrny,Używane,Manualna,Polska,40 900PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 498 cm3,2020,150 KM,Benzyna,Kompakt,64 000 km,Szary,Używane,Manualna,Polska,89 900PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 595 cm3,1998,100 KM,Benzyna,Kompakt,248 512 km,Czarny,Używane,Automatyczna,Polska,5 600PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kompakt,372 000 km,Srebrny,Używane,Manualna,Belgia,16 500PLN,OTOMOTO
+Volkswagen,Golf,5,1 900 cm³,2008,105 KM,Diesel,Hatchback,320 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,8 000 złdo negocjacji,OLX
+Volkswagen,Golf,V,14 cm³,2006,80 KM,Benzyna,Hatchback,246 km,Inny kolor,Nieuszkodzony,Manualna,Polska,5 500 złdo negocjacji,OLX
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2011,122 KM,Benzyna,Kompakt,214 500 km,Szary,Używane,Manualna,Polska,24 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2006,105 KM,Diesel,Kompakt,384 632 km,Szary,Używane,Manualna,Niemcy,12 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2010,160 KM,Benzyna,Coupe,222 000 km,Biały,Używane,Manualna,Unknown,27 499PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2010,160 KM,Benzyna,Kombi,167 000 km,Szary,Używane,Manualna,Polska,21 500PLN,OTOMOTO
+Volkswagen,Golf,Unknown,2 000 cm³,2009,110 KM,Diesel,Hatchback,277 000 km,Szary,Nieuszkodzony,Manualna,Niemcy,22 500 zł,OLX
+Volkswagen,Golf,6,1 390 cm³,2009,80 KM,Benzyna,Hatchback,214 766 km,Biały,Nieuszkodzony,Manualna,Niemcy,17 300 zł,OLX
+Volkswagen,Golf,6,1 600 cm³,2012,110 KM,Diesel,Kombi,241 780 km,Inny kolor,Uszkodzony,Manualna,Niemcy,11 500 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2015,230 KM,Benzyna,Kompakt,140 000 km,Granatowy,Używane,Automatyczna,Unknown,67 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2006,90 KM,Diesel,Auta miejskie,295 000 km,Inny kolor,Używane,Manualna,Unknown,12 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,110 KM,Diesel,Kombi,183 000 km,Czarny,Używane,Manualna,Niemcy,44 500PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2003,75 KM,Benzyna,Kompakt,220 315 km,Srebrny,Używane,Manualna,Niemcy,9 200PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2014,150 KM,Diesel,Kombi,307 000 km,Szary,Używane,Automatyczna,Niemcy,38 990PLN,OTOMOTO
+Volkswagen,Golf,FULL,1 600 cm³,2018,115 KM,Diesel,Kombi,227 000 km,Brązowy – Beżowy,Nieuszkodzony,Manualna,Polska,43 500 zł,OLX
+Volkswagen,Golf,7,1 968 cm³,2019,150 KM,Diesel,Hatchback,95 000 km,Srebrny,Nieuszkodzony,Automatyczna,Niemcy,56 000 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2007,80 KM,Benzyna+LPG,Kompakt,196 000 km,Granatowy,Używane,Manualna,Polska,12 100PLN,OTOMOTO
+Volkswagen,Golf,5,1 900 cm³,2008,105 KM,Diesel,Kombi,336 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,11 500 zł,OLX
+Volkswagen,Golf,Unknown,1 896 cm³,2006,1 KM,Diesel,Hatchback,227 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,13 400 zł,OLX
+Volkswagen,Golf,GTI,2 000 cm³,2006,250 KM,Benzyna,Hatchback,252 000 km,Czerwony,Nieuszkodzony,Manualna,Polska,27 900 złdo negocjacji,OLX
+Volkswagen,Golf,V,1 595 cm³,2006,105 KM,Benzyna,Hatchback,212 000 km,Szary,Nieuszkodzony,Manualna,Niemcy,9 000 zł,OLX
+Volkswagen,Golf,VII,1 600 cm³,2013,105 KM,Diesel,Hatchback,172 500 km,Czarny,Nieuszkodzony,Manualna,Unknown,33 900 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,110 KM,Diesel,Kombi,130 676 km,Czerwony,Używane,Manualna,Unknown,49 900PLN,OTOMOTO
+Volkswagen,Golf,lV,1 600 cm³,1999,100 KM,Benzyna,Hatchback,270 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,5 500 złdo negocjacji,OLX
+Volkswagen,Golf,V,1 390 cm³,2005,1 KM,Benzyna,Hatchback,213 000 km,Niebieski,Nieuszkodzony,Manualna,Polska,6 100 zł,OLX
+Volkswagen,Golf,VW,140 cm³,2007,140 KM,Diesel,Kombi,310 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,10 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),999 cm3,2018,110 KM,Benzyna,Kombi,193 540 km,Szary,Używane,Manualna,Unknown,33 900PLN,OTOMOTO
+Volkswagen,Golf,VI,1 400 cm³,2009,Unknown,Benzyna,Hatchback,203 000 km,Szary,Uszkodzony,Manualna,Niemcy,14 900 złdo negocjacji,OLX
+Volkswagen,Golf,combi,Unknown,2008,Unknown,Diesel,Kombi,323 000 km,Biały,Nieuszkodzony,Manualna,Polska,6 399 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2015,230 KM,Benzyna,Kompakt,99 889 km,Biały,Używane,Automatyczna,Niemcy,49 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2014,184 KM,Diesel,Kompakt,230 000 km,Inny kolor,Używane,Manualna,Unknown,59 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2007,140 KM,Benzyna,Kompakt,153 142 km,Granatowy,Używane,Automatyczna,Niemcy,18 000PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 900 cm³,2000,66 KM,Diesel,Kabriolet,108 728 km,Zielony,Nieuszkodzony,Manualna,Polska,13 500 złdo negocjacji,OLX
+Volkswagen,Golf,"2,0tdi",1 968 cm³,2004,140 KM,Diesel,Hatchback,265 343 km,Szary,Nieuszkodzony,Manualna,Niemcy,9 300 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2009,122 KM,Benzyna,Kombi,198 000 km,Czarny,Używane,Manualna,Niemcy,16 700PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,6,2 000 cm³,2010,140 KM,Diesel,Kombi,361 000 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,17 500 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,67 960 km,Czarny,Używane,Automatyczna,Polska,77 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,75 KM,Benzyna,Kompakt,248 666 km,Srebrny,Używane,Manualna,Niemcy,7 500PLN,OTOMOTO
+Volkswagen,Golf,VI,1 598 cm³,2012,105 KM,Diesel,Hatchback,144 500 km,Czarny,Uszkodzony,Manualna,Belgia,22 000 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,2 cm³,2005,200 KM,Benzyna,Coupe,263 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,22 500 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 500 cm³,2021,131 KM,Benzyna,Hatchback,6 500 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,88 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2019,245 KM,Benzyna,Kompakt,60 000 km,Czarny,Używane,Automatyczna,Francja,48 800PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2011,105 KM,Diesel,Kombi,231 200 km,Srebrny,Używane,Manualna,Niemcy,23 900PLN,OTOMOTO
+Volkswagen,Golf,1.4,1 400 cm³,2000,75 KM,LPG,Hatchback,275 000 km,Niebieski,Nieuszkodzony,Manualna,Unknown,4 299 zł,OLX
+Volkswagen,Golf,V,1 896 cm³,2009,105 KM,Diesel,Kombi,306 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,12 000 złdo negocjacji,OLX
+Volkswagen,Golf,IV,1 984 cm³,1999,115 KM,Benzyna,Hatchback,241 000 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,2 399 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2015,150 KM,Diesel,Kombi,88 400 km,Bordowy,Używane,Manualna,Unknown,52 800PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,90 KM,Diesel,Kombi,129 350 km,Srebrny,Używane,Manualna,Polska,40 900PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 498 cm3,2020,150 KM,Benzyna,Kompakt,64 000 km,Szary,Używane,Manualna,Polska,89 900PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 595 cm3,1998,100 KM,Benzyna,Kompakt,248 512 km,Czarny,Używane,Automatyczna,Polska,5 600PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kompakt,372 000 km,Srebrny,Używane,Manualna,Belgia,16 500PLN,OTOMOTO
+Volkswagen,Golf,5,1 900 cm³,2008,105 KM,Diesel,Hatchback,320 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,8 000 złdo negocjacji,OLX
+Volkswagen,Golf,V,14 cm³,2006,80 KM,Benzyna,Hatchback,246 km,Inny kolor,Nieuszkodzony,Manualna,Polska,5 500 złdo negocjacji,OLX
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2011,122 KM,Benzyna,Kompakt,214 500 km,Szary,Używane,Manualna,Polska,24 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2006,105 KM,Diesel,Kompakt,384 632 km,Szary,Używane,Manualna,Niemcy,12 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2010,160 KM,Benzyna,Coupe,222 000 km,Biały,Używane,Manualna,Unknown,27 499PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 900 cm³,2002,110 KM,Diesel,Hatchback,320 km,Niebieski,Nieuszkodzony,Manualna,Włochy,4 900 złdo negocjacji,OLX
+Volkswagen,Golf,7,1 600 cm³,2015,115 KM,Diesel,Minivan,126 000 km,Szary,Nieuszkodzony,Automatyczna,Niemcy,47 900 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,2 000 cm³,2009,110 KM,Diesel,Hatchback,277 000 km,Szary,Nieuszkodzony,Manualna,Niemcy,22 500 zł,OLX
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2010,160 KM,Benzyna,Kombi,167 000 km,Szary,Używane,Manualna,Polska,21 500PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2015,230 KM,Benzyna,Kompakt,140 000 km,Granatowy,Używane,Automatyczna,Unknown,67 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2006,90 KM,Diesel,Auta miejskie,295 000 km,Inny kolor,Używane,Manualna,Unknown,12 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,110 KM,Diesel,Kombi,183 000 km,Czarny,Używane,Manualna,Niemcy,44 500PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2003,75 KM,Benzyna,Kompakt,220 315 km,Srebrny,Używane,Manualna,Niemcy,9 200PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2014,150 KM,Diesel,Kombi,307 000 km,Szary,Używane,Automatyczna,Niemcy,38 990PLN,OTOMOTO
+Volkswagen,Golf,FULL,1 600 cm³,2018,115 KM,Diesel,Kombi,227 000 km,Brązowy – Beżowy,Nieuszkodzony,Manualna,Polska,43 500 zł,OLX
+Volkswagen,Golf,7,1 968 cm³,2019,150 KM,Diesel,Hatchback,95 000 km,Srebrny,Nieuszkodzony,Automatyczna,Niemcy,56 000 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2007,80 KM,Benzyna+LPG,Kompakt,196 000 km,Granatowy,Używane,Manualna,Polska,12 100PLN,OTOMOTO
+Volkswagen,Golf,5,1 900 cm³,2008,105 KM,Diesel,Kombi,336 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,11 500 zł,OLX
+Volkswagen,Golf,kombi,Unknown,2021,115 KM,Diesel,Kombi,20 500 km,Biały,Nieuszkodzony,Manualna,Polska,82 000 zł,OLX
+Volkswagen,Golf,Unknown,1 600 cm³,2008,Unknown,Benzyna,Hatchback,200 416 km,Czarny,Nieuszkodzony,Manualna,Unknown,14 700 złdo negocjacji,OLX
+Volkswagen,Golf,VIII (2020-),1 498 cm3,2021,150 KM,Benzyna,Kompakt,9 900 km,Czarny,Używane,Automatyczna,Francja,85 900PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 896 cm³,2006,1 KM,Diesel,Hatchback,227 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,13 400 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,110 KM,Diesel,Kombi,130 676 km,Czerwony,Używane,Manualna,Unknown,49 900PLN,OTOMOTO
+Volkswagen,Golf,lV,1 600 cm³,1999,100 KM,Benzyna,Hatchback,270 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,5 500 złdo negocjacji,OLX
+Volkswagen,Golf,V,1 390 cm³,2005,1 KM,Benzyna,Hatchback,213 000 km,Niebieski,Nieuszkodzony,Manualna,Polska,6 100 zł,OLX
+Volkswagen,Golf,VW,140 cm³,2007,140 KM,Diesel,Kombi,310 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,10 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),999 cm3,2018,110 KM,Benzyna,Kombi,193 540 km,Szary,Używane,Manualna,Unknown,33 900PLN,OTOMOTO
+Volkswagen,Golf,VI,1 400 cm³,2009,Unknown,Benzyna,Hatchback,203 000 km,Szary,Uszkodzony,Manualna,Niemcy,14 900 złdo negocjacji,OLX
+Volkswagen,Golf,combi,Unknown,2008,Unknown,Diesel,Kombi,323 000 km,Biały,Nieuszkodzony,Manualna,Polska,6 399 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2015,230 KM,Benzyna,Kompakt,99 889 km,Biały,Używane,Automatyczna,Niemcy,49 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2014,184 KM,Diesel,Kompakt,230 000 km,Inny kolor,Używane,Manualna,Unknown,59 000PLN,OTOMOTO
+Volkswagen,Golf,1.4,1 400 cm³,2009,80 KM,Benzyna,Hatchback,249 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,19 500 zł,OLX
+Volkswagen,Golf,"2,0tdi",1 968 cm³,2004,140 KM,Diesel,Hatchback,265 343 km,Szary,Nieuszkodzony,Manualna,Niemcy,9 300 zł,OLX
+Volkswagen,Golf,Unknown,1 999 cm³,2008,140 KM,Diesel,Kombi,230 000 km,Szary,Nieuszkodzony,Manualna,Polska,12 000 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,160 000 km,Czarny,Używane,Manualna,Unknown,41 700PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,90 KM,Benzyna,Kompakt,149 000 km,Niebieski,Używane,Manualna,Unknown,13 900PLN,OTOMOTO
+Volkswagen,Golf,Sportsvan,1 400 cm³,2015,150 KM,Benzyna,Minivan,132 000 km,Brązowy – Beżowy,Nieuszkodzony,Automatyczna,Polska,47 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,6,2 000 cm³,2010,140 KM,Diesel,Kombi,361 000 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,17 500 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,67 960 km,Czarny,Używane,Automatyczna,Polska,77 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,75 KM,Benzyna,Kompakt,248 666 km,Srebrny,Używane,Manualna,Niemcy,7 500PLN,OTOMOTO
+Volkswagen,Golf,VI,1 598 cm³,2012,105 KM,Diesel,Hatchback,144 500 km,Czarny,Uszkodzony,Manualna,Belgia,22 000 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,2 cm³,2005,200 KM,Benzyna,Coupe,263 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,22 500 złdo negocjacji,OLX
+Volkswagen,Golf,1.4,1 400 cm³,2000,75 KM,LPG,Hatchback,275 000 km,Niebieski,Nieuszkodzony,Manualna,Unknown,4 299 zł,OLX
+Volkswagen,Golf,5,1 984 cm³,2008,230 KM,Benzyna,Hatchback,184 000 km,Czerwony,Nieuszkodzony,Automatyczna,Polska,30 000 zł,OLX
+Volkswagen,Golf,Unknown,1 900 cm³,2002,110 KM,Diesel,Hatchback,320 km,Niebieski,Nieuszkodzony,Manualna,Włochy,4 900 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 500 cm³,2021,131 KM,Benzyna,Hatchback,6 500 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,88 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2019,245 KM,Benzyna,Kompakt,60 000 km,Czarny,Używane,Automatyczna,Francja,48 800PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2011,105 KM,Diesel,Kombi,231 200 km,Srebrny,Używane,Manualna,Niemcy,23 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2015,150 KM,Diesel,Kombi,88 400 km,Bordowy,Używane,Manualna,Unknown,52 800PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,90 KM,Diesel,Kombi,129 350 km,Srebrny,Używane,Manualna,Polska,40 900PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 498 cm3,2020,150 KM,Benzyna,Kompakt,64 000 km,Szary,Używane,Manualna,Polska,89 900PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 595 cm3,1998,100 KM,Benzyna,Kompakt,248 512 km,Czarny,Używane,Automatyczna,Polska,5 600PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kompakt,372 000 km,Srebrny,Używane,Manualna,Belgia,16 500PLN,OTOMOTO
+Volkswagen,Golf,5,1 900 cm³,2008,105 KM,Diesel,Hatchback,320 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,8 000 złdo negocjacji,OLX
+Volkswagen,Golf,V,14 cm³,2006,80 KM,Benzyna,Hatchback,246 km,Inny kolor,Nieuszkodzony,Manualna,Polska,5 500 złdo negocjacji,OLX
+Volkswagen,Golf,IV,Unknown,2001,Unknown,Benzyna,Hatchback,139 579 km,Żółty – Złoty,Nieuszkodzony,Manualna,Unknown,4 800 złdo negocjacji,OLX
+Volkswagen,Golf,7,1 600 cm³,2015,115 KM,Diesel,Minivan,126 000 km,Szary,Nieuszkodzony,Automatyczna,Niemcy,47 900 złdo negocjacji,OLX
+Volkswagen,Golf,kombi,Unknown,2021,115 KM,Diesel,Kombi,20 500 km,Biały,Nieuszkodzony,Manualna,Polska,82 000 zł,OLX
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2011,122 KM,Benzyna,Kompakt,214 500 km,Szary,Używane,Manualna,Polska,24 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2006,105 KM,Diesel,Kompakt,384 632 km,Szary,Używane,Manualna,Niemcy,12 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2010,160 KM,Benzyna,Coupe,222 000 km,Biały,Używane,Manualna,Unknown,27 499PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2010,160 KM,Benzyna,Kombi,167 000 km,Szary,Używane,Manualna,Polska,21 500PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2015,230 KM,Benzyna,Kompakt,140 000 km,Granatowy,Używane,Automatyczna,Unknown,67 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2006,90 KM,Diesel,Auta miejskie,295 000 km,Inny kolor,Używane,Manualna,Unknown,12 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,110 KM,Diesel,Kombi,183 000 km,Czarny,Używane,Manualna,Niemcy,44 500PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2003,75 KM,Benzyna,Kompakt,220 315 km,Srebrny,Używane,Manualna,Niemcy,9 200PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2014,150 KM,Diesel,Kombi,307 000 km,Szary,Używane,Automatyczna,Niemcy,38 990PLN,OTOMOTO
+Volkswagen,Golf,FULL,1 600 cm³,2018,115 KM,Diesel,Kombi,227 000 km,Brązowy – Beżowy,Nieuszkodzony,Manualna,Polska,43 500 zł,OLX
+Volkswagen,Golf,Unknown,1 600 cm³,2008,Unknown,Benzyna,Hatchback,200 416 km,Czarny,Nieuszkodzony,Manualna,Unknown,14 700 złdo negocjacji,OLX
+Volkswagen,Golf,VIII (2020-),1 498 cm3,2021,150 KM,Benzyna,Kompakt,9 900 km,Czarny,Używane,Automatyczna,Francja,85 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2010,122 KM,Benzyna,Kompakt,334 953 km,Czerwony,Używane,Manualna,Niemcy,18 900PLN,OTOMOTO
+Volkswagen,Golf,7,1 968 cm³,2019,150 KM,Diesel,Hatchback,95 000 km,Srebrny,Nieuszkodzony,Automatyczna,Niemcy,56 000 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2007,80 KM,Benzyna+LPG,Kompakt,196 000 km,Granatowy,Używane,Manualna,Polska,12 100PLN,OTOMOTO
+Volkswagen,Golf,5,1 900 cm³,2008,105 KM,Diesel,Kombi,336 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,11 500 zł,OLX
+Volkswagen,Golf,Unknown,1 896 cm³,2006,1 KM,Diesel,Hatchback,227 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,13 400 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,110 KM,Diesel,Kombi,130 676 km,Czerwony,Używane,Manualna,Unknown,49 900PLN,OTOMOTO
+Volkswagen,Golf,lV,1 600 cm³,1999,100 KM,Benzyna,Hatchback,270 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,5 500 złdo negocjacji,OLX
+Volkswagen,Golf,V,1 390 cm³,2005,1 KM,Benzyna,Hatchback,213 000 km,Niebieski,Nieuszkodzony,Manualna,Polska,6 100 zł,OLX
+Volkswagen,Golf,VW,140 cm³,2007,140 KM,Diesel,Kombi,310 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,10 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),999 cm3,2018,110 KM,Benzyna,Kombi,193 540 km,Szary,Używane,Manualna,Unknown,33 900PLN,OTOMOTO
+Volkswagen,Golf,VI,1 400 cm³,2009,Unknown,Benzyna,Hatchback,203 000 km,Szary,Uszkodzony,Manualna,Niemcy,14 900 złdo negocjacji,OLX
+Volkswagen,Golf,1.4,1 400 cm³,2009,80 KM,Benzyna,Hatchback,249 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,19 500 zł,OLX
+Volkswagen,Golf,"2,0tdi",1 968 cm³,2004,140 KM,Diesel,Hatchback,265 343 km,Szary,Nieuszkodzony,Manualna,Niemcy,9 300 zł,OLX
+Volkswagen,Golf,Unknown,1 999 cm³,2008,140 KM,Diesel,Kombi,230 000 km,Szary,Nieuszkodzony,Manualna,Polska,12 000 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2005,90 KM,Diesel,Kompakt,271 600 km,Granatowy,Używane,Manualna,Unknown,12 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 968 cm3,2008,140 KM,Diesel,Kompakt,106 000 km,Szary,Używane,Manualna,Unknown,27 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,160 000 km,Czarny,Używane,Manualna,Unknown,41 700PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,90 KM,Benzyna,Kompakt,149 000 km,Niebieski,Używane,Manualna,Unknown,13 900PLN,OTOMOTO
+Volkswagen,Golf,Sportsvan,1 400 cm³,2015,150 KM,Benzyna,Minivan,132 000 km,Brązowy – Beżowy,Nieuszkodzony,Automatyczna,Polska,47 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,6,2 000 cm³,2010,140 KM,Diesel,Kombi,361 000 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,17 500 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,67 960 km,Czarny,Używane,Automatyczna,Polska,77 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,75 KM,Benzyna,Kompakt,248 666 km,Srebrny,Używane,Manualna,Niemcy,7 500PLN,OTOMOTO
+Volkswagen,Golf,1.4,1 400 cm³,2000,75 KM,LPG,Hatchback,275 000 km,Niebieski,Nieuszkodzony,Manualna,Unknown,4 299 zł,OLX
+Volkswagen,Golf,5,1 984 cm³,2008,230 KM,Benzyna,Hatchback,184 000 km,Czerwony,Nieuszkodzony,Automatyczna,Polska,30 000 zł,OLX
+Volkswagen,Golf,Unknown,1 900 cm³,2002,110 KM,Diesel,Hatchback,320 km,Niebieski,Nieuszkodzony,Manualna,Włochy,4 900 złdo negocjacji,OLX
+Volkswagen,Golf,VI,1 598 cm³,2012,105 KM,Diesel,Hatchback,144 500 km,Czarny,Uszkodzony,Manualna,Belgia,22 000 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,2 cm³,2005,200 KM,Benzyna,Coupe,263 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,22 500 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 500 cm³,2021,131 KM,Benzyna,Hatchback,6 500 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,88 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2019,245 KM,Benzyna,Kompakt,60 000 km,Czarny,Używane,Automatyczna,Francja,48 800PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2011,105 KM,Diesel,Kombi,231 200 km,Srebrny,Używane,Manualna,Niemcy,23 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2015,150 KM,Diesel,Kombi,88 400 km,Bordowy,Używane,Manualna,Unknown,52 800PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,90 KM,Diesel,Kombi,129 350 km,Srebrny,Używane,Manualna,Polska,40 900PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 498 cm3,2020,150 KM,Benzyna,Kompakt,64 000 km,Szary,Używane,Manualna,Polska,89 900PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 595 cm3,1998,100 KM,Benzyna,Kompakt,248 512 km,Czarny,Używane,Automatyczna,Polska,5 600PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kompakt,372 000 km,Srebrny,Używane,Manualna,Belgia,16 500PLN,OTOMOTO
+Volkswagen,Golf,IV,Unknown,2001,Unknown,Benzyna,Hatchback,139 579 km,Żółty – Złoty,Nieuszkodzony,Manualna,Unknown,4 800 złdo negocjacji,OLX
+Volkswagen,Golf,7,1 600 cm³,2015,115 KM,Diesel,Minivan,126 000 km,Szary,Nieuszkodzony,Automatyczna,Niemcy,47 900 złdo negocjacji,OLX
+Volkswagen,Golf,kombi,Unknown,2021,115 KM,Diesel,Kombi,20 500 km,Biały,Nieuszkodzony,Manualna,Polska,82 000 zł,OLX
+Volkswagen,Golf,5,1 900 cm³,2008,105 KM,Diesel,Hatchback,320 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,8 000 złdo negocjacji,OLX
+Volkswagen,Golf,V,14 cm³,2006,80 KM,Benzyna,Hatchback,246 km,Inny kolor,Nieuszkodzony,Manualna,Polska,5 500 złdo negocjacji,OLX
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2011,122 KM,Benzyna,Kompakt,214 500 km,Szary,Używane,Manualna,Polska,24 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2006,105 KM,Diesel,Kompakt,384 632 km,Szary,Używane,Manualna,Niemcy,12 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2010,160 KM,Benzyna,Coupe,222 000 km,Biały,Używane,Manualna,Unknown,27 499PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2010,160 KM,Benzyna,Kombi,167 000 km,Szary,Używane,Manualna,Polska,21 500PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2015,230 KM,Benzyna,Kompakt,140 000 km,Granatowy,Używane,Automatyczna,Unknown,67 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2006,90 KM,Diesel,Auta miejskie,295 000 km,Inny kolor,Używane,Manualna,Unknown,12 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,110 KM,Diesel,Kombi,183 000 km,Czarny,Używane,Manualna,Niemcy,44 500PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2003,75 KM,Benzyna,Kompakt,220 315 km,Srebrny,Używane,Manualna,Niemcy,9 200PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 600 cm³,2008,Unknown,Benzyna,Hatchback,200 416 km,Czarny,Nieuszkodzony,Manualna,Unknown,14 700 złdo negocjacji,OLX
+Volkswagen,Golf,VIII (2020-),1 498 cm3,2021,150 KM,Benzyna,Kompakt,9 900 km,Czarny,Używane,Automatyczna,Francja,85 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2010,122 KM,Benzyna,Kompakt,334 953 km,Czerwony,Używane,Manualna,Niemcy,18 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2014,150 KM,Diesel,Kombi,307 000 km,Szary,Używane,Automatyczna,Niemcy,38 990PLN,OTOMOTO
+Volkswagen,Golf,FULL,1 600 cm³,2018,115 KM,Diesel,Kombi,227 000 km,Brązowy – Beżowy,Nieuszkodzony,Manualna,Polska,43 500 zł,OLX
+Volkswagen,Golf,7,1 968 cm³,2019,150 KM,Diesel,Hatchback,95 000 km,Srebrny,Nieuszkodzony,Automatyczna,Niemcy,56 000 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2007,80 KM,Benzyna+LPG,Kompakt,196 000 km,Granatowy,Używane,Manualna,Polska,12 100PLN,OTOMOTO
+Volkswagen,Golf,5,1 900 cm³,2008,105 KM,Diesel,Kombi,336 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,11 500 zł,OLX
+Volkswagen,Golf,Unknown,1 896 cm³,2006,1 KM,Diesel,Hatchback,227 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,13 400 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,110 KM,Diesel,Kombi,130 676 km,Czerwony,Używane,Manualna,Unknown,49 900PLN,OTOMOTO
+Volkswagen,Golf,lV,1 600 cm³,1999,100 KM,Benzyna,Hatchback,270 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,5 500 złdo negocjacji,OLX
+Volkswagen,Golf,V,1 390 cm³,2005,1 KM,Benzyna,Hatchback,213 000 km,Niebieski,Nieuszkodzony,Manualna,Polska,6 100 zł,OLX
+Volkswagen,Golf,VW,140 cm³,2007,140 KM,Diesel,Kombi,310 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,10 000 złdo negocjacji,OLX
+Volkswagen,Golf,1.4,1 400 cm³,2009,80 KM,Benzyna,Hatchback,249 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,19 500 zł,OLX
+Volkswagen,Golf,6,1 390 cm³,2009,80 KM,Benzyna,Hatchback,214 766 km,Biały,Nieuszkodzony,Manualna,Niemcy,17 300 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 498 cm3,2018,150 KM,Benzyna,Kompakt,129 600 km,Czarny,Używane,Automatyczna,Belgia,65 999PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 968 cm3,2009,170 KM,Diesel,Kompakt,313 000 km,Biały,Używane,Automatyczna,Unknown,35 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2009,122 KM,Benzyna,Kompakt,231 720 km,Srebrny,Używane,Manualna,Polska,18 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2016,245 KM,Benzyna,Kompakt,117 000 km,Biały,Używane,Automatyczna,Stany Zjednoczone,76 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2005,90 KM,Diesel,Kompakt,271 600 km,Granatowy,Używane,Manualna,Unknown,12 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 968 cm3,2008,140 KM,Diesel,Kompakt,106 000 km,Szary,Używane,Manualna,Unknown,27 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,160 000 km,Czarny,Używane,Manualna,Unknown,41 700PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,90 KM,Benzyna,Kompakt,149 000 km,Niebieski,Używane,Manualna,Unknown,13 900PLN,OTOMOTO
+Volkswagen,Golf,Sportsvan,1 400 cm³,2015,150 KM,Benzyna,Minivan,132 000 km,Brązowy – Beżowy,Nieuszkodzony,Automatyczna,Polska,47 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 999 cm³,2008,140 KM,Diesel,Kombi,230 000 km,Szary,Nieuszkodzony,Manualna,Polska,12 000 zł,OLX
+Volkswagen,Golf,5,1 984 cm³,2008,230 KM,Benzyna,Hatchback,184 000 km,Czerwony,Nieuszkodzony,Automatyczna,Polska,30 000 zł,OLX
+Volkswagen,Golf,IV,Unknown,2001,Unknown,Benzyna,Hatchback,139 579 km,Żółty – Złoty,Nieuszkodzony,Manualna,Unknown,4 800 złdo negocjacji,OLX
+Volkswagen,Golf,6,2 000 cm³,2010,140 KM,Diesel,Kombi,361 000 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,17 500 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,67 960 km,Czarny,Używane,Automatyczna,Polska,77 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,75 KM,Benzyna,Kompakt,248 666 km,Srebrny,Używane,Manualna,Niemcy,7 500PLN,OTOMOTO
+Volkswagen,Golf,VI,1 598 cm³,2012,105 KM,Diesel,Hatchback,144 500 km,Czarny,Uszkodzony,Manualna,Belgia,22 000 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,2 cm³,2005,200 KM,Benzyna,Coupe,263 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,22 500 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 500 cm³,2021,131 KM,Benzyna,Hatchback,6 500 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,88 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2019,245 KM,Benzyna,Kompakt,60 000 km,Czarny,Używane,Automatyczna,Francja,48 800PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2011,105 KM,Diesel,Kombi,231 200 km,Srebrny,Używane,Manualna,Niemcy,23 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2015,150 KM,Diesel,Kombi,88 400 km,Bordowy,Używane,Manualna,Unknown,52 800PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,90 KM,Diesel,Kombi,129 350 km,Srebrny,Używane,Manualna,Polska,40 900PLN,OTOMOTO
+Volkswagen,Golf,5,1 900 cm³,2004,105 KM,Diesel,Hatchback,346 km,Srebrny,Nieuszkodzony,Manualna,Unknown,10 000 złdo negocjacji,OLX
+Volkswagen,Golf,V,1 399 cm³,2005,80 KM,Benzyna,Hatchback,225 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,9 999 zł,OLX
+Volkswagen,Golf,VII,1 598 cm³,2013,105 KM,Diesel,Sedan,138 250 km,Żółty – Złoty,Nieuszkodzony,Automatyczna,Francja,42 900 zł,OLX
+Volkswagen,Golf,VIII (2020-),1 498 cm3,2020,150 KM,Benzyna,Kompakt,64 000 km,Szary,Używane,Manualna,Polska,89 900PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 595 cm3,1998,100 KM,Benzyna,Kompakt,248 512 km,Czarny,Używane,Automatyczna,Polska,5 600PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kompakt,372 000 km,Srebrny,Używane,Manualna,Belgia,16 500PLN,OTOMOTO
+Volkswagen,Golf,5,1 900 cm³,2008,105 KM,Diesel,Hatchback,320 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,8 000 złdo negocjacji,OLX
+Volkswagen,Golf,V,14 cm³,2006,80 KM,Benzyna,Hatchback,246 km,Inny kolor,Nieuszkodzony,Manualna,Polska,5 500 złdo negocjacji,OLX
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2011,122 KM,Benzyna,Kompakt,214 500 km,Szary,Używane,Manualna,Polska,24 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2006,105 KM,Diesel,Kompakt,384 632 km,Szary,Używane,Manualna,Niemcy,12 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2010,160 KM,Benzyna,Coupe,222 000 km,Biały,Używane,Manualna,Unknown,27 499PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2010,160 KM,Benzyna,Kombi,167 000 km,Szary,Używane,Manualna,Polska,21 500PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2015,230 KM,Benzyna,Kompakt,140 000 km,Granatowy,Używane,Automatyczna,Unknown,67 000PLN,OTOMOTO
+Volkswagen,Golf,Lift,1 998 cm³,2018,150 KM,Diesel,Kombi,113 000 km,Czarny,Nieuszkodzony,Automatyczna,Niemcy,62 500 złdo negocjacji,OLX
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2009,105 KM,Diesel,Kompakt,227 600 km,Biały,Używane,Manualna,Unknown,26 900PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 600 cm³,2012,105 KM,Diesel,Hatchback,258 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,20 900 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2006,90 KM,Diesel,Auta miejskie,295 000 km,Inny kolor,Używane,Manualna,Unknown,12 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,110 KM,Diesel,Kombi,183 000 km,Czarny,Używane,Manualna,Niemcy,44 500PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2003,75 KM,Benzyna,Kompakt,220 315 km,Srebrny,Używane,Manualna,Niemcy,9 200PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2014,150 KM,Diesel,Kombi,307 000 km,Szary,Używane,Automatyczna,Niemcy,38 990PLN,OTOMOTO
+Volkswagen,Golf,FULL,1 600 cm³,2018,115 KM,Diesel,Kombi,227 000 km,Brązowy – Beżowy,Nieuszkodzony,Manualna,Polska,43 500 zł,OLX
+Volkswagen,Golf,7,1 968 cm³,2019,150 KM,Diesel,Hatchback,95 000 km,Srebrny,Nieuszkodzony,Automatyczna,Niemcy,56 000 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2007,80 KM,Benzyna+LPG,Kompakt,196 000 km,Granatowy,Używane,Manualna,Polska,12 100PLN,OTOMOTO
+Volkswagen,Golf,5,1 900 cm³,2008,105 KM,Diesel,Kombi,336 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,11 500 zł,OLX
+Volkswagen,Golf,Unknown,1 896 cm³,2006,1 KM,Diesel,Hatchback,227 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,13 400 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,110 KM,Diesel,Kombi,130 676 km,Czerwony,Używane,Manualna,Unknown,49 900PLN,OTOMOTO
+Volkswagen,Golf,4//1.9,1 896 cm³,1999,90 KM,Diesel,Hatchback,381 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,2 990 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 498 cm3,2018,150 KM,Benzyna,Kompakt,129 600 km,Czarny,Używane,Automatyczna,Belgia,65 999PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 498 cm3,2021,150 KM,Benzyna,Kompakt,9 900 km,Czarny,Używane,Automatyczna,Francja,85 900PLN,OTOMOTO
+Volkswagen,Golf,V,1 900 cm³,2005,140 KM,Diesel,Hatchback,372 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,10 900 zł,OLX
+Volkswagen,Golf,VI (2008-2013),1 968 cm3,2009,170 KM,Diesel,Kompakt,313 000 km,Biały,Używane,Automatyczna,Unknown,35 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2009,122 KM,Benzyna,Kompakt,231 720 km,Srebrny,Używane,Manualna,Polska,18 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2016,245 KM,Benzyna,Kompakt,117 000 km,Biały,Używane,Automatyczna,Stany Zjednoczone,76 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2005,90 KM,Diesel,Kompakt,271 600 km,Granatowy,Używane,Manualna,Unknown,12 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 968 cm3,2008,140 KM,Diesel,Kompakt,106 000 km,Szary,Używane,Manualna,Unknown,27 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,160 000 km,Czarny,Używane,Manualna,Unknown,41 700PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,90 KM,Benzyna,Kompakt,149 000 km,Niebieski,Używane,Manualna,Unknown,13 900PLN,OTOMOTO
+Volkswagen,Golf,Sportsvan,1 400 cm³,2015,150 KM,Benzyna,Minivan,132 000 km,Brązowy – Beżowy,Nieuszkodzony,Automatyczna,Polska,47 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 395 cm³,2017,150 KM,Benzyna,Kombi,94 010 km,Żółty – Złoty,Nieuszkodzony,Automatyczna,Polska,79 900 złdo negocjacji,OLX
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2005,75 KM,Benzyna,Auta miejskie,176 000 km,Srebrny,Używane,Manualna,Unknown,9 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2014,150 KM,Diesel,Kompakt,120 610 km,Szary,Używane,Manualna,Polska,62 500PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,6,2 000 cm³,2010,140 KM,Diesel,Kombi,361 000 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,17 500 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,67 960 km,Czarny,Używane,Automatyczna,Polska,77 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,75 KM,Benzyna,Kompakt,248 666 km,Srebrny,Używane,Manualna,Niemcy,7 500PLN,OTOMOTO
+Volkswagen,Golf,VI,1 598 cm³,2012,105 KM,Diesel,Hatchback,144 500 km,Czarny,Uszkodzony,Manualna,Belgia,22 000 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,2 cm³,2005,200 KM,Benzyna,Coupe,263 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,22 500 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 500 cm³,2021,131 KM,Benzyna,Hatchback,6 500 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,88 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2019,245 KM,Benzyna,Kompakt,60 000 km,Czarny,Używane,Automatyczna,Francja,48 800PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2011,105 KM,Diesel,Kombi,231 200 km,Srebrny,Używane,Manualna,Niemcy,23 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2015,150 KM,Diesel,Kombi,88 400 km,Bordowy,Używane,Manualna,Unknown,52 800PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 400 cm³,2008,170 KM,Benzyna,Hatchback,270 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,18 750 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,86 KM,Benzyna,Kompakt,58 000 km,Granatowy,Używane,Manualna,Polska,39 000PLN,OTOMOTO
+Volkswagen,Golf,1.4,1 400 cm³,2000,75 KM,LPG,Hatchback,275 000 km,Niebieski,Nieuszkodzony,Manualna,Unknown,4 299 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,90 KM,Diesel,Kombi,129 350 km,Srebrny,Używane,Manualna,Polska,40 900PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 498 cm3,2020,150 KM,Benzyna,Kompakt,64 000 km,Szary,Używane,Manualna,Polska,89 900PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 595 cm3,1998,100 KM,Benzyna,Kompakt,248 512 km,Czarny,Używane,Automatyczna,Polska,5 600PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kompakt,372 000 km,Srebrny,Używane,Manualna,Belgia,16 500PLN,OTOMOTO
+Volkswagen,Golf,5,1 900 cm³,2008,105 KM,Diesel,Hatchback,320 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,8 000 złdo negocjacji,OLX
+Volkswagen,Golf,V,14 cm³,2006,80 KM,Benzyna,Hatchback,246 km,Inny kolor,Nieuszkodzony,Manualna,Polska,5 500 złdo negocjacji,OLX
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2011,122 KM,Benzyna,Kompakt,214 500 km,Szary,Używane,Manualna,Polska,24 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2006,105 KM,Diesel,Kompakt,384 632 km,Szary,Używane,Manualna,Niemcy,12 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2010,160 KM,Benzyna,Coupe,222 000 km,Biały,Używane,Manualna,Unknown,27 499PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2010,160 KM,Benzyna,Kombi,167 000 km,Szary,Używane,Manualna,Polska,21 500PLN,OTOMOTO
+Volkswagen,Golf,VII,1 598 cm³,2013,105 KM,Diesel,Sedan,138 250 km,Żółty – Złoty,Nieuszkodzony,Automatyczna,Francja,42 900 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,90 KM,Benzyna,Kompakt,149 000 km,Niebieski,Używane,Manualna,Unknown,13 900PLN,OTOMOTO
+Volkswagen,Golf,IV,Unknown,2001,Unknown,Benzyna,Hatchback,139 579 km,Żółty – Złoty,Nieuszkodzony,Manualna,Unknown,4 800 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2015,230 KM,Benzyna,Kompakt,140 000 km,Granatowy,Używane,Automatyczna,Unknown,67 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2006,90 KM,Diesel,Auta miejskie,295 000 km,Inny kolor,Używane,Manualna,Unknown,12 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,110 KM,Diesel,Kombi,183 000 km,Czarny,Używane,Manualna,Niemcy,44 500PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2003,75 KM,Benzyna,Kompakt,220 315 km,Srebrny,Używane,Manualna,Niemcy,9 200PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2014,150 KM,Diesel,Kombi,307 000 km,Szary,Używane,Automatyczna,Niemcy,38 990PLN,OTOMOTO
+Volkswagen,Golf,FULL,1 600 cm³,2018,115 KM,Diesel,Kombi,227 000 km,Brązowy – Beżowy,Nieuszkodzony,Manualna,Polska,43 500 zł,OLX
+Volkswagen,Golf,7,1 968 cm³,2019,150 KM,Diesel,Hatchback,95 000 km,Srebrny,Nieuszkodzony,Automatyczna,Niemcy,56 000 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2007,80 KM,Benzyna+LPG,Kompakt,196 000 km,Granatowy,Używane,Manualna,Polska,12 100PLN,OTOMOTO
+Volkswagen,Golf,5,1 900 cm³,2008,105 KM,Diesel,Kombi,336 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,11 500 zł,OLX
+Volkswagen,Golf,Unknown,1 896 cm³,2006,1 KM,Diesel,Hatchback,227 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,13 400 zł,OLX
+Volkswagen,Golf,2009,1 400 cm³,2009,160 KM,Benzyna,Kombi,120 000 km,Żółty – Złoty,Nieuszkodzony,Manualna,Niemcy,19 900 złdo negocjacji,OLX
+Volkswagen,Golf,VII,1 400 cm³,2013,140 KM,Benzyna,Hatchback,171 000 km,Szary,Nieuszkodzony,Automatyczna,Niemcy,43 300 zł,OLX
+Volkswagen,Golf,4//1.9,1 896 cm³,1999,90 KM,Diesel,Hatchback,381 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,2 990 zł,OLX
+Volkswagen,Golf,V,1 900 cm³,2005,140 KM,Diesel,Hatchback,372 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,10 900 zł,OLX
+Volkswagen,Golf,VI (2008-2013),1 968 cm3,2009,170 KM,Diesel,Kompakt,313 000 km,Biały,Używane,Automatyczna,Unknown,35 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2009,122 KM,Benzyna,Kompakt,231 720 km,Srebrny,Używane,Manualna,Polska,18 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2016,245 KM,Benzyna,Kompakt,117 000 km,Biały,Używane,Automatyczna,Stany Zjednoczone,76 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2005,90 KM,Diesel,Kompakt,271 600 km,Granatowy,Używane,Manualna,Unknown,12 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 968 cm3,2008,140 KM,Diesel,Kompakt,106 000 km,Szary,Używane,Manualna,Unknown,27 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,160 000 km,Czarny,Używane,Manualna,Unknown,41 700PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,90 KM,Benzyna,Kompakt,149 000 km,Niebieski,Używane,Manualna,Unknown,13 900PLN,OTOMOTO
+Volkswagen,Golf,Sportsvan,1 400 cm³,2015,150 KM,Benzyna,Minivan,132 000 km,Brązowy – Beżowy,Nieuszkodzony,Automatyczna,Polska,47 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 498 cm3,2021,150 KM,Benzyna,Kompakt,9 900 km,Czarny,Używane,Automatyczna,Francja,85 900PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 395 cm³,2017,150 KM,Benzyna,Kombi,94 010 km,Żółty – Złoty,Nieuszkodzony,Automatyczna,Polska,79 900 złdo negocjacji,OLX
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2005,75 KM,Benzyna,Auta miejskie,176 000 km,Srebrny,Używane,Manualna,Unknown,9 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,6,2 000 cm³,2010,140 KM,Diesel,Kombi,361 000 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,17 500 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,67 960 km,Czarny,Używane,Automatyczna,Polska,77 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,75 KM,Benzyna,Kompakt,248 666 km,Srebrny,Używane,Manualna,Niemcy,7 500PLN,OTOMOTO
+Volkswagen,Golf,VI,1 598 cm³,2012,105 KM,Diesel,Hatchback,144 500 km,Czarny,Uszkodzony,Manualna,Belgia,22 000 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,2 cm³,2005,200 KM,Benzyna,Coupe,263 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,22 500 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 500 cm³,2021,131 KM,Benzyna,Hatchback,6 500 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,88 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2019,245 KM,Benzyna,Kompakt,60 000 km,Czarny,Używane,Automatyczna,Francja,48 800PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2011,105 KM,Diesel,Kombi,231 200 km,Srebrny,Używane,Manualna,Niemcy,23 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2015,150 KM,Diesel,Kombi,88 400 km,Bordowy,Używane,Manualna,Unknown,52 800PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2014,150 KM,Diesel,Kompakt,120 610 km,Szary,Używane,Manualna,Polska,62 500PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 400 cm³,2008,170 KM,Benzyna,Hatchback,270 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,18 750 zł,OLX
+Volkswagen,Golf,II (1983-1992),1 595 cm3,1990,70 KM,Benzyna,Kompakt,99 000 km,Zielony,Używane,Automatyczna,Niemcy,17 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,90 KM,Diesel,Kombi,129 350 km,Srebrny,Używane,Manualna,Polska,40 900PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 498 cm3,2020,150 KM,Benzyna,Kompakt,64 000 km,Szary,Używane,Manualna,Polska,89 900PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 595 cm3,1998,100 KM,Benzyna,Kompakt,248 512 km,Czarny,Używane,Automatyczna,Polska,5 600PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kompakt,372 000 km,Srebrny,Używane,Manualna,Belgia,16 500PLN,OTOMOTO
+Volkswagen,Golf,5,1 900 cm³,2008,105 KM,Diesel,Hatchback,320 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,8 000 złdo negocjacji,OLX
+Volkswagen,Golf,V,14 cm³,2006,80 KM,Benzyna,Hatchback,246 km,Inny kolor,Nieuszkodzony,Manualna,Polska,5 500 złdo negocjacji,OLX
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2011,122 KM,Benzyna,Kompakt,214 500 km,Szary,Używane,Manualna,Polska,24 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2006,105 KM,Diesel,Kompakt,384 632 km,Szary,Używane,Manualna,Niemcy,12 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2010,160 KM,Benzyna,Coupe,222 000 km,Biały,Używane,Manualna,Unknown,27 499PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2010,160 KM,Benzyna,Kombi,167 000 km,Szary,Używane,Manualna,Polska,21 500PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,86 KM,Benzyna,Kompakt,58 000 km,Granatowy,Używane,Manualna,Polska,39 000PLN,OTOMOTO
+Volkswagen,Golf,1.4,1 400 cm³,2000,75 KM,LPG,Hatchback,275 000 km,Niebieski,Nieuszkodzony,Manualna,Unknown,4 299 zł,OLX
+Volkswagen,Golf,Unknown,1 598 cm³,2017,115 KM,Diesel,Hatchback,86 000 km,Niebieski,Nieuszkodzony,Manualna,Polska,56 500 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2015,230 KM,Benzyna,Kompakt,140 000 km,Granatowy,Używane,Automatyczna,Unknown,67 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2006,90 KM,Diesel,Auta miejskie,295 000 km,Inny kolor,Używane,Manualna,Unknown,12 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,110 KM,Diesel,Kombi,183 000 km,Czarny,Używane,Manualna,Niemcy,44 500PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2003,75 KM,Benzyna,Kompakt,220 315 km,Srebrny,Używane,Manualna,Niemcy,9 200PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2014,150 KM,Diesel,Kombi,307 000 km,Szary,Używane,Automatyczna,Niemcy,38 990PLN,OTOMOTO
+Volkswagen,Golf,FULL,1 600 cm³,2018,115 KM,Diesel,Kombi,227 000 km,Brązowy – Beżowy,Nieuszkodzony,Manualna,Polska,43 500 zł,OLX
+Volkswagen,Golf,7,1 968 cm³,2019,150 KM,Diesel,Hatchback,95 000 km,Srebrny,Nieuszkodzony,Automatyczna,Niemcy,56 000 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2007,80 KM,Benzyna+LPG,Kompakt,196 000 km,Granatowy,Używane,Manualna,Polska,12 100PLN,OTOMOTO
+Volkswagen,Golf,5,1 900 cm³,2008,105 KM,Diesel,Kombi,336 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,11 500 zł,OLX
+Volkswagen,Golf,Unknown,1 896 cm³,2006,1 KM,Diesel,Hatchback,227 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,13 400 zł,OLX
+Volkswagen,Golf,2009,1 400 cm³,2009,160 KM,Benzyna,Kombi,120 000 km,Żółty – Złoty,Nieuszkodzony,Manualna,Niemcy,19 900 złdo negocjacji,OLX
+Volkswagen,Golf,VII,1 400 cm³,2013,140 KM,Benzyna,Hatchback,171 000 km,Szary,Nieuszkodzony,Automatyczna,Niemcy,43 300 zł,OLX
+Volkswagen,Golf,4//1.9,1 896 cm³,1999,90 KM,Diesel,Hatchback,381 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,2 990 zł,OLX
+Volkswagen,Golf,VI (2008-2013),1 595 cm3,2009,102 KM,Benzyna+LPG,Kompakt,293 000 km,Czarny,Używane,Manualna,Unknown,24 500PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2012,105 KM,Diesel,Kompakt,208 000 km,Srebrny,Używane,Manualna,Unknown,31 500PLN,OTOMOTO
+Volkswagen,Golf,1.6,1 600 cm³,2001,Unknown,Benzyna,Hatchback,139 923 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,6 950 złdo negocjacji,OLX
+Volkswagen,Golf,V,1 900 cm³,2005,140 KM,Diesel,Hatchback,372 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,10 900 zł,OLX
+Volkswagen,Golf,VI (2008-2013),1 968 cm3,2009,170 KM,Diesel,Kompakt,313 000 km,Biały,Używane,Automatyczna,Unknown,35 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2009,122 KM,Benzyna,Kompakt,231 720 km,Srebrny,Używane,Manualna,Polska,18 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2016,245 KM,Benzyna,Kompakt,117 000 km,Biały,Używane,Automatyczna,Stany Zjednoczone,76 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2005,90 KM,Diesel,Kompakt,271 600 km,Granatowy,Używane,Manualna,Unknown,12 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 968 cm3,2008,140 KM,Diesel,Kompakt,106 000 km,Szary,Używane,Manualna,Unknown,27 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,160 000 km,Czarny,Używane,Manualna,Unknown,41 700PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 395 cm³,2017,150 KM,Benzyna,Kombi,94 010 km,Żółty – Złoty,Nieuszkodzony,Automatyczna,Polska,79 900 złdo negocjacji,OLX
+Volkswagen,Golf,VI (2008-2013),1 984 cm3,2012,210 KM,Benzyna,Kompakt,112 988 km,Czarny,Używane,Manualna,Francja,42 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2014,150 KM,Diesel,Kompakt,120 610 km,Szary,Używane,Manualna,Polska,62 500PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,90 KM,Benzyna,Kompakt,149 000 km,Niebieski,Używane,Manualna,Unknown,13 900PLN,OTOMOTO
+Volkswagen,Golf,Sportsvan,1 400 cm³,2015,150 KM,Benzyna,Minivan,132 000 km,Brązowy – Beżowy,Nieuszkodzony,Automatyczna,Polska,47 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,6,2 000 cm³,2010,140 KM,Diesel,Kombi,361 000 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,17 500 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,67 960 km,Czarny,Używane,Automatyczna,Polska,77 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,75 KM,Benzyna,Kompakt,248 666 km,Srebrny,Używane,Manualna,Niemcy,7 500PLN,OTOMOTO
+Volkswagen,Golf,VI,1 598 cm³,2012,105 KM,Diesel,Hatchback,144 500 km,Czarny,Uszkodzony,Manualna,Belgia,22 000 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,2 cm³,2005,200 KM,Benzyna,Coupe,263 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,22 500 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 500 cm³,2021,131 KM,Benzyna,Hatchback,6 500 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,88 000 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 400 cm³,2008,170 KM,Benzyna,Hatchback,270 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,18 750 zł,OLX
+Volkswagen,Golf,II (1983-1992),1 595 cm3,1990,70 KM,Benzyna,Kompakt,99 000 km,Zielony,Używane,Automatyczna,Niemcy,17 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,86 KM,Benzyna,Kompakt,58 000 km,Granatowy,Używane,Manualna,Polska,39 000PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2019,245 KM,Benzyna,Kompakt,60 000 km,Czarny,Używane,Automatyczna,Francja,48 800PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2011,105 KM,Diesel,Kombi,231 200 km,Srebrny,Używane,Manualna,Niemcy,23 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2015,150 KM,Diesel,Kombi,88 400 km,Bordowy,Używane,Manualna,Unknown,52 800PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,90 KM,Diesel,Kombi,129 350 km,Srebrny,Używane,Manualna,Polska,40 900PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 498 cm3,2020,150 KM,Benzyna,Kompakt,64 000 km,Szary,Używane,Manualna,Polska,89 900PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 595 cm3,1998,100 KM,Benzyna,Kompakt,248 512 km,Czarny,Używane,Automatyczna,Polska,5 600PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kompakt,372 000 km,Srebrny,Używane,Manualna,Belgia,16 500PLN,OTOMOTO
+Volkswagen,Golf,5,1 900 cm³,2008,105 KM,Diesel,Hatchback,320 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,8 000 złdo negocjacji,OLX
+Volkswagen,Golf,V,14 cm³,2006,80 KM,Benzyna,Hatchback,246 km,Inny kolor,Nieuszkodzony,Manualna,Polska,5 500 złdo negocjacji,OLX
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2011,122 KM,Benzyna,Kompakt,214 500 km,Szary,Używane,Manualna,Polska,24 900PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 598 cm³,2017,115 KM,Diesel,Hatchback,86 000 km,Niebieski,Nieuszkodzony,Manualna,Polska,56 500 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2013,105 KM,Diesel,Kompakt,194 000 km,Granatowy,Używane,Manualna,Niemcy,39 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,90 KM,Benzyna,Kompakt,149 000 km,Niebieski,Używane,Manualna,Unknown,13 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2006,105 KM,Diesel,Kompakt,384 632 km,Szary,Używane,Manualna,Niemcy,12 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2010,160 KM,Benzyna,Coupe,222 000 km,Biały,Używane,Manualna,Unknown,27 499PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2010,160 KM,Benzyna,Kombi,167 000 km,Szary,Używane,Manualna,Polska,21 500PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2015,230 KM,Benzyna,Kompakt,140 000 km,Granatowy,Używane,Automatyczna,Unknown,67 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2006,90 KM,Diesel,Auta miejskie,295 000 km,Inny kolor,Używane,Manualna,Unknown,12 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,110 KM,Diesel,Kombi,183 000 km,Czarny,Używane,Manualna,Niemcy,44 500PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2003,75 KM,Benzyna,Kompakt,220 315 km,Srebrny,Używane,Manualna,Niemcy,9 200PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2014,150 KM,Diesel,Kombi,307 000 km,Szary,Używane,Automatyczna,Niemcy,38 990PLN,OTOMOTO
+Volkswagen,Golf,FULL,1 600 cm³,2018,115 KM,Diesel,Kombi,227 000 km,Brązowy – Beżowy,Nieuszkodzony,Manualna,Polska,43 500 zł,OLX
+Volkswagen,Golf,7,1 968 cm³,2019,150 KM,Diesel,Hatchback,95 000 km,Srebrny,Nieuszkodzony,Automatyczna,Niemcy,56 000 zł,OLX
+Volkswagen,Golf,2009,1 400 cm³,2009,160 KM,Benzyna,Kombi,120 000 km,Żółty – Złoty,Nieuszkodzony,Manualna,Niemcy,19 900 złdo negocjacji,OLX
+Volkswagen,Golf,4//1.9,1 896 cm³,1999,90 KM,Diesel,Hatchback,381 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,2 990 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2017,115 KM,Diesel,Kombi,209 000 km,Biały,Używane,Manualna,Niemcy,37 900PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),999 cm3,2021,110 KM,Benzyna,Kompakt,49 800 km,Czarny,Używane,Manualna,Polska,79 200PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,2001,90 KM,Diesel,Kompakt,118 000 km,Niebieski,Używane,Automatyczna,Unknown,3 000PLN,OTOMOTO
+Volkswagen,Golf,5,1 896 cm³,2008,90 KM,Diesel,Hatchback,318 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,15 400 złdo negocjacji,OLX
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kombi,292 000 km,Srebrny,Używane,Manualna,Polska,13 999PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,156 000 km,Szary,Używane,Manualna,Unknown,54 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 595 cm3,2009,102 KM,Benzyna+LPG,Kompakt,293 000 km,Czarny,Używane,Manualna,Unknown,24 500PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2012,105 KM,Diesel,Kompakt,208 000 km,Srebrny,Używane,Manualna,Unknown,31 500PLN,OTOMOTO
+Volkswagen,Golf,1.6,1 600 cm³,2001,Unknown,Benzyna,Hatchback,139 923 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,6 950 złdo negocjacji,OLX
+Volkswagen,Golf,V,1 900 cm³,2005,140 KM,Diesel,Hatchback,372 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,10 900 zł,OLX
+Volkswagen,Golf,VI (2008-2013),1 968 cm3,2009,170 KM,Diesel,Kompakt,313 000 km,Biały,Używane,Automatyczna,Unknown,35 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 984 cm3,2012,210 KM,Benzyna,Kompakt,112 988 km,Czarny,Używane,Manualna,Francja,42 900PLN,OTOMOTO
+Volkswagen,Golf,V,1 900 cm³,2006,90 KM,Diesel,Hatchback,250 000 km,Szary,Nieuszkodzony,Manualna,Niemcy,5 990 zł,OLX
+Volkswagen,Golf,IV,2 300 cm³,1998,150 KM,Benzyna,Hatchback,417 000 km,Srebrny,Nieuszkodzony,Automatyczna,Unknown,6 500 złdo negocjacji,OLX
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2009,122 KM,Benzyna,Kompakt,231 720 km,Srebrny,Używane,Manualna,Polska,18 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2016,245 KM,Benzyna,Kompakt,117 000 km,Biały,Używane,Automatyczna,Stany Zjednoczone,76 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2005,90 KM,Diesel,Kompakt,271 600 km,Granatowy,Używane,Manualna,Unknown,12 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 968 cm3,2008,140 KM,Diesel,Kompakt,106 000 km,Szary,Używane,Manualna,Unknown,27 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,160 000 km,Czarny,Używane,Manualna,Unknown,41 700PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,90 KM,Benzyna,Kompakt,149 000 km,Niebieski,Używane,Manualna,Unknown,13 900PLN,OTOMOTO
+Volkswagen,Golf,Sportsvan,1 400 cm³,2015,150 KM,Benzyna,Minivan,132 000 km,Brązowy – Beżowy,Nieuszkodzony,Automatyczna,Polska,47 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,6,2 000 cm³,2010,140 KM,Diesel,Kombi,361 000 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,17 500 złdo negocjacji,OLX
+Volkswagen,Golf,"7,5",2 000 cm³,2019,310 KM,Benzyna,Hatchback,43 500 km,Niebieski,Nieuszkodzony,Automatyczna,Kanada,125 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,86 KM,Benzyna,Kompakt,58 000 km,Granatowy,Używane,Manualna,Polska,39 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2008,80 KM,Benzyna,Kompakt,164 000 km,Czarny,Używane,Manualna,Niemcy,17 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,67 960 km,Czarny,Używane,Automatyczna,Polska,77 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,75 KM,Benzyna,Kompakt,248 666 km,Srebrny,Używane,Manualna,Niemcy,7 500PLN,OTOMOTO
+Volkswagen,Golf,VI,1 598 cm³,2012,105 KM,Diesel,Hatchback,144 500 km,Czarny,Uszkodzony,Manualna,Belgia,22 000 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,2 cm³,2005,200 KM,Benzyna,Coupe,263 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,22 500 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 500 cm³,2021,131 KM,Benzyna,Hatchback,6 500 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,88 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2019,245 KM,Benzyna,Kompakt,60 000 km,Czarny,Używane,Automatyczna,Francja,48 800PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2011,105 KM,Diesel,Kombi,231 200 km,Srebrny,Używane,Manualna,Niemcy,23 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2015,150 KM,Diesel,Kombi,88 400 km,Bordowy,Używane,Manualna,Unknown,52 800PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,90 KM,Diesel,Kombi,129 350 km,Srebrny,Używane,Manualna,Polska,40 900PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 498 cm3,2020,150 KM,Benzyna,Kompakt,64 000 km,Szary,Używane,Manualna,Polska,89 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2013,105 KM,Diesel,Kompakt,194 000 km,Granatowy,Używane,Manualna,Niemcy,39 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,90 KM,Benzyna,Kompakt,149 000 km,Niebieski,Używane,Manualna,Unknown,13 900PLN,OTOMOTO
+Volkswagen,Golf,4,1 598 cm³,2002,105 KM,Benzyna,Hatchback,149 km,Żółty – Złoty,Nieuszkodzony,Manualna,Polska,7 000 złdo negocjacji,OLX
+Volkswagen,Golf,IV (1997-2006),1 595 cm3,1998,100 KM,Benzyna,Kompakt,248 512 km,Czarny,Używane,Automatyczna,Polska,5 600PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kompakt,372 000 km,Srebrny,Używane,Manualna,Belgia,16 500PLN,OTOMOTO
+Volkswagen,Golf,5,1 900 cm³,2008,105 KM,Diesel,Hatchback,320 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,8 000 złdo negocjacji,OLX
+Volkswagen,Golf,V,14 cm³,2006,80 KM,Benzyna,Hatchback,246 km,Inny kolor,Nieuszkodzony,Manualna,Polska,5 500 złdo negocjacji,OLX
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2011,122 KM,Benzyna,Kompakt,214 500 km,Szary,Używane,Manualna,Polska,24 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2006,105 KM,Diesel,Kompakt,384 632 km,Szary,Używane,Manualna,Niemcy,12 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2010,160 KM,Benzyna,Coupe,222 000 km,Biały,Używane,Manualna,Unknown,27 499PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2010,160 KM,Benzyna,Kombi,167 000 km,Szary,Używane,Manualna,Polska,21 500PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2015,230 KM,Benzyna,Kompakt,140 000 km,Granatowy,Używane,Automatyczna,Unknown,67 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2006,90 KM,Diesel,Auta miejskie,295 000 km,Inny kolor,Używane,Manualna,Unknown,12 900PLN,OTOMOTO
+Volkswagen,Golf,VIII,1 968 cm³,2021,116 KM,Diesel,Hatchback,149 500 km,Srebrny,Nieuszkodzony,Manualna,Polska,74 800 zł,OLX
+Volkswagen,Golf,Unknown,1 895 cm³,2008,105 KM,Diesel,Kombi,195 350 km,Niebieski,Nieuszkodzony,Automatyczna,Niemcy,14 200 złdo negocjacji,OLX
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2009,122 KM,Benzyna,Kombi,198 000 km,Czarny,Używane,Manualna,Niemcy,16 700PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 395 cm3,2016,125 KM,Benzyna,Kompakt,249 000 km,Czarny,Używane,Manualna,Polska,38 999PLN,OTOMOTO
+Volkswagen,Golf,1.4,1 400 cm³,2004,88 KM,Benzyna,Hatchback,220 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,10 999 złdo negocjacji,OLX
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,1998,68 KM,Diesel,Kompakt,290 000 km,Granatowy,Używane,Manualna,Unknown,4 400PLN,OTOMOTO
+Volkswagen,Golf,7,1 600 cm³,2014,110 KM,Diesel,Kombi,492 000 km,Biały,Nieuszkodzony,Automatyczna,Szwajcaria,26 900 złdo negocjacji,OLX
+Volkswagen,Golf,VIII (2020-),999 cm3,2021,110 KM,Benzyna,Kompakt,49 800 km,Czarny,Używane,Manualna,Polska,79 200PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,2001,90 KM,Diesel,Kompakt,118 000 km,Niebieski,Używane,Automatyczna,Unknown,3 000PLN,OTOMOTO
+Volkswagen,Golf,5,1 896 cm³,2008,90 KM,Diesel,Hatchback,318 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,15 400 złdo negocjacji,OLX
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kombi,292 000 km,Srebrny,Używane,Manualna,Polska,13 999PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,156 000 km,Szary,Używane,Manualna,Unknown,54 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 595 cm3,2009,102 KM,Benzyna+LPG,Kompakt,293 000 km,Czarny,Używane,Manualna,Unknown,24 500PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 400 cm³,2009,125 KM,Benzyna,Hatchback,198 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,19 500 zł,OLX
+Volkswagen,Golf,Unknown,1 598 cm³,2007,102 KM,Benzyna,Hatchback,194 500 km,Czarny,Nieuszkodzony,Manualna,Niemcy,21 500 złdo negocjacji,OLX
+Volkswagen,Golf,VI (2008-2013),1 984 cm3,2012,210 KM,Benzyna,Kompakt,112 988 km,Czarny,Używane,Manualna,Francja,42 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2012,105 KM,Diesel,Kompakt,208 000 km,Srebrny,Używane,Manualna,Unknown,31 500PLN,OTOMOTO
+Volkswagen,Golf,1.6,1 600 cm³,2001,Unknown,Benzyna,Hatchback,139 923 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,6 950 złdo negocjacji,OLX
+Volkswagen,Golf,V,1 900 cm³,2005,140 KM,Diesel,Hatchback,372 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,10 900 zł,OLX
+Volkswagen,Golf,VI (2008-2013),1 968 cm3,2009,170 KM,Diesel,Kompakt,313 000 km,Biały,Używane,Automatyczna,Unknown,35 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2009,122 KM,Benzyna,Kompakt,231 720 km,Srebrny,Używane,Manualna,Polska,18 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2016,245 KM,Benzyna,Kompakt,117 000 km,Biały,Używane,Automatyczna,Stany Zjednoczone,76 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2005,90 KM,Diesel,Kompakt,271 600 km,Granatowy,Używane,Manualna,Unknown,12 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 968 cm3,2008,140 KM,Diesel,Kompakt,106 000 km,Szary,Używane,Manualna,Unknown,27 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,160 000 km,Czarny,Używane,Manualna,Unknown,41 700PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,90 KM,Benzyna,Kompakt,149 000 km,Niebieski,Używane,Manualna,Unknown,13 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2013,105 KM,Diesel,Kompakt,194 000 km,Granatowy,Używane,Manualna,Niemcy,39 900PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 400 cm³,2016,122 KM,Benzyna,Hatchback,111 100 km,Srebrny,Nieuszkodzony,Automatyczna,Niemcy,47 900 zł,OLX
+Volkswagen,Golf,VII (2012-2020),999 cm3,2019,115 KM,Benzyna,Kompakt,49 500 km,Biały,Używane,Manualna,Unknown,57 000PLN,OTOMOTO
+Volkswagen,Golf,Sportsvan,1 400 cm³,2015,150 KM,Benzyna,Minivan,132 000 km,Brązowy – Beżowy,Nieuszkodzony,Automatyczna,Polska,47 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,6,2 000 cm³,2010,140 KM,Diesel,Kombi,361 000 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,17 500 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,67 960 km,Czarny,Używane,Automatyczna,Polska,77 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,75 KM,Benzyna,Kompakt,248 666 km,Srebrny,Używane,Manualna,Niemcy,7 500PLN,OTOMOTO
+Volkswagen,Golf,VI,1 598 cm³,2012,105 KM,Diesel,Hatchback,144 500 km,Czarny,Uszkodzony,Manualna,Belgia,22 000 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,2 cm³,2005,200 KM,Benzyna,Coupe,263 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,22 500 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 500 cm³,2021,131 KM,Benzyna,Hatchback,6 500 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,88 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2019,245 KM,Benzyna,Kompakt,60 000 km,Czarny,Używane,Automatyczna,Francja,48 800PLN,OTOMOTO
+Volkswagen,Golf,V,1 900 cm³,2006,90 KM,Diesel,Hatchback,250 000 km,Szary,Nieuszkodzony,Manualna,Niemcy,5 990 zł,OLX
+Volkswagen,Golf,Unknown,1 600 cm³,2015,110 KM,Diesel,Hatchback,179 627 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,44 900 zł,OLX
+Volkswagen,Golf,7,1 598 cm³,2013,115 KM,Diesel,Hatchback,320 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,28 500 złdo negocjacji,OLX
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2011,105 KM,Diesel,Kombi,231 200 km,Srebrny,Używane,Manualna,Niemcy,23 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2015,150 KM,Diesel,Kombi,88 400 km,Bordowy,Używane,Manualna,Unknown,52 800PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,90 KM,Diesel,Kombi,129 350 km,Srebrny,Używane,Manualna,Polska,40 900PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 498 cm3,2020,150 KM,Benzyna,Kompakt,64 000 km,Szary,Używane,Manualna,Polska,89 900PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 595 cm3,1998,100 KM,Benzyna,Kompakt,248 512 km,Czarny,Używane,Automatyczna,Polska,5 600PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kompakt,372 000 km,Srebrny,Używane,Manualna,Belgia,16 500PLN,OTOMOTO
+Volkswagen,Golf,5,1 900 cm³,2008,105 KM,Diesel,Hatchback,320 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,8 000 złdo negocjacji,OLX
+Volkswagen,Golf,V,14 cm³,2006,80 KM,Benzyna,Hatchback,246 km,Inny kolor,Nieuszkodzony,Manualna,Polska,5 500 złdo negocjacji,OLX
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2011,122 KM,Benzyna,Kompakt,214 500 km,Szary,Używane,Manualna,Polska,24 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2006,105 KM,Diesel,Kompakt,384 632 km,Szary,Używane,Manualna,Niemcy,12 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 498 cm3,2019,130 KM,Benzyna,Kombi,64 000 km,Czarny,Używane,Manualna,Polska,72 400PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 895 cm³,2008,105 KM,Diesel,Kombi,195 350 km,Niebieski,Nieuszkodzony,Automatyczna,Niemcy,14 200 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 400 cm³,2009,125 KM,Benzyna,Hatchback,198 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,19 500 zł,OLX
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2013,105 KM,Diesel,Kombi,254 000 km,Czarny,Używane,Automatyczna,Niemcy,28 700PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 395 cm3,2016,125 KM,Benzyna,Kompakt,249 000 km,Czarny,Używane,Manualna,Polska,38 999PLN,OTOMOTO
+Volkswagen,Golf,1.4,1 400 cm³,2004,88 KM,Benzyna,Hatchback,220 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,10 999 złdo negocjacji,OLX
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,1998,68 KM,Diesel,Kompakt,290 000 km,Granatowy,Używane,Manualna,Unknown,4 400PLN,OTOMOTO
+Volkswagen,Golf,7,1 600 cm³,2014,110 KM,Diesel,Kombi,492 000 km,Biały,Nieuszkodzony,Automatyczna,Szwajcaria,26 900 złdo negocjacji,OLX
+Volkswagen,Golf,VIII (2020-),999 cm3,2021,110 KM,Benzyna,Kompakt,49 800 km,Czarny,Używane,Manualna,Polska,79 200PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,2001,90 KM,Diesel,Kompakt,118 000 km,Niebieski,Używane,Automatyczna,Unknown,3 000PLN,OTOMOTO
+Volkswagen,Golf,5,1 896 cm³,2008,90 KM,Diesel,Hatchback,318 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,15 400 złdo negocjacji,OLX
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kombi,292 000 km,Srebrny,Używane,Manualna,Polska,13 999PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,156 000 km,Szary,Używane,Manualna,Unknown,54 000PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 598 cm³,2007,102 KM,Benzyna,Hatchback,194 500 km,Czarny,Nieuszkodzony,Manualna,Niemcy,21 500 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 598 cm³,2011,105 KM,Diesel,Kombi,299 000 km,Szary,Nieuszkodzony,Manualna,Polska,23 999 zł,OLX
+Volkswagen,Golf,Unknown,1 968 cm³,2009,170 KM,Diesel,Hatchback,168 300 km,Srebrny,Nieuszkodzony,Manualna,Unknown,20 300 złdo negocjacji,OLX
+Volkswagen,Golf,VI (2008-2013),1 595 cm3,2009,102 KM,Benzyna+LPG,Kompakt,293 000 km,Czarny,Używane,Manualna,Unknown,24 500PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2012,105 KM,Diesel,Kompakt,208 000 km,Srebrny,Używane,Manualna,Unknown,31 500PLN,OTOMOTO
+Volkswagen,Golf,1.6,1 600 cm³,2001,Unknown,Benzyna,Hatchback,139 923 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,6 950 złdo negocjacji,OLX
+Volkswagen,Golf,V,1 900 cm³,2005,140 KM,Diesel,Hatchback,372 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,10 900 zł,OLX
+Volkswagen,Golf,VI (2008-2013),1 968 cm3,2009,170 KM,Diesel,Kompakt,313 000 km,Biały,Używane,Automatyczna,Unknown,35 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2009,122 KM,Benzyna,Kompakt,231 720 km,Srebrny,Używane,Manualna,Polska,18 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2016,245 KM,Benzyna,Kompakt,117 000 km,Biały,Używane,Automatyczna,Stany Zjednoczone,76 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2005,90 KM,Diesel,Kompakt,271 600 km,Granatowy,Używane,Manualna,Unknown,12 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 968 cm3,2008,140 KM,Diesel,Kompakt,106 000 km,Szary,Używane,Manualna,Unknown,27 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,160 000 km,Czarny,Używane,Manualna,Unknown,41 700PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2013,105 KM,Diesel,Kompakt,194 000 km,Granatowy,Używane,Manualna,Niemcy,39 900PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 400 cm³,2016,122 KM,Benzyna,Hatchback,111 100 km,Srebrny,Nieuszkodzony,Automatyczna,Niemcy,47 900 zł,OLX
+Volkswagen,Golf,Unknown,1 600 cm³,2015,110 KM,Diesel,Hatchback,179 627 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,44 900 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,90 KM,Benzyna,Kompakt,149 000 km,Niebieski,Używane,Manualna,Unknown,13 900PLN,OTOMOTO
+Volkswagen,Golf,Sportsvan,1 400 cm³,2015,150 KM,Benzyna,Minivan,132 000 km,Brązowy – Beżowy,Nieuszkodzony,Automatyczna,Polska,47 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,6,2 000 cm³,2010,140 KM,Diesel,Kombi,361 000 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,17 500 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,67 960 km,Czarny,Używane,Automatyczna,Polska,77 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,75 KM,Benzyna,Kompakt,248 666 km,Srebrny,Używane,Manualna,Niemcy,7 500PLN,OTOMOTO
+Volkswagen,Golf,VI,1 598 cm³,2012,105 KM,Diesel,Hatchback,144 500 km,Czarny,Uszkodzony,Manualna,Belgia,22 000 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,2 cm³,2005,200 KM,Benzyna,Coupe,263 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,22 500 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 500 cm³,2021,131 KM,Benzyna,Hatchback,6 500 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,88 000 złdo negocjacji,OLX
+Volkswagen,Golf,7,1 598 cm³,2013,115 KM,Diesel,Hatchback,320 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,28 500 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2015,300 KM,Benzyna,Kompakt,146 900 km,Biały,Używane,Automatyczna,Polska,97 777PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 600 cm³,2012,105 KM,Diesel,Kombi,325 000 km,Srebrny,Nieuszkodzony,Manualna,Polska,16 800 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2019,245 KM,Benzyna,Kompakt,60 000 km,Czarny,Używane,Automatyczna,Francja,48 800PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2011,105 KM,Diesel,Kombi,231 200 km,Srebrny,Używane,Manualna,Niemcy,23 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2015,150 KM,Diesel,Kombi,88 400 km,Bordowy,Używane,Manualna,Unknown,52 800PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,90 KM,Diesel,Kombi,129 350 km,Srebrny,Używane,Manualna,Polska,40 900PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 498 cm3,2020,150 KM,Benzyna,Kompakt,64 000 km,Szary,Używane,Manualna,Polska,89 900PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 595 cm3,1998,100 KM,Benzyna,Kompakt,248 512 km,Czarny,Używane,Automatyczna,Polska,5 600PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kompakt,372 000 km,Srebrny,Używane,Manualna,Belgia,16 500PLN,OTOMOTO
+Volkswagen,Golf,5,1 900 cm³,2008,105 KM,Diesel,Hatchback,320 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,8 000 złdo negocjacji,OLX
+Volkswagen,Golf,V,14 cm³,2006,80 KM,Benzyna,Hatchback,246 km,Inny kolor,Nieuszkodzony,Manualna,Polska,5 500 złdo negocjacji,OLX
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2011,122 KM,Benzyna,Kompakt,214 500 km,Szary,Używane,Manualna,Polska,24 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 395 cm3,2015,125 KM,Benzyna,Kompakt,169 000 km,Szary,Używane,Manualna,Unknown,39 900PLN,OTOMOTO
+Volkswagen,Golf,Unknown,2 000 cm³,2011,140 KM,Diesel,Hatchback,338 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,23 900 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 498 cm3,2019,130 KM,Benzyna,Kombi,64 000 km,Czarny,Używane,Manualna,Polska,72 400PLN,OTOMOTO
+Volkswagen,Golf,V,1 900 cm³,2006,105 KM,Diesel,Hatchback,195 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,7 799 złdo negocjacji,OLX
+Volkswagen,Golf,VIII (2020-),999 cm3,2021,110 KM,Benzyna,Kompakt,46 600 km,Biały,Używane,Manualna,Polska,76 998PLN,OTOMOTO
+Volkswagen,Golf,7,2 000 cm³,2017,150 KM,Diesel,Hatchback,182 100 km,Inny kolor,Nieuszkodzony,Automatyczna,Unknown,79 900 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kompakt,249 000 km,Biały,Używane,Manualna,Unknown,14 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2018,115 KM,Diesel,Kombi,195 000 km,Srebrny,Używane,Manualna,Polska,43 900PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 984 cm3,2021,319 KM,Benzyna,Kompakt,41 000 km,Czarny,Używane,Automatyczna,Unknown,189 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2013,105 KM,Diesel,Kombi,254 000 km,Czarny,Używane,Automatyczna,Niemcy,28 700PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 395 cm3,2016,125 KM,Benzyna,Kompakt,249 000 km,Czarny,Używane,Manualna,Polska,38 999PLN,OTOMOTO
+Volkswagen,Golf,1.4,1 400 cm³,2004,88 KM,Benzyna,Hatchback,220 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,10 999 złdo negocjacji,OLX
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,1998,68 KM,Diesel,Kompakt,290 000 km,Granatowy,Używane,Manualna,Unknown,4 400PLN,OTOMOTO
+Volkswagen,Golf,IV,1 998 cm³,2003,101 KM,Diesel,Hatchback,220 000 km,Czarny,Nieuszkodzony,Manualna,Polska,8 700 zł,OLX
+Volkswagen,Golf,VIII (2020-),1 498 cm3,2022,130 KM,Benzyna,Kompakt,11 337 km,Czarny,Używane,Automatyczna,Polska,126 000PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 598 cm³,2011,105 KM,Diesel,Kombi,299 000 km,Szary,Nieuszkodzony,Manualna,Polska,23 999 zł,OLX
+Volkswagen,Golf,7,1 600 cm³,2014,110 KM,Diesel,Kombi,492 000 km,Biały,Nieuszkodzony,Automatyczna,Szwajcaria,26 900 złdo negocjacji,OLX
+Volkswagen,Golf,VIII (2020-),999 cm3,2021,110 KM,Benzyna,Kompakt,49 800 km,Czarny,Używane,Manualna,Polska,79 200PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,2001,90 KM,Diesel,Kompakt,118 000 km,Niebieski,Używane,Automatyczna,Unknown,3 000PLN,OTOMOTO
+Volkswagen,Golf,5,1 896 cm³,2008,90 KM,Diesel,Hatchback,318 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,15 400 złdo negocjacji,OLX
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kombi,292 000 km,Srebrny,Używane,Manualna,Polska,13 999PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,156 000 km,Szary,Używane,Manualna,Unknown,54 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 595 cm3,2009,102 KM,Benzyna+LPG,Kompakt,293 000 km,Czarny,Używane,Manualna,Unknown,24 500PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2012,105 KM,Diesel,Kompakt,208 000 km,Srebrny,Używane,Manualna,Unknown,31 500PLN,OTOMOTO
+Volkswagen,Golf,1.6,1 600 cm³,2001,Unknown,Benzyna,Hatchback,139 923 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,6 950 złdo negocjacji,OLX
+Volkswagen,Golf,V,1 900 cm³,2005,140 KM,Diesel,Hatchback,372 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,10 900 zł,OLX
+Volkswagen,Golf,5,1 900 cm³,2005,105 KM,Diesel,Hatchback,266 500 km,Niebieski,Nieuszkodzony,Automatyczna,Niemcy,17 999 zł,OLX
+Volkswagen,Golf,Unknown,1 900 cm³,2007,105 KM,Diesel,Hatchback,230 000 km,Srebrny,Nieuszkodzony,Manualna,Polska,14 200 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 390 cm³,2004,90 KM,Benzyna,Hatchback,206 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,6 000 złdo negocjacji,OLX
+Volkswagen,Golf,VI (2008-2013),1 968 cm3,2009,170 KM,Diesel,Kompakt,313 000 km,Biały,Używane,Automatyczna,Unknown,35 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2009,122 KM,Benzyna,Kompakt,231 720 km,Srebrny,Używane,Manualna,Polska,18 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2016,245 KM,Benzyna,Kompakt,117 000 km,Biały,Używane,Automatyczna,Stany Zjednoczone,76 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2005,90 KM,Diesel,Kompakt,271 600 km,Granatowy,Używane,Manualna,Unknown,12 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 968 cm3,2008,140 KM,Diesel,Kompakt,106 000 km,Szary,Używane,Manualna,Unknown,27 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,160 000 km,Czarny,Używane,Manualna,Unknown,41 700PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,90 KM,Benzyna,Kompakt,149 000 km,Niebieski,Używane,Manualna,Unknown,13 900PLN,OTOMOTO
+Volkswagen,Golf,Sportsvan,1 400 cm³,2015,150 KM,Benzyna,Minivan,132 000 km,Brązowy – Beżowy,Nieuszkodzony,Automatyczna,Polska,47 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,VI,1 600 cm³,2009,102 KM,LPG,Hatchback,223 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,23 800 złdo negocjacji,OLX
+Volkswagen,Golf,V,1 400 cm³,2006,80 KM,Benzyna,Hatchback,328 000 km,Czarny,Uszkodzony,Manualna,Niemcy,5 900 zł,OLX
+Volkswagen,Golf,IV,1 984 cm³,1999,115 KM,Benzyna,Hatchback,241 000 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,2 399 zł,OLX
+Volkswagen,Golf,6,2 000 cm³,2010,140 KM,Diesel,Kombi,361 000 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,17 500 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,67 960 km,Czarny,Używane,Automatyczna,Polska,77 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,75 KM,Benzyna,Kompakt,248 666 km,Srebrny,Używane,Manualna,Niemcy,7 500PLN,OTOMOTO
+Volkswagen,Golf,VI,1 598 cm³,2012,105 KM,Diesel,Hatchback,144 500 km,Czarny,Uszkodzony,Manualna,Belgia,22 000 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,2 cm³,2005,200 KM,Benzyna,Coupe,263 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,22 500 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 500 cm³,2021,131 KM,Benzyna,Hatchback,6 500 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,88 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2019,245 KM,Benzyna,Kompakt,60 000 km,Czarny,Używane,Automatyczna,Francja,48 800PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2011,105 KM,Diesel,Kombi,231 200 km,Srebrny,Używane,Manualna,Niemcy,23 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2015,150 KM,Diesel,Kombi,88 400 km,Bordowy,Używane,Manualna,Unknown,52 800PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,90 KM,Diesel,Kombi,129 350 km,Srebrny,Używane,Manualna,Polska,40 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 395 cm3,2015,125 KM,Benzyna,Kompakt,169 000 km,Szary,Używane,Manualna,Unknown,39 900PLN,OTOMOTO
+Volkswagen,Golf,6,1 390 cm³,2009,80 KM,Benzyna,Hatchback,214 766 km,Biały,Nieuszkodzony,Manualna,Niemcy,17 300 zł,OLX
+Volkswagen,Golf,5,1 896 cm³,2008,105 KM,Diesel,Kombi,316 500 km,Srebrny,Uszkodzony,Manualna,Unknown,7 500 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 390 cm3,2013,122 KM,Benzyna,Kombi,165 659 km,Czarny,Używane,Manualna,Polska,34 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 798 cm3,2009,160 KM,Benzyna,Kompakt,198 566 km,Biały,Używane,Manualna,Unknown,26 500PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,32 169 km,Czarny,Używane,Manualna,Francja,39 900PLN,OTOMOTO
+Volkswagen,Golf,V,1 900 cm³,2006,105 KM,Diesel,Hatchback,195 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,7 799 złdo negocjacji,OLX
+Volkswagen,Golf,VIII (2020-),999 cm3,2021,110 KM,Benzyna,Kompakt,46 600 km,Biały,Używane,Manualna,Polska,76 998PLN,OTOMOTO
+Volkswagen,Golf,7,2 000 cm³,2017,150 KM,Diesel,Hatchback,182 100 km,Inny kolor,Nieuszkodzony,Automatyczna,Unknown,79 900 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kompakt,249 000 km,Biały,Używane,Manualna,Unknown,14 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2018,115 KM,Diesel,Kombi,195 000 km,Srebrny,Używane,Manualna,Polska,43 900PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 984 cm3,2021,319 KM,Benzyna,Kompakt,41 000 km,Czarny,Używane,Automatyczna,Unknown,189 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2013,105 KM,Diesel,Kombi,254 000 km,Czarny,Używane,Automatyczna,Niemcy,28 700PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 498 cm3,2022,130 KM,Benzyna,Kompakt,11 337 km,Czarny,Używane,Automatyczna,Polska,126 000PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 600 cm³,2015,110 KM,Diesel,Kombi,185 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,41 500 złdo negocjacji,OLX
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2010,105 KM,Diesel,Kombi,269 780 km,Biały,Używane,Automatyczna,Unknown,22 500PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 395 cm3,2016,125 KM,Benzyna,Kompakt,249 000 km,Czarny,Używane,Manualna,Polska,38 999PLN,OTOMOTO
+Volkswagen,Golf,1.4,1 400 cm³,2004,88 KM,Benzyna,Hatchback,220 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,10 999 złdo negocjacji,OLX
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,1998,68 KM,Diesel,Kompakt,290 000 km,Granatowy,Używane,Manualna,Unknown,4 400PLN,OTOMOTO
+Volkswagen,Golf,7,1 600 cm³,2014,110 KM,Diesel,Kombi,492 000 km,Biały,Nieuszkodzony,Automatyczna,Szwajcaria,26 900 złdo negocjacji,OLX
+Volkswagen,Golf,VIII (2020-),999 cm3,2021,110 KM,Benzyna,Kompakt,49 800 km,Czarny,Używane,Manualna,Polska,79 200PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,2001,90 KM,Diesel,Kompakt,118 000 km,Niebieski,Używane,Automatyczna,Unknown,3 000PLN,OTOMOTO
+Volkswagen,Golf,5,1 896 cm³,2008,90 KM,Diesel,Hatchback,318 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,15 400 złdo negocjacji,OLX
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kombi,292 000 km,Srebrny,Używane,Manualna,Polska,13 999PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,156 000 km,Szary,Używane,Manualna,Unknown,54 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 595 cm3,2009,102 KM,Benzyna+LPG,Kompakt,293 000 km,Czarny,Używane,Manualna,Unknown,24 500PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 498 cm³,2018,130 KM,Benzyna,Hatchback,89 500 km,Biały,Nieuszkodzony,Manualna,Polska,73 000 złdo negocjacji,OLX
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2011,105 KM,Diesel,Kompakt,269 085 km,Czarny,Używane,Manualna,Unknown,21 800PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2010,105 KM,Diesel,Kombi,295 000 km,Inny kolor,Używane,Manualna,Niemcy,21 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2012,105 KM,Diesel,Kompakt,208 000 km,Srebrny,Używane,Manualna,Unknown,31 500PLN,OTOMOTO
+Volkswagen,Golf,1.6,1 600 cm³,2001,Unknown,Benzyna,Hatchback,139 923 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,6 950 złdo negocjacji,OLX
+Volkswagen,Golf,V,1 900 cm³,2005,140 KM,Diesel,Hatchback,372 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,10 900 zł,OLX
+Volkswagen,Golf,VI (2008-2013),1 968 cm3,2009,170 KM,Diesel,Kompakt,313 000 km,Biały,Używane,Automatyczna,Unknown,35 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2009,122 KM,Benzyna,Kompakt,231 720 km,Srebrny,Używane,Manualna,Polska,18 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2016,245 KM,Benzyna,Kompakt,117 000 km,Biały,Używane,Automatyczna,Stany Zjednoczone,76 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2005,90 KM,Diesel,Kompakt,271 600 km,Granatowy,Używane,Manualna,Unknown,12 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 968 cm3,2008,140 KM,Diesel,Kompakt,106 000 km,Szary,Używane,Manualna,Unknown,27 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,160 000 km,Czarny,Używane,Manualna,Unknown,41 700PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,90 KM,Benzyna,Kompakt,149 000 km,Niebieski,Używane,Manualna,Unknown,13 900PLN,OTOMOTO
+Volkswagen,Golf,5,1 900 cm³,2005,105 KM,Diesel,Hatchback,266 500 km,Niebieski,Nieuszkodzony,Automatyczna,Niemcy,17 999 zł,OLX
+Volkswagen,Golf,Unknown,1 900 cm³,2007,105 KM,Diesel,Hatchback,230 000 km,Srebrny,Nieuszkodzony,Manualna,Polska,14 200 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 390 cm³,2004,90 KM,Benzyna,Hatchback,206 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,6 000 złdo negocjacji,OLX
+Volkswagen,Golf,Sportsvan,1 400 cm³,2015,150 KM,Benzyna,Minivan,132 000 km,Brązowy – Beżowy,Nieuszkodzony,Automatyczna,Polska,47 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,6,2 000 cm³,2010,140 KM,Diesel,Kombi,361 000 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,17 500 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,67 960 km,Czarny,Używane,Automatyczna,Polska,77 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,75 KM,Benzyna,Kompakt,248 666 km,Srebrny,Używane,Manualna,Niemcy,7 500PLN,OTOMOTO
+Volkswagen,Golf,VI,1 598 cm³,2012,105 KM,Diesel,Hatchback,144 500 km,Czarny,Uszkodzony,Manualna,Belgia,22 000 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,2 cm³,2005,200 KM,Benzyna,Coupe,263 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,22 500 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 500 cm³,2021,131 KM,Benzyna,Hatchback,6 500 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,88 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2019,245 KM,Benzyna,Kompakt,60 000 km,Czarny,Używane,Automatyczna,Francja,48 800PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 395 cm3,2015,125 KM,Benzyna,Kompakt,169 000 km,Szary,Używane,Manualna,Unknown,39 900PLN,OTOMOTO
+Volkswagen,Golf,6,1 390 cm³,2009,80 KM,Benzyna,Hatchback,214 766 km,Biały,Nieuszkodzony,Manualna,Niemcy,17 300 zł,OLX
+Volkswagen,Golf,5,1 896 cm³,2008,105 KM,Diesel,Kombi,316 500 km,Srebrny,Uszkodzony,Manualna,Unknown,7 500 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 395 cm3,2016,125 KM,Benzyna,Kompakt,194 000 km,Biały,Używane,Manualna,Polska,52 600PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 390 cm3,2013,122 KM,Benzyna,Kombi,165 659 km,Czarny,Używane,Manualna,Polska,34 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 798 cm3,2009,160 KM,Benzyna,Kompakt,198 566 km,Biały,Używane,Manualna,Unknown,26 500PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,32 169 km,Czarny,Używane,Manualna,Francja,39 900PLN,OTOMOTO
+Volkswagen,Golf,V,1 900 cm³,2006,105 KM,Diesel,Hatchback,195 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,7 799 złdo negocjacji,OLX
+Volkswagen,Golf,VIII (2020-),999 cm3,2021,110 KM,Benzyna,Kompakt,46 600 km,Biały,Używane,Manualna,Polska,76 998PLN,OTOMOTO
+Volkswagen,Golf,7,2 000 cm³,2017,150 KM,Diesel,Hatchback,182 100 km,Inny kolor,Nieuszkodzony,Automatyczna,Unknown,79 900 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kompakt,249 000 km,Biały,Używane,Manualna,Unknown,14 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2018,115 KM,Diesel,Kombi,195 000 km,Srebrny,Używane,Manualna,Polska,43 900PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 984 cm3,2021,319 KM,Benzyna,Kompakt,41 000 km,Czarny,Używane,Automatyczna,Unknown,189 000PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 498 cm3,2022,130 KM,Benzyna,Kompakt,11 337 km,Czarny,Używane,Automatyczna,Polska,126 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2010,105 KM,Diesel,Kombi,269 780 km,Biały,Używane,Automatyczna,Unknown,22 500PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 498 cm³,2018,130 KM,Benzyna,Hatchback,89 500 km,Biały,Nieuszkodzony,Manualna,Polska,73 000 złdo negocjacji,OLX
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2013,105 KM,Diesel,Kombi,254 000 km,Czarny,Używane,Automatyczna,Niemcy,28 700PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 395 cm3,2016,125 KM,Benzyna,Kompakt,249 000 km,Czarny,Używane,Manualna,Polska,38 999PLN,OTOMOTO
+Volkswagen,Golf,1.4,1 400 cm³,2004,88 KM,Benzyna,Hatchback,220 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,10 999 złdo negocjacji,OLX
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,1998,68 KM,Diesel,Kompakt,290 000 km,Granatowy,Używane,Manualna,Unknown,4 400PLN,OTOMOTO
+Volkswagen,Golf,7,1 600 cm³,2014,110 KM,Diesel,Kombi,492 000 km,Biały,Nieuszkodzony,Automatyczna,Szwajcaria,26 900 złdo negocjacji,OLX
+Volkswagen,Golf,VIII (2020-),999 cm3,2021,110 KM,Benzyna,Kompakt,49 800 km,Czarny,Używane,Manualna,Polska,79 200PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,2001,90 KM,Diesel,Kompakt,118 000 km,Niebieski,Używane,Automatyczna,Unknown,3 000PLN,OTOMOTO
+Volkswagen,Golf,5,1 896 cm³,2008,90 KM,Diesel,Hatchback,318 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,15 400 złdo negocjacji,OLX
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kombi,292 000 km,Srebrny,Używane,Manualna,Polska,13 999PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,156 000 km,Szary,Używane,Manualna,Unknown,54 000PLN,OTOMOTO
+Volkswagen,Golf,VII,1 400 cm³,2013,140 KM,Benzyna,Hatchback,171 000 km,Szary,Nieuszkodzony,Automatyczna,Niemcy,43 300 zł,OLX
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2010,105 KM,Diesel,Kombi,295 000 km,Inny kolor,Używane,Manualna,Niemcy,21 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2008,80 KM,Benzyna,Kompakt,164 000 km,Czarny,Używane,Manualna,Niemcy,17 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 595 cm3,2009,102 KM,Benzyna+LPG,Kompakt,293 000 km,Czarny,Używane,Manualna,Unknown,24 500PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2012,105 KM,Diesel,Kompakt,208 000 km,Srebrny,Używane,Manualna,Unknown,31 500PLN,OTOMOTO
+Volkswagen,Golf,1.6,1 600 cm³,2001,Unknown,Benzyna,Hatchback,139 923 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,6 950 złdo negocjacji,OLX
+Volkswagen,Golf,V,1 900 cm³,2005,140 KM,Diesel,Hatchback,372 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,10 900 zł,OLX
+Volkswagen,Golf,VI (2008-2013),1 968 cm3,2009,170 KM,Diesel,Kompakt,313 000 km,Biały,Używane,Automatyczna,Unknown,35 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2009,122 KM,Benzyna,Kompakt,231 720 km,Srebrny,Używane,Manualna,Polska,18 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2016,245 KM,Benzyna,Kompakt,117 000 km,Biały,Używane,Automatyczna,Stany Zjednoczone,76 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2005,90 KM,Diesel,Kompakt,271 600 km,Granatowy,Używane,Manualna,Unknown,12 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 968 cm3,2008,140 KM,Diesel,Kompakt,106 000 km,Szary,Używane,Manualna,Unknown,27 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,160 000 km,Czarny,Używane,Manualna,Unknown,41 700PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 900 cm³,2007,105 KM,Diesel,Hatchback,230 000 km,Srebrny,Nieuszkodzony,Manualna,Polska,14 200 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 390 cm³,2004,90 KM,Benzyna,Hatchback,206 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,6 000 złdo negocjacji,OLX
+Volkswagen,Golf,V,1 400 cm³,2006,80 KM,Benzyna,Hatchback,328 000 km,Czarny,Uszkodzony,Manualna,Niemcy,5 900 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,90 KM,Benzyna,Kompakt,149 000 km,Niebieski,Używane,Manualna,Unknown,13 900PLN,OTOMOTO
+Volkswagen,Golf,Sportsvan,1 400 cm³,2015,150 KM,Benzyna,Minivan,132 000 km,Brązowy – Beżowy,Nieuszkodzony,Automatyczna,Polska,47 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,6,2 000 cm³,2010,140 KM,Diesel,Kombi,361 000 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,17 500 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,67 960 km,Czarny,Używane,Automatyczna,Polska,77 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,75 KM,Benzyna,Kompakt,248 666 km,Srebrny,Używane,Manualna,Niemcy,7 500PLN,OTOMOTO
+Volkswagen,Golf,VI,1 598 cm³,2012,105 KM,Diesel,Hatchback,144 500 km,Czarny,Uszkodzony,Manualna,Belgia,22 000 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,2 cm³,2005,200 KM,Benzyna,Coupe,263 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,22 500 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 500 cm³,2021,131 KM,Benzyna,Hatchback,6 500 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,88 000 złdo negocjacji,OLX
+Volkswagen,Golf,5,1 896 cm³,2008,105 KM,Diesel,Kombi,316 500 km,Srebrny,Uszkodzony,Manualna,Unknown,7 500 zł,OLX
+Volkswagen,Golf,Unknown,1 600 cm³,2015,110 KM,Diesel,Kombi,185 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,41 500 złdo negocjacji,OLX
+Volkswagen,Golf,V,1 900 cm³,2006,105 KM,Diesel,Hatchback,238 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,11 900 zł,OLX
+Volkswagen,Golf,1.6,1 598 cm³,2009,102 KM,Benzyna,Hatchback,184 000 km,Szary,Nieuszkodzony,Manualna,Niemcy,27 900 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 395 cm3,2016,125 KM,Benzyna,Kompakt,194 000 km,Biały,Używane,Manualna,Polska,52 600PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 390 cm3,2013,122 KM,Benzyna,Kombi,165 659 km,Czarny,Używane,Manualna,Polska,34 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 798 cm3,2009,160 KM,Benzyna,Kompakt,198 566 km,Biały,Używane,Manualna,Unknown,26 500PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,32 169 km,Czarny,Używane,Manualna,Francja,39 900PLN,OTOMOTO
+Volkswagen,Golf,V,1 900 cm³,2006,105 KM,Diesel,Hatchback,195 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,7 799 złdo negocjacji,OLX
+Volkswagen,Golf,VIII (2020-),999 cm3,2021,110 KM,Benzyna,Kompakt,46 600 km,Biały,Używane,Manualna,Polska,76 998PLN,OTOMOTO
+Volkswagen,Golf,7,2 000 cm³,2017,150 KM,Diesel,Hatchback,182 100 km,Inny kolor,Nieuszkodzony,Automatyczna,Unknown,79 900 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kompakt,249 000 km,Biały,Używane,Manualna,Unknown,14 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2018,115 KM,Diesel,Kombi,195 000 km,Srebrny,Używane,Manualna,Polska,43 900PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 498 cm³,2018,130 KM,Benzyna,Hatchback,89 500 km,Biały,Nieuszkodzony,Manualna,Polska,73 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII,1 400 cm³,2013,140 KM,Benzyna,Hatchback,171 000 km,Szary,Nieuszkodzony,Automatyczna,Niemcy,43 300 zł,OLX
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2011,105 KM,Diesel,Kompakt,269 085 km,Czarny,Używane,Manualna,Unknown,21 800PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 984 cm3,2021,319 KM,Benzyna,Kompakt,41 000 km,Czarny,Używane,Automatyczna,Unknown,189 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2013,105 KM,Diesel,Kombi,254 000 km,Czarny,Używane,Automatyczna,Niemcy,28 700PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 395 cm3,2016,125 KM,Benzyna,Kompakt,249 000 km,Czarny,Używane,Manualna,Polska,38 999PLN,OTOMOTO
+Volkswagen,Golf,1.4,1 400 cm³,2004,88 KM,Benzyna,Hatchback,220 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,10 999 złdo negocjacji,OLX
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,1998,68 KM,Diesel,Kompakt,290 000 km,Granatowy,Używane,Manualna,Unknown,4 400PLN,OTOMOTO
+Volkswagen,Golf,7,1 600 cm³,2014,110 KM,Diesel,Kombi,492 000 km,Biały,Nieuszkodzony,Automatyczna,Szwajcaria,26 900 złdo negocjacji,OLX
+Volkswagen,Golf,VIII (2020-),999 cm3,2021,110 KM,Benzyna,Kompakt,49 800 km,Czarny,Używane,Manualna,Polska,79 200PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,2001,90 KM,Diesel,Kompakt,118 000 km,Niebieski,Używane,Automatyczna,Unknown,3 000PLN,OTOMOTO
+Volkswagen,Golf,5,1 896 cm³,2008,90 KM,Diesel,Hatchback,318 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,15 400 złdo negocjacji,OLX
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kombi,292 000 km,Srebrny,Używane,Manualna,Polska,13 999PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 395 cm3,2014,125 KM,Benzyna,Kompakt,190 000 km,Czerwony,Używane,Manualna,Unknown,38 900PLN,OTOMOTO
+Volkswagen,Golf,V,1 900 cm³,2008,105 KM,Diesel,Kombi,290 000 km,Czarny,Nieuszkodzony,Automatyczna,Polska,13 500 zł,OLX
+Volkswagen,Golf,7,1 600 cm³,2015,115 KM,Diesel,Minivan,126 000 km,Szary,Nieuszkodzony,Automatyczna,Niemcy,47 900 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,156 000 km,Szary,Używane,Manualna,Unknown,54 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 595 cm3,2009,102 KM,Benzyna+LPG,Kompakt,293 000 km,Czarny,Używane,Manualna,Unknown,24 500PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2012,105 KM,Diesel,Kompakt,208 000 km,Srebrny,Używane,Manualna,Unknown,31 500PLN,OTOMOTO
+Volkswagen,Golf,1.6,1 600 cm³,2001,Unknown,Benzyna,Hatchback,139 923 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,6 950 złdo negocjacji,OLX
+Volkswagen,Golf,V,1 900 cm³,2005,140 KM,Diesel,Hatchback,372 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,10 900 zł,OLX
+Volkswagen,Golf,VI (2008-2013),1 968 cm3,2009,170 KM,Diesel,Kompakt,313 000 km,Biały,Używane,Automatyczna,Unknown,35 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2009,122 KM,Benzyna,Kompakt,231 720 km,Srebrny,Używane,Manualna,Polska,18 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2016,245 KM,Benzyna,Kompakt,117 000 km,Biały,Używane,Automatyczna,Stany Zjednoczone,76 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2005,90 KM,Diesel,Kompakt,271 600 km,Granatowy,Używane,Manualna,Unknown,12 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 968 cm3,2008,140 KM,Diesel,Kompakt,106 000 km,Szary,Używane,Manualna,Unknown,27 900PLN,OTOMOTO
+Volkswagen,Golf,1.6,1 598 cm³,1998,101 KM,Benzyna,Hatchback,270 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,3 400 złdo negocjacji,OLX
+Volkswagen,Golf,IV,1 395 cm³,1998,76 KM,Benzyna,Hatchback,189 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,3 800 zł,OLX
+Volkswagen,Golf,Unknown,1 400 cm³,2011,122 KM,Benzyna,Hatchback,203 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,27 000 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,160 000 km,Czarny,Używane,Manualna,Unknown,41 700PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,90 KM,Benzyna,Kompakt,149 000 km,Niebieski,Używane,Manualna,Unknown,13 900PLN,OTOMOTO
+Volkswagen,Golf,Sportsvan,1 400 cm³,2015,150 KM,Benzyna,Minivan,132 000 km,Brązowy – Beżowy,Nieuszkodzony,Automatyczna,Polska,47 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,6,2 000 cm³,2010,140 KM,Diesel,Kombi,361 000 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,17 500 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,67 960 km,Czarny,Używane,Automatyczna,Polska,77 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,75 KM,Benzyna,Kompakt,248 666 km,Srebrny,Używane,Manualna,Niemcy,7 500PLN,OTOMOTO
+Volkswagen,Golf,VI,1 598 cm³,2012,105 KM,Diesel,Hatchback,144 500 km,Czarny,Uszkodzony,Manualna,Belgia,22 000 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,2 cm³,2005,200 KM,Benzyna,Coupe,263 km,Czerwony,Nieuszkodzony,Manualna,Niemcy,22 500 złdo negocjacji,OLX
+Volkswagen,Golf,VI,1 968 cm³,2008,110 KM,Diesel,Hatchback,175 257 km,Czarny,Nieuszkodzony,Manualna,Unknown,17 900 zł,OLX
+Volkswagen,Golf,1.4,1 400 cm³,2000,75 KM,LPG,Hatchback,275 000 km,Niebieski,Nieuszkodzony,Manualna,Unknown,4 299 zł,OLX
+Volkswagen,Golf,IV,1 896 cm³,2001,130 KM,Diesel,Hatchback,300 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,4 999 złdo negocjacji,OLX
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,2002,100 KM,Diesel,Kombi,370 100 km,Granatowy,Używane,Manualna,Unknown,4 000PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,88 000 km,Czarny,Używane,Manualna,Francja,27 500PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2012,105 KM,Diesel,Kompakt,239 400 km,Srebrny,Używane,Manualna,Unknown,27 999PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2009,105 KM,Diesel,Kombi,190 000 km,Szary,Używane,Manualna,Unknown,10 900PLN,OTOMOTO
+Volkswagen,Golf,1.6,1 598 cm³,2009,102 KM,Benzyna,Hatchback,184 000 km,Szary,Nieuszkodzony,Manualna,Niemcy,27 900 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 395 cm3,2016,125 KM,Benzyna,Kompakt,194 000 km,Biały,Używane,Manualna,Polska,52 600PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 390 cm3,2013,122 KM,Benzyna,Kombi,165 659 km,Czarny,Używane,Manualna,Polska,34 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 798 cm3,2009,160 KM,Benzyna,Kompakt,198 566 km,Biały,Używane,Manualna,Unknown,26 500PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,32 169 km,Czarny,Używane,Manualna,Francja,39 900PLN,OTOMOTO
+Volkswagen,Golf,V,1 900 cm³,2006,105 KM,Diesel,Hatchback,195 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,7 799 złdo negocjacji,OLX
+Volkswagen,Golf,7,1 400 cm³,2014,140 KM,Benzyna,Kombi,218 000 km,Szary,Nieuszkodzony,Manualna,Polska,46 500 złdo negocjacji,OLX
+Volkswagen,Golf,VII,1 400 cm³,2013,140 KM,Benzyna,Hatchback,171 000 km,Szary,Nieuszkodzony,Automatyczna,Niemcy,43 300 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 395 cm3,2014,125 KM,Benzyna,Kompakt,190 000 km,Czerwony,Używane,Manualna,Unknown,38 900PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),999 cm3,2021,110 KM,Benzyna,Kompakt,46 600 km,Biały,Używane,Manualna,Polska,76 998PLN,OTOMOTO
+Volkswagen,Golf,7,2 000 cm³,2017,150 KM,Diesel,Hatchback,182 100 km,Inny kolor,Nieuszkodzony,Automatyczna,Unknown,79 900 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kompakt,249 000 km,Biały,Używane,Manualna,Unknown,14 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2018,115 KM,Diesel,Kombi,195 000 km,Srebrny,Używane,Manualna,Polska,43 900PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 984 cm3,2021,319 KM,Benzyna,Kompakt,41 000 km,Czarny,Używane,Automatyczna,Unknown,189 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2013,105 KM,Diesel,Kombi,254 000 km,Czarny,Używane,Automatyczna,Niemcy,28 700PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 395 cm3,2016,125 KM,Benzyna,Kompakt,249 000 km,Czarny,Używane,Manualna,Polska,38 999PLN,OTOMOTO
+Volkswagen,Golf,1.4,1 400 cm³,2004,88 KM,Benzyna,Hatchback,220 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,10 999 złdo negocjacji,OLX
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,1998,68 KM,Diesel,Kompakt,290 000 km,Granatowy,Używane,Manualna,Unknown,4 400PLN,OTOMOTO
+Volkswagen,Golf,7,1 600 cm³,2014,110 KM,Diesel,Kombi,492 000 km,Biały,Nieuszkodzony,Automatyczna,Szwajcaria,26 900 złdo negocjacji,OLX
+Volkswagen,Golf,7,1 600 cm³,2015,115 KM,Diesel,Minivan,126 000 km,Szary,Nieuszkodzony,Automatyczna,Niemcy,47 900 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 400 cm³,2015,125 KM,Benzyna,Kombi,230 000 km,Czarny,Nieuszkodzony,Manualna,Polska,34 000 złdo negocjacji,OLX
+Volkswagen,Golf,1.6,1 598 cm³,1998,101 KM,Benzyna,Hatchback,270 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,3 400 złdo negocjacji,OLX
+Volkswagen,Golf,VIII (2020-),999 cm3,2021,110 KM,Benzyna,Kompakt,49 800 km,Czarny,Używane,Manualna,Polska,79 200PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,2001,90 KM,Diesel,Kompakt,118 000 km,Niebieski,Używane,Automatyczna,Unknown,3 000PLN,OTOMOTO
+Volkswagen,Golf,5,1 896 cm³,2008,90 KM,Diesel,Hatchback,318 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,15 400 złdo negocjacji,OLX
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kombi,292 000 km,Srebrny,Używane,Manualna,Polska,13 999PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,156 000 km,Szary,Używane,Manualna,Unknown,54 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 595 cm3,2009,102 KM,Benzyna+LPG,Kompakt,293 000 km,Czarny,Używane,Manualna,Unknown,24 500PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2012,105 KM,Diesel,Kompakt,208 000 km,Srebrny,Używane,Manualna,Unknown,31 500PLN,OTOMOTO
+Volkswagen,Golf,1.6,1 600 cm³,2001,Unknown,Benzyna,Hatchback,139 923 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,6 950 złdo negocjacji,OLX
+Volkswagen,Golf,V,1 900 cm³,2005,140 KM,Diesel,Hatchback,372 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,10 900 zł,OLX
+Volkswagen,Golf,VI (2008-2013),1 968 cm3,2009,170 KM,Diesel,Kompakt,313 000 km,Biały,Używane,Automatyczna,Unknown,35 000PLN,OTOMOTO
+Volkswagen,Golf,7,1 598 cm³,2016,90 KM,Diesel,Hatchback,180 000 km,Szary,Nieuszkodzony,Manualna,Polska,42 500 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 498 cm3,2020,130 KM,Benzyna,Kombi,106 000 km,Szary,Używane,Manualna,Belgia,56 900PLN,OTOMOTO
+Volkswagen,Golf,VII,1 598 cm³,2017,115 KM,Diesel,Kombi,150 000 km,Inny kolor,Nieuszkodzony,Manualna,Niemcy,47 500 złdo negocjacji,OLX
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2009,122 KM,Benzyna,Kompakt,231 720 km,Srebrny,Używane,Manualna,Polska,18 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2016,245 KM,Benzyna,Kompakt,117 000 km,Biały,Używane,Automatyczna,Stany Zjednoczone,76 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2005,90 KM,Diesel,Kompakt,271 600 km,Granatowy,Używane,Manualna,Unknown,12 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 968 cm3,2008,140 KM,Diesel,Kompakt,106 000 km,Szary,Używane,Manualna,Unknown,27 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,160 000 km,Czarny,Używane,Manualna,Unknown,41 700PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,90 KM,Benzyna,Kompakt,149 000 km,Niebieski,Używane,Manualna,Unknown,13 900PLN,OTOMOTO
+Volkswagen,Golf,Sportsvan,1 400 cm³,2015,150 KM,Benzyna,Minivan,132 000 km,Brązowy – Beżowy,Nieuszkodzony,Automatyczna,Polska,47 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,6,2 000 cm³,2010,140 KM,Diesel,Kombi,361 000 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,17 500 złdo negocjacji,OLX
+Volkswagen,Golf,VI,1 968 cm³,2008,110 KM,Diesel,Hatchback,175 257 km,Czarny,Nieuszkodzony,Manualna,Unknown,17 900 zł,OLX
+Volkswagen,Golf,VIII (2020-),1 498 cm3,2020,150 KM,Benzyna,Auta małe,57 184 km,Czarny,Używane,Manualna,Unknown,85 900PLN,OTOMOTO
+Volkswagen,Golf,1.4,1 400 cm³,2000,75 KM,LPG,Hatchback,275 000 km,Niebieski,Nieuszkodzony,Manualna,Unknown,4 299 zł,OLX
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,2002,100 KM,Diesel,Kombi,370 100 km,Granatowy,Używane,Manualna,Unknown,4 000PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,88 000 km,Czarny,Używane,Manualna,Francja,27 500PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2012,105 KM,Diesel,Kompakt,239 400 km,Srebrny,Używane,Manualna,Unknown,27 999PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2009,105 KM,Diesel,Kombi,190 000 km,Szary,Używane,Manualna,Unknown,10 900PLN,OTOMOTO
+Volkswagen,Golf,1.6,1 598 cm³,2009,102 KM,Benzyna,Hatchback,184 000 km,Szary,Nieuszkodzony,Manualna,Niemcy,27 900 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 395 cm3,2016,125 KM,Benzyna,Kompakt,194 000 km,Biały,Używane,Manualna,Polska,52 600PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 390 cm3,2013,122 KM,Benzyna,Kombi,165 659 km,Czarny,Używane,Manualna,Polska,34 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 798 cm3,2009,160 KM,Benzyna,Kompakt,198 566 km,Biały,Używane,Manualna,Unknown,26 500PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,32 169 km,Czarny,Używane,Manualna,Francja,39 900PLN,OTOMOTO
+Volkswagen,Golf,V,1 900 cm³,2006,105 KM,Diesel,Hatchback,195 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,7 799 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2012,150 KM,Diesel,Kompakt,270 000 km,Niebieski,Używane,Manualna,Niemcy,44 900PLN,OTOMOTO
+Volkswagen,Golf,IV,1 896 cm³,2001,130 KM,Diesel,Hatchback,300 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,4 999 złdo negocjacji,OLX
+Volkswagen,Golf,8,1 500 cm³,2020,130 KM,Benzyna,Hatchback,100 000 km,Niebieski,Nieuszkodzony,Manualna,Polska,79 000 zł,OLX
+Volkswagen,Golf,VIII (2020-),999 cm3,2021,110 KM,Benzyna,Kompakt,46 600 km,Biały,Używane,Manualna,Polska,76 998PLN,OTOMOTO
+Volkswagen,Golf,7,2 000 cm³,2017,150 KM,Diesel,Hatchback,182 100 km,Inny kolor,Nieuszkodzony,Automatyczna,Unknown,79 900 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kompakt,249 000 km,Biały,Używane,Manualna,Unknown,14 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2018,115 KM,Diesel,Kombi,195 000 km,Srebrny,Używane,Manualna,Polska,43 900PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 984 cm3,2021,319 KM,Benzyna,Kompakt,41 000 km,Czarny,Używane,Automatyczna,Unknown,189 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2013,105 KM,Diesel,Kombi,254 000 km,Czarny,Używane,Automatyczna,Niemcy,28 700PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 395 cm3,2016,125 KM,Benzyna,Kompakt,249 000 km,Czarny,Używane,Manualna,Polska,38 999PLN,OTOMOTO
+Volkswagen,Golf,1.4,1 400 cm³,2004,88 KM,Benzyna,Hatchback,220 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,10 999 złdo negocjacji,OLX
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,1998,68 KM,Diesel,Kompakt,290 000 km,Granatowy,Używane,Manualna,Unknown,4 400PLN,OTOMOTO
+Volkswagen,Golf,7,1 600 cm³,2014,110 KM,Diesel,Kombi,492 000 km,Biały,Nieuszkodzony,Automatyczna,Szwajcaria,26 900 złdo negocjacji,OLX
+Volkswagen,Golf,V (2003-2009),1 984 cm3,2007,200 KM,Benzyna,Kompakt,247 000 km,Srebrny,Używane,Automatyczna,Unknown,27 700PLN,OTOMOTO
+Volkswagen,Golf,powypadkowe,1 cm³,2001,Unknown,Benzyna,Sedan,280 000 km,Szary,Uszkodzony,Manualna,Polska,1 800 zł,OLX
+Volkswagen,Golf,7,1 400 cm³,2014,140 KM,Benzyna,Kombi,218 000 km,Szary,Nieuszkodzony,Manualna,Polska,46 500 złdo negocjacji,OLX
+Volkswagen,Golf,VIII (2020-),999 cm3,2021,110 KM,Benzyna,Kompakt,49 800 km,Czarny,Używane,Manualna,Polska,79 200PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,2001,90 KM,Diesel,Kompakt,118 000 km,Niebieski,Używane,Automatyczna,Unknown,3 000PLN,OTOMOTO
+Volkswagen,Golf,5,1 896 cm³,2008,90 KM,Diesel,Hatchback,318 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,15 400 złdo negocjacji,OLX
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kombi,292 000 km,Srebrny,Używane,Manualna,Polska,13 999PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,156 000 km,Szary,Używane,Manualna,Unknown,54 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 595 cm3,2009,102 KM,Benzyna+LPG,Kompakt,293 000 km,Czarny,Używane,Manualna,Unknown,24 500PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2012,105 KM,Diesel,Kompakt,208 000 km,Srebrny,Używane,Manualna,Unknown,31 500PLN,OTOMOTO
+Volkswagen,Golf,1.6,1 600 cm³,2001,Unknown,Benzyna,Hatchback,139 923 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,6 950 złdo negocjacji,OLX
+Volkswagen,Golf,V,1 900 cm³,2005,140 KM,Diesel,Hatchback,372 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,10 900 zł,OLX
+Volkswagen,Golf,VI (2008-2013),1 968 cm3,2009,170 KM,Diesel,Kompakt,313 000 km,Biały,Używane,Automatyczna,Unknown,35 000PLN,OTOMOTO
+Volkswagen,Golf,V,1 896 cm³,2007,105 KM,Diesel,Kombi,280 629 km,Srebrny,Nieuszkodzony,Automatyczna,Niemcy,9 000 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 400 cm³,2015,125 KM,Benzyna,Kombi,230 000 km,Czarny,Nieuszkodzony,Manualna,Polska,34 000 złdo negocjacji,OLX
+Volkswagen,Golf,V (2003-2009),1 984 cm3,2004,150 KM,Benzyna,Auta miejskie,299 689 km,Niebieski,Używane,Manualna,Unknown,9 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2009,122 KM,Benzyna,Kompakt,231 720 km,Srebrny,Używane,Manualna,Polska,18 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2016,245 KM,Benzyna,Kompakt,117 000 km,Biały,Używane,Automatyczna,Stany Zjednoczone,76 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2005,90 KM,Diesel,Kompakt,271 600 km,Granatowy,Używane,Manualna,Unknown,12 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 968 cm3,2008,140 KM,Diesel,Kompakt,106 000 km,Szary,Używane,Manualna,Unknown,27 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,160 000 km,Czarny,Używane,Manualna,Unknown,41 700PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,90 KM,Benzyna,Kompakt,149 000 km,Niebieski,Używane,Manualna,Unknown,13 900PLN,OTOMOTO
+Volkswagen,Golf,Sportsvan,1 400 cm³,2015,150 KM,Benzyna,Minivan,132 000 km,Brązowy – Beżowy,Nieuszkodzony,Automatyczna,Polska,47 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,6,2 000 cm³,2010,140 KM,Diesel,Kombi,361 000 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,17 500 złdo negocjacji,OLX
+Volkswagen,Golf,VI,1 968 cm³,2008,110 KM,Diesel,Hatchback,175 257 km,Czarny,Nieuszkodzony,Manualna,Unknown,17 900 zł,OLX
+Volkswagen,Golf,VIII (2020-),1 498 cm3,2020,150 KM,Benzyna,Auta małe,57 184 km,Czarny,Używane,Manualna,Unknown,85 900PLN,OTOMOTO
+Volkswagen,Golf,1.4,1 400 cm³,2000,75 KM,LPG,Hatchback,275 000 km,Niebieski,Nieuszkodzony,Manualna,Unknown,4 299 zł,OLX
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,2002,100 KM,Diesel,Kombi,370 100 km,Granatowy,Używane,Manualna,Unknown,4 000PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,88 000 km,Czarny,Używane,Manualna,Francja,27 500PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2012,105 KM,Diesel,Kompakt,239 400 km,Srebrny,Używane,Manualna,Unknown,27 999PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2009,105 KM,Diesel,Kombi,190 000 km,Szary,Używane,Manualna,Unknown,10 900PLN,OTOMOTO
+Volkswagen,Golf,1.6,1 598 cm³,2009,102 KM,Benzyna,Hatchback,184 000 km,Szary,Nieuszkodzony,Manualna,Niemcy,27 900 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 395 cm3,2016,125 KM,Benzyna,Kompakt,194 000 km,Biały,Używane,Manualna,Polska,52 600PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 390 cm3,2013,122 KM,Benzyna,Kombi,165 659 km,Czarny,Używane,Manualna,Polska,34 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 798 cm3,2009,160 KM,Benzyna,Kompakt,198 566 km,Biały,Używane,Manualna,Unknown,26 500PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,32 169 km,Czarny,Używane,Manualna,Francja,39 900PLN,OTOMOTO
+Volkswagen,Golf,V,1 900 cm³,2006,105 KM,Diesel,Hatchback,195 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,7 799 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2012,150 KM,Diesel,Kompakt,270 000 km,Niebieski,Używane,Manualna,Niemcy,44 900PLN,OTOMOTO
+Volkswagen,Golf,IV,1 896 cm³,2001,130 KM,Diesel,Hatchback,300 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,4 999 złdo negocjacji,OLX
+Volkswagen,Golf,8,1 500 cm³,2020,130 KM,Benzyna,Hatchback,100 000 km,Niebieski,Nieuszkodzony,Manualna,Polska,79 000 zł,OLX
+Volkswagen,Golf,VIII (2020-),999 cm3,2021,110 KM,Benzyna,Kompakt,46 600 km,Biały,Używane,Manualna,Polska,76 998PLN,OTOMOTO
+Volkswagen,Golf,7,2 000 cm³,2017,150 KM,Diesel,Hatchback,182 100 km,Inny kolor,Nieuszkodzony,Automatyczna,Unknown,79 900 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kompakt,249 000 km,Biały,Używane,Manualna,Unknown,14 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2018,115 KM,Diesel,Kombi,195 000 km,Srebrny,Używane,Manualna,Polska,43 900PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 984 cm3,2021,319 KM,Benzyna,Kompakt,41 000 km,Czarny,Używane,Automatyczna,Unknown,189 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2013,105 KM,Diesel,Kombi,254 000 km,Czarny,Używane,Automatyczna,Niemcy,28 700PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 395 cm3,2016,125 KM,Benzyna,Kompakt,249 000 km,Czarny,Używane,Manualna,Polska,38 999PLN,OTOMOTO
+Volkswagen,Golf,1.4,1 400 cm³,2004,88 KM,Benzyna,Hatchback,220 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,10 999 złdo negocjacji,OLX
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,1998,68 KM,Diesel,Kompakt,290 000 km,Granatowy,Używane,Manualna,Unknown,4 400PLN,OTOMOTO
+Volkswagen,Golf,7,1 600 cm³,2014,110 KM,Diesel,Kombi,492 000 km,Biały,Nieuszkodzony,Automatyczna,Szwajcaria,26 900 złdo negocjacji,OLX
+Volkswagen,Golf,V (2003-2009),1 984 cm3,2007,200 KM,Benzyna,Kompakt,247 000 km,Srebrny,Używane,Automatyczna,Unknown,27 700PLN,OTOMOTO
+Volkswagen,Golf,powypadkowe,1 cm³,2001,Unknown,Benzyna,Sedan,280 000 km,Szary,Uszkodzony,Manualna,Polska,1 800 zł,OLX
+Volkswagen,Golf,7,1 400 cm³,2014,140 KM,Benzyna,Kombi,218 000 km,Szary,Nieuszkodzony,Manualna,Polska,46 500 złdo negocjacji,OLX
+Volkswagen,Golf,VIII (2020-),999 cm3,2021,110 KM,Benzyna,Kompakt,49 800 km,Czarny,Używane,Manualna,Polska,79 200PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,2001,90 KM,Diesel,Kompakt,118 000 km,Niebieski,Używane,Automatyczna,Unknown,3 000PLN,OTOMOTO
+Volkswagen,Golf,5,1 896 cm³,2008,90 KM,Diesel,Hatchback,318 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,15 400 złdo negocjacji,OLX
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kombi,292 000 km,Srebrny,Używane,Manualna,Polska,13 999PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,156 000 km,Szary,Używane,Manualna,Unknown,54 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 595 cm3,2009,102 KM,Benzyna+LPG,Kompakt,293 000 km,Czarny,Używane,Manualna,Unknown,24 500PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2012,105 KM,Diesel,Kompakt,208 000 km,Srebrny,Używane,Manualna,Unknown,31 500PLN,OTOMOTO
+Volkswagen,Golf,1.6,1 600 cm³,2001,Unknown,Benzyna,Hatchback,139 923 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,6 950 złdo negocjacji,OLX
+Volkswagen,Golf,V,1 900 cm³,2005,140 KM,Diesel,Hatchback,372 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,10 900 zł,OLX
+Volkswagen,Golf,VI (2008-2013),1 968 cm3,2009,170 KM,Diesel,Kompakt,313 000 km,Biały,Używane,Automatyczna,Unknown,35 000PLN,OTOMOTO
+Volkswagen,Golf,V,1 896 cm³,2007,105 KM,Diesel,Kombi,280 629 km,Srebrny,Nieuszkodzony,Automatyczna,Niemcy,9 000 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 400 cm³,2015,125 KM,Benzyna,Kombi,230 000 km,Czarny,Nieuszkodzony,Manualna,Polska,34 000 złdo negocjacji,OLX
+Volkswagen,Golf,V (2003-2009),1 984 cm3,2004,150 KM,Benzyna,Auta miejskie,299 689 km,Niebieski,Używane,Manualna,Unknown,9 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2009,122 KM,Benzyna,Kompakt,231 720 km,Srebrny,Używane,Manualna,Polska,18 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2016,245 KM,Benzyna,Kompakt,117 000 km,Biały,Używane,Automatyczna,Stany Zjednoczone,76 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2005,90 KM,Diesel,Kompakt,271 600 km,Granatowy,Używane,Manualna,Unknown,12 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 968 cm3,2008,140 KM,Diesel,Kompakt,106 000 km,Szary,Używane,Manualna,Unknown,27 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,160 000 km,Czarny,Używane,Manualna,Unknown,41 700PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,90 KM,Benzyna,Kompakt,149 000 km,Niebieski,Używane,Manualna,Unknown,13 900PLN,OTOMOTO
+Volkswagen,Golf,Sportsvan,1 400 cm³,2015,150 KM,Benzyna,Minivan,132 000 km,Brązowy – Beżowy,Nieuszkodzony,Automatyczna,Polska,47 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,6,2 000 cm³,2010,140 KM,Diesel,Kombi,361 000 km,Inny kolor,Nieuszkodzony,Manualna,Unknown,17 500 złdo negocjacji,OLX
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2013,105 KM,Diesel,Kombi,158 205 km,Granatowy,Używane,Manualna,Dania,27 900PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 498 cm3,2020,150 KM,Benzyna,Auta małe,57 184 km,Czarny,Używane,Manualna,Unknown,85 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2012,150 KM,Diesel,Kompakt,270 000 km,Niebieski,Używane,Manualna,Niemcy,44 900PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 390 cm3,2001,75 KM,Benzyna,Kompakt,273 842 km,Zielony,Używane,Manualna,Niemcy,4 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2008,140 KM,Benzyna,Kombi,234 000 km,Srebrny,Używane,Automatyczna,Unknown,18 000PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,2002,100 KM,Diesel,Kombi,370 100 km,Granatowy,Używane,Manualna,Unknown,4 000PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,88 000 km,Czarny,Używane,Manualna,Francja,27 500PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2012,105 KM,Diesel,Kompakt,239 400 km,Srebrny,Używane,Manualna,Unknown,27 999PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2009,105 KM,Diesel,Kombi,190 000 km,Szary,Używane,Manualna,Unknown,10 900PLN,OTOMOTO
+Volkswagen,Golf,1.6,1 598 cm³,2009,102 KM,Benzyna,Hatchback,184 000 km,Szary,Nieuszkodzony,Manualna,Niemcy,27 900 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 395 cm3,2016,125 KM,Benzyna,Kompakt,194 000 km,Biały,Używane,Manualna,Polska,52 600PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 390 cm3,2013,122 KM,Benzyna,Kombi,165 659 km,Czarny,Używane,Manualna,Polska,34 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 798 cm3,2009,160 KM,Benzyna,Kompakt,198 566 km,Biały,Używane,Manualna,Unknown,26 500PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2020,115 KM,Diesel,Kombi,160 000 km,Inny kolor,Używane,Manualna,Unknown,55 800PLN,OTOMOTO
+Volkswagen,Golf,8,1 500 cm³,2020,130 KM,Benzyna,Hatchback,100 000 km,Niebieski,Nieuszkodzony,Manualna,Polska,79 000 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 984 cm3,2007,200 KM,Benzyna,Kompakt,247 000 km,Srebrny,Używane,Automatyczna,Unknown,27 700PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,32 169 km,Czarny,Używane,Manualna,Francja,39 900PLN,OTOMOTO
+Volkswagen,Golf,V,1 900 cm³,2006,105 KM,Diesel,Hatchback,195 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,7 799 złdo negocjacji,OLX
+Volkswagen,Golf,VIII (2020-),999 cm3,2021,110 KM,Benzyna,Kompakt,46 600 km,Biały,Używane,Manualna,Polska,76 998PLN,OTOMOTO
+Volkswagen,Golf,7,2 000 cm³,2017,150 KM,Diesel,Hatchback,182 100 km,Inny kolor,Nieuszkodzony,Automatyczna,Unknown,79 900 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kompakt,249 000 km,Biały,Używane,Manualna,Unknown,14 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2018,115 KM,Diesel,Kombi,195 000 km,Srebrny,Używane,Manualna,Polska,43 900PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 984 cm3,2021,319 KM,Benzyna,Kompakt,41 000 km,Czarny,Używane,Automatyczna,Unknown,189 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2013,105 KM,Diesel,Kombi,254 000 km,Czarny,Używane,Automatyczna,Niemcy,28 700PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 395 cm3,2016,125 KM,Benzyna,Kompakt,249 000 km,Czarny,Używane,Manualna,Polska,38 999PLN,OTOMOTO
+Volkswagen,Golf,1.4,1 400 cm³,2004,88 KM,Benzyna,Hatchback,220 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,10 999 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,158 000 km,Beżowy,Używane,Automatyczna,Unknown,42 800PLN,OTOMOTO
+Volkswagen,Golf,V,1 896 cm³,2007,105 KM,Diesel,Kombi,280 629 km,Srebrny,Nieuszkodzony,Automatyczna,Niemcy,9 000 złdo negocjacji,OLX
+Volkswagen,Golf,6,2 000 cm³,2009,110 KM,Diesel,Hatchback,253 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,14 000 złdo negocjacji,OLX
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,1998,68 KM,Diesel,Kompakt,290 000 km,Granatowy,Używane,Manualna,Unknown,4 400PLN,OTOMOTO
+Volkswagen,Golf,7,1 600 cm³,2014,110 KM,Diesel,Kombi,492 000 km,Biały,Nieuszkodzony,Automatyczna,Szwajcaria,26 900 złdo negocjacji,OLX
+Volkswagen,Golf,VIII (2020-),999 cm3,2021,110 KM,Benzyna,Kompakt,49 800 km,Czarny,Używane,Manualna,Polska,79 200PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,2001,90 KM,Diesel,Kompakt,118 000 km,Niebieski,Używane,Automatyczna,Unknown,3 000PLN,OTOMOTO
+Volkswagen,Golf,5,1 896 cm³,2008,90 KM,Diesel,Hatchback,318 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,15 400 złdo negocjacji,OLX
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kombi,292 000 km,Srebrny,Używane,Manualna,Polska,13 999PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,156 000 km,Szary,Używane,Manualna,Unknown,54 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 595 cm3,2009,102 KM,Benzyna+LPG,Kompakt,293 000 km,Czarny,Używane,Manualna,Unknown,24 500PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2012,105 KM,Diesel,Kompakt,208 000 km,Srebrny,Używane,Manualna,Unknown,31 500PLN,OTOMOTO
+Volkswagen,Golf,1.6,1 600 cm³,2001,Unknown,Benzyna,Hatchback,139 923 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,6 950 złdo negocjacji,OLX
+Volkswagen,Golf,V (2003-2009),1 984 cm3,2004,150 KM,Benzyna,Auta miejskie,299 689 km,Niebieski,Używane,Manualna,Unknown,9 900PLN,OTOMOTO
+Volkswagen,Golf,7,1 596 cm³,2015,105 KM,Diesel,Kombi,187 596 km,Niebieski,Nieuszkodzony,Automatyczna,Niemcy,31 500 zł,OLX
+Volkswagen,Golf,6,1 600 cm³,2009,102 KM,Benzyna,Hatchback,184 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,27 900 zł,OLX
+Volkswagen,Golf,V,1 900 cm³,2005,140 KM,Diesel,Hatchback,372 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,10 900 zł,OLX
+Volkswagen,Golf,VI (2008-2013),1 968 cm3,2009,170 KM,Diesel,Kompakt,313 000 km,Biały,Używane,Automatyczna,Unknown,35 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2009,122 KM,Benzyna,Kompakt,231 720 km,Srebrny,Używane,Manualna,Polska,18 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2016,245 KM,Benzyna,Kompakt,117 000 km,Biały,Używane,Automatyczna,Stany Zjednoczone,76 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2005,90 KM,Diesel,Kompakt,271 600 km,Granatowy,Używane,Manualna,Unknown,12 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 968 cm3,2008,140 KM,Diesel,Kompakt,106 000 km,Szary,Używane,Manualna,Unknown,27 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,160 000 km,Czarny,Używane,Manualna,Unknown,41 700PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,90 KM,Benzyna,Kompakt,149 000 km,Niebieski,Używane,Manualna,Unknown,13 900PLN,OTOMOTO
+Volkswagen,Golf,Sportsvan,1 400 cm³,2015,150 KM,Benzyna,Minivan,132 000 km,Brązowy – Beżowy,Nieuszkodzony,Automatyczna,Polska,47 000 złdo negocjacji,OLX
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,128 233 km,Biały,Używane,Manualna,Niemcy,36 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2013,105 KM,Diesel,Kombi,158 205 km,Granatowy,Używane,Manualna,Dania,27 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2020,115 KM,Diesel,Kombi,160 000 km,Inny kolor,Używane,Manualna,Unknown,55 800PLN,OTOMOTO
+Volkswagen,Golf,7,1 600 cm³,2015,115 KM,Diesel,Minivan,126 000 km,Szary,Nieuszkodzony,Automatyczna,Niemcy,47 900 złdo negocjacji,OLX
+Volkswagen,Golf,V,1 900 cm³,2004,105 KM,Diesel,Hatchback,330 452 km,Czarny,Nieuszkodzony,Manualna,Inny,9 900 złdo negocjacji,OLX
+Volkswagen,Golf,IV (1997-2006),1 390 cm3,2001,75 KM,Benzyna,Kompakt,273 842 km,Zielony,Używane,Manualna,Niemcy,4 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2008,140 KM,Benzyna,Kombi,234 000 km,Srebrny,Używane,Automatyczna,Unknown,18 000PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,2002,100 KM,Diesel,Kombi,370 100 km,Granatowy,Używane,Manualna,Unknown,4 000PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,88 000 km,Czarny,Używane,Manualna,Francja,27 500PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2012,105 KM,Diesel,Kompakt,239 400 km,Srebrny,Używane,Manualna,Unknown,27 999PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2009,105 KM,Diesel,Kombi,190 000 km,Szary,Używane,Manualna,Unknown,10 900PLN,OTOMOTO
+Volkswagen,Golf,1.6,1 598 cm³,2009,102 KM,Benzyna,Hatchback,184 000 km,Szary,Nieuszkodzony,Manualna,Niemcy,27 900 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 395 cm3,2016,125 KM,Benzyna,Kompakt,194 000 km,Biały,Używane,Manualna,Polska,52 600PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 390 cm3,2013,122 KM,Benzyna,Kombi,165 659 km,Czarny,Używane,Manualna,Polska,34 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 197 cm3,2013,105 KM,Benzyna,Kompakt,158 000 km,Beżowy,Używane,Automatyczna,Unknown,42 800PLN,OTOMOTO
+Volkswagen,Golf,6,2 000 cm³,2009,110 KM,Diesel,Hatchback,253 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,14 000 złdo negocjacji,OLX
+Volkswagen,Golf,5,1 900 cm³,2007,105 KM,Diesel,Hatchback,299 200 km,Czarny,Nieuszkodzony,Manualna,Niemcy,13 900 zł,OLX
+Volkswagen,Golf,VI (2008-2013),1 798 cm3,2009,160 KM,Benzyna,Kompakt,198 566 km,Biały,Używane,Manualna,Unknown,26 500PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,32 169 km,Czarny,Używane,Manualna,Francja,39 900PLN,OTOMOTO
+Volkswagen,Golf,V,1 900 cm³,2006,105 KM,Diesel,Hatchback,195 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,7 799 złdo negocjacji,OLX
+Volkswagen,Golf,VIII (2020-),999 cm3,2021,110 KM,Benzyna,Kompakt,46 600 km,Biały,Używane,Manualna,Polska,76 998PLN,OTOMOTO
+Volkswagen,Golf,7,2 000 cm³,2017,150 KM,Diesel,Hatchback,182 100 km,Inny kolor,Nieuszkodzony,Automatyczna,Unknown,79 900 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kompakt,249 000 km,Biały,Używane,Manualna,Unknown,14 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2018,115 KM,Diesel,Kombi,195 000 km,Srebrny,Używane,Manualna,Polska,43 900PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 984 cm3,2021,319 KM,Benzyna,Kompakt,41 000 km,Czarny,Używane,Automatyczna,Unknown,189 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2013,105 KM,Diesel,Kombi,254 000 km,Czarny,Używane,Automatyczna,Niemcy,28 700PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 395 cm3,2016,125 KM,Benzyna,Kompakt,249 000 km,Czarny,Używane,Manualna,Polska,38 999PLN,OTOMOTO
+Volkswagen,Golf,1.4,1 390 cm³,2004,90 KM,Benzyna,Hatchback,280 000 km,Srebrny,Uszkodzony,Manualna,Unknown,3 500 złdo negocjacji,OLX
+Volkswagen,Golf,7,1 596 cm³,2015,105 KM,Diesel,Kombi,187 596 km,Niebieski,Nieuszkodzony,Automatyczna,Niemcy,31 500 zł,OLX
+Volkswagen,Golf,6,1 600 cm³,2009,102 KM,Benzyna,Hatchback,184 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,27 900 zł,OLX
+Volkswagen,Golf,1.4,1 400 cm³,2004,88 KM,Benzyna,Hatchback,220 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,10 999 złdo negocjacji,OLX
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,1998,68 KM,Diesel,Kompakt,290 000 km,Granatowy,Używane,Manualna,Unknown,4 400PLN,OTOMOTO
+Volkswagen,Golf,7,1 600 cm³,2014,110 KM,Diesel,Kombi,492 000 km,Biały,Nieuszkodzony,Automatyczna,Szwajcaria,26 900 złdo negocjacji,OLX
+Volkswagen,Golf,VIII (2020-),999 cm3,2021,110 KM,Benzyna,Kompakt,49 800 km,Czarny,Używane,Manualna,Polska,79 200PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,2001,90 KM,Diesel,Kompakt,118 000 km,Niebieski,Używane,Automatyczna,Unknown,3 000PLN,OTOMOTO
+Volkswagen,Golf,5,1 896 cm³,2008,90 KM,Diesel,Hatchback,318 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,15 400 złdo negocjacji,OLX
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kombi,292 000 km,Srebrny,Używane,Manualna,Polska,13 999PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,156 000 km,Szary,Używane,Manualna,Unknown,54 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 595 cm3,2009,102 KM,Benzyna+LPG,Kompakt,293 000 km,Czarny,Używane,Manualna,Unknown,24 500PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2012,105 KM,Diesel,Kompakt,208 000 km,Srebrny,Używane,Manualna,Unknown,31 500PLN,OTOMOTO
+Volkswagen,Golf,Unknown,1 398 cm³,2001,75 KM,Benzyna,Hatchback,188 000 km,Czarny,Nieuszkodzony,Manualna,Polska,7 999 zł,OLX
+Volkswagen,Golf,4,1 595 cm³,1998,102 KM,Benzyna,Hatchback,329 542 km,Srebrny,Nieuszkodzony,Manualna,Polska,7 500 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 600 cm³,2013,100 KM,Diesel,Coupe,188 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,45 900 zł,OLX
+Volkswagen,Golf,1.6,1 600 cm³,2001,Unknown,Benzyna,Hatchback,139 923 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,6 950 złdo negocjacji,OLX
+Volkswagen,Golf,V,1 900 cm³,2005,140 KM,Diesel,Hatchback,372 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,10 900 zł,OLX
+Volkswagen,Golf,VI (2008-2013),1 968 cm3,2009,170 KM,Diesel,Kompakt,313 000 km,Biały,Używane,Automatyczna,Unknown,35 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2009,122 KM,Benzyna,Kompakt,231 720 km,Srebrny,Używane,Manualna,Polska,18 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2016,245 KM,Benzyna,Kompakt,117 000 km,Biały,Używane,Automatyczna,Stany Zjednoczone,76 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2005,90 KM,Diesel,Kompakt,271 600 km,Granatowy,Używane,Manualna,Unknown,12 000PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 968 cm3,2008,140 KM,Diesel,Kompakt,106 000 km,Szary,Używane,Manualna,Unknown,27 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,160 000 km,Czarny,Używane,Manualna,Unknown,41 700PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2004,90 KM,Benzyna,Kompakt,149 000 km,Niebieski,Używane,Manualna,Unknown,13 900PLN,OTOMOTO
+Volkswagen,Golf,Sportsvan,1 400 cm³,2015,150 KM,Benzyna,Minivan,132 000 km,Brązowy – Beżowy,Nieuszkodzony,Automatyczna,Polska,47 000 złdo negocjacji,OLX
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2013,105 KM,Diesel,Kombi,158 205 km,Granatowy,Używane,Manualna,Dania,27 900PLN,OTOMOTO
+Volkswagen,Golf,Unknown,Unknown,2016,115 KM,Elektryczny,Hatchback,89 000 km,Czarny,Nieuszkodzony,Automatyczna,Norwegia,48 000 złdo negocjacji,OLX
+Volkswagen,Golf,7,1 600 cm³,2015,115 KM,Diesel,Minivan,126 000 km,Szary,Nieuszkodzony,Automatyczna,Niemcy,47 900 złdo negocjacji,OLX
+Volkswagen,Golf,VIII (2020-),1 968 cm3,2020,150 KM,Diesel,Kompakt,37 000 km,Inny kolor,Używane,Automatyczna,Unknown,115 000PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2016,110 KM,Diesel,Kombi,137 429 km,Czarny,Używane,Manualna,Polska,45 600PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 498 cm3,2020,150 KM,Benzyna,Kombi,158 000 km,Czarny,Używane,Automatyczna,Polska,51 900PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 498 cm3,2024,130 KM,Benzyna,Kompakt,1 km,Niebieski,Nowe,Automatyczna,Polska,147 910PLN,OTOMOTO
+Volkswagen,Golf,V,1 900 cm³,2004,105 KM,Diesel,Hatchback,330 452 km,Czarny,Nieuszkodzony,Manualna,Inny,9 900 złdo negocjacji,OLX
+Volkswagen,Golf,IV (1997-2006),1 390 cm3,2001,75 KM,Benzyna,Kompakt,273 842 km,Zielony,Używane,Manualna,Niemcy,4 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 390 cm3,2008,140 KM,Benzyna,Kombi,234 000 km,Srebrny,Używane,Automatyczna,Unknown,18 000PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,2002,100 KM,Diesel,Kombi,370 100 km,Granatowy,Używane,Manualna,Unknown,4 000PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,88 000 km,Czarny,Używane,Manualna,Francja,27 500PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2012,105 KM,Diesel,Kompakt,239 400 km,Srebrny,Używane,Manualna,Unknown,27 999PLN,OTOMOTO
+Volkswagen,Golf,6,1 600 cm³,2010,105 KM,Diesel,Hatchback,289 906 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,19 500 złdo negocjacji,OLX
+Volkswagen,Golf,5,1 900 cm³,2007,105 KM,Diesel,Hatchback,299 200 km,Czarny,Nieuszkodzony,Manualna,Niemcy,13 900 zł,OLX
+Volkswagen,Golf,Unknown,Unknown,1987,75 KM,Benzyna,Kabriolet,170 000 km,Inny kolor,Nieuszkodzony,Manualna,Szwecja,31 500 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2009,105 KM,Diesel,Kombi,190 000 km,Szary,Używane,Manualna,Unknown,10 900PLN,OTOMOTO
+Volkswagen,Golf,1.6,1 598 cm³,2009,102 KM,Benzyna,Hatchback,184 000 km,Szary,Nieuszkodzony,Manualna,Niemcy,27 900 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 395 cm3,2016,125 KM,Benzyna,Kompakt,194 000 km,Biały,Używane,Manualna,Polska,52 600PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 390 cm3,2013,122 KM,Benzyna,Kombi,165 659 km,Czarny,Używane,Manualna,Polska,34 900PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 798 cm3,2009,160 KM,Benzyna,Kompakt,198 566 km,Biały,Używane,Manualna,Unknown,26 500PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2019,115 KM,Diesel,Kompakt,32 169 km,Czarny,Używane,Manualna,Francja,39 900PLN,OTOMOTO
+Volkswagen,Golf,V,1 900 cm³,2006,105 KM,Diesel,Hatchback,195 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,7 799 złdo negocjacji,OLX
+Volkswagen,Golf,VIII (2020-),999 cm3,2021,110 KM,Benzyna,Kompakt,46 600 km,Biały,Używane,Manualna,Polska,76 998PLN,OTOMOTO
+Volkswagen,Golf,7,2 000 cm³,2017,150 KM,Diesel,Hatchback,182 100 km,Inny kolor,Nieuszkodzony,Automatyczna,Unknown,79 900 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kompakt,249 000 km,Biały,Używane,Manualna,Unknown,14 900PLN,OTOMOTO
+Volkswagen,Golf,5,1 898 cm³,2004,105 KM,Diesel,Hatchback,367 000 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,6 000 złdo negocjacji,OLX
+Volkswagen,Golf,1.4,1 390 cm³,2004,90 KM,Benzyna,Hatchback,280 000 km,Srebrny,Uszkodzony,Manualna,Unknown,3 500 złdo negocjacji,OLX
+Volkswagen,Golf,7,1 596 cm³,2015,105 KM,Diesel,Kombi,187 596 km,Niebieski,Nieuszkodzony,Automatyczna,Niemcy,31 500 zł,OLX
+Volkswagen,Golf,VII (2012-2020),1 598 cm3,2018,115 KM,Diesel,Kombi,195 000 km,Srebrny,Używane,Manualna,Polska,43 900PLN,OTOMOTO
+Volkswagen,Golf,VIII (2020-),1 984 cm3,2021,319 KM,Benzyna,Kompakt,41 000 km,Czarny,Używane,Automatyczna,Unknown,189 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2013,105 KM,Diesel,Kombi,254 000 km,Czarny,Używane,Automatyczna,Niemcy,28 700PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 395 cm3,2016,125 KM,Benzyna,Kompakt,249 000 km,Czarny,Używane,Manualna,Polska,38 999PLN,OTOMOTO
+Volkswagen,Golf,1.4,1 400 cm³,2004,88 KM,Benzyna,Hatchback,220 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,10 999 złdo negocjacji,OLX
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,1998,68 KM,Diesel,Kompakt,290 000 km,Granatowy,Używane,Manualna,Unknown,4 400PLN,OTOMOTO
+Volkswagen,Golf,7,1 600 cm³,2014,110 KM,Diesel,Kombi,492 000 km,Biały,Nieuszkodzony,Automatyczna,Szwajcaria,26 900 złdo negocjacji,OLX
+Volkswagen,Golf,VIII (2020-),999 cm3,2021,110 KM,Benzyna,Kompakt,49 800 km,Czarny,Używane,Manualna,Polska,79 200PLN,OTOMOTO
+Volkswagen,Golf,IV (1997-2006),1 896 cm3,2001,90 KM,Diesel,Kompakt,118 000 km,Niebieski,Używane,Automatyczna,Unknown,3 000PLN,OTOMOTO
+Volkswagen,Golf,5,1 896 cm³,2008,90 KM,Diesel,Hatchback,318 000 km,Srebrny,Nieuszkodzony,Manualna,Unknown,15 400 złdo negocjacji,OLX
+Volkswagen,Golf,6,1 600 cm³,2009,102 KM,Benzyna,Hatchback,184 000 km,Czarny,Nieuszkodzony,Manualna,Niemcy,27 900 zł,OLX
+Volkswagen,Golf,4,1 595 cm³,1998,102 KM,Benzyna,Hatchback,329 542 km,Srebrny,Nieuszkodzony,Manualna,Polska,7 500 złdo negocjacji,OLX
+Volkswagen,Golf,Unknown,1 600 cm³,2013,100 KM,Diesel,Coupe,188 000 km,Czarny,Nieuszkodzony,Manualna,Unknown,45 900 zł,OLX
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2008,105 KM,Diesel,Kombi,292 000 km,Srebrny,Używane,Manualna,Polska,13 999PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 968 cm3,2013,150 KM,Diesel,Kompakt,156 000 km,Szary,Używane,Manualna,Unknown,54 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 595 cm3,2009,102 KM,Benzyna+LPG,Kompakt,293 000 km,Czarny,Używane,Manualna,Unknown,24 500PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 598 cm3,2012,105 KM,Diesel,Kompakt,208 000 km,Srebrny,Używane,Manualna,Unknown,31 500PLN,OTOMOTO
+Volkswagen,Golf,1.6,1 600 cm³,2001,Unknown,Benzyna,Hatchback,139 923 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,6 950 złdo negocjacji,OLX
+Volkswagen,Golf,V,1 900 cm³,2005,140 KM,Diesel,Hatchback,372 000 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,10 900 zł,OLX
+Volkswagen,Golf,VI (2008-2013),1 968 cm3,2009,170 KM,Diesel,Kompakt,313 000 km,Biały,Używane,Automatyczna,Unknown,35 000PLN,OTOMOTO
+Volkswagen,Golf,VI (2008-2013),1 390 cm3,2009,122 KM,Benzyna,Kompakt,231 720 km,Srebrny,Używane,Manualna,Polska,18 900PLN,OTOMOTO
+Volkswagen,Golf,VII (2012-2020),1 984 cm3,2016,245 KM,Benzyna,Kompakt,117 000 km,Biały,Używane,Automatyczna,Stany Zjednoczone,76 900PLN,OTOMOTO
+Volkswagen,Golf,V (2003-2009),1 896 cm3,2005,90 KM,Diesel,Kompakt,271 600 km,Granatowy,Używane,Manualna,Unknown,12 000PLN,OTOMOTO
