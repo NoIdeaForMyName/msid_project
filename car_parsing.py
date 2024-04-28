@@ -2,6 +2,9 @@ import abc
 import bs4
 from bs4 import BeautifulSoup
 from enum import Enum, auto
+import re
+
+from matplotlib.pylab import det
 
 class parseStatus(Enum):
     UNPARSED = auto()
@@ -17,18 +20,18 @@ class CarParser(metaclass=abc.ABCMeta):
 
         self.details = {
             #'brand': '',
-            'model': '',
-            'eng_cap': -1, # in cm^3
-            'prod_year': -1,
-            'power': -1, # KM
-            'fuel_type': '', # gasoline | diesel | lpg
-            'car_body': '', # combi | hatchback | convertible etc.
-            'mileage': -1, # km
-            'color': '',
-            'condition': '', # damaged | undamaged
-            'transmission': '', # manual | automatic
-            'origin': '', # poland | germany etc.
-            'price': ''
+            'model': 'Unknown',
+            'eng_cap': 'Unknown', # in cm^3
+            'prod_year': 'Unknown',
+            'power': 'Unknown', # KM
+            'fuel_type': 'Unknown', # gasoline | diesel | lpg
+            'car_body': 'Unknown', # combi | hatchback | convertible etc.
+            'mileage': 'Unknown', # km
+            'color': 'Unknown',
+            'condition': 'Unknown', # damaged | undamaged
+            'transmission': 'Unknown', # manual | automatic
+            'origin': 'Unknown', # poland | germany etc.
+            'price': 'Unknown'
         }
     
     @abc.abstractmethod
@@ -115,8 +118,8 @@ class OTOMOTO_CarParser(CarParser):
             self.parsed = parseStatus.UNSUCCESFULLY_PARSED
             return self.parsed
         car_data_list = self.soup.find_all('div', attrs={'data-testid': 'advert-details-item'})
-        details_list: list[tuple[str, str]] = [(t.find_all()[0].text, t.find_all()[1].text) for t in car_data_list]
-        #details_list: list[str] = [t.text for t in car_data]
+        details_list: list[tuple[str, str]] = [tuple(t.text for t in tag.find_all(re.compile('[p,a]'))) for tag in car_data_list]
+        details_list: list[tuple[str, str]] = [(tuple_[0], 'Unknown') if len(tuple_) != 2 else tuple_ for tuple_ in details_list]
         self.fill_details(details_list)
         self.parsed = parseStatus.SUCCESFULLY_PARSED
         return self.parsed
