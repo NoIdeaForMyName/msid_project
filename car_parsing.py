@@ -32,7 +32,8 @@ class CarParser(metaclass=abc.ABCMeta):
             'condition': 'Unknown', # damaged | undamaged
             'transmission': 'Unknown', # manual | automatic
             'origin': 'Unknown', # poland | germany etc.
-            'price': 'Unknown'
+            'price': 'Unknown',
+            'source': 'Unknown'
         }
     
     @abc.abstractmethod
@@ -66,6 +67,7 @@ class OLX_CarParser(CarParser):
     def __init__(self, html, brand:str='Unknown') -> None:
         super().__init__(html)
         self.details['brand'] = brand
+        self.details['source'] = 'OLX'
 
     def parse_html(self) -> parseStatus:
         car_data = self.soup.find('ul', class_='css-sfcl1s')
@@ -134,6 +136,7 @@ class OTOMOTO_CarParser(CarParser):
 
     def __init__(self, html) -> None:
         super().__init__(html)
+        self.details['source'] = 'OTOMOTO'
 
     def parse_html(self) -> parseStatus:
         #car_data = soup.find('div', class_='ooa-1x860b3 e18eslyg2')

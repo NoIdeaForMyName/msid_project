@@ -1,0 +1,8 @@
+brand,model,generation,eng_cap,prod_year,power,fuel_type,car_body,mileage,color,condition,transmission,origin,price,source
+Opel,Corsa,Unknown,1 200 cm³,2014,70 KM,Benzyna,Hatchback,194 800 km,Srebrny,Nieuszkodzony,Manualna,Niemcy,14 400 zł,OLX
+Opel,Corsa,Unknown,1 248 cm³,2004,74 KM,Diesel,Hatchback,207 000 km,Czarny,Uszkodzony,Manualna,Unknown,1 800 złdo negocjacji,OLX
+Opel,Corsa,E (2014-2019),1 398 cm3,2019,90 KM,Benzyna,Kompakt,127 000 km,Czarny,Używane,Manualna,Polska,33 700PLN,OTOMOTO
+Opel,Corsa,F (2019-),1 199 cm3,2023,100 KM,Benzyna,Auta miejskie,5 000 km,Czarny,Używane,Automatyczna,Niemcy,62 900PLN,OTOMOTO
+Opel,Corsa,F,1 200 cm³,2022,75 KM,Benzyna,Hatchback,4 315 km,Biały,Nieuszkodzony,Manualna,Holandia,55 500 złdo negocjacji,OLX
+Opel,Corsa,E (2014-2019),999 cm3,2015,90 KM,Benzyna,Auta miejskie,133 000 km,Srebrny,Używane,Manualna,Unknown,33 500PLN,OTOMOTO
+Opel,Corsa,..,1 000 cm³,2008,Unknown,Benzyna,Hatchback,189 000 km,Szary,Nieuszkodzony,Manualna,Unknown,9 900 zł,OLX

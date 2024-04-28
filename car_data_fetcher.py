@@ -91,26 +91,29 @@ def get_all_pagination_urls(first_url: str) -> list[str]:
 
 def main():
     #first_url = 'https://www.olx.pl/motoryzacja/samochody/volkswagen/?search%5Bfilter_enum_model%5D%5B0%5D=golf'
-    first_url = 'https://www.olx.pl/motoryzacja/samochody/volkswagen/q-golf-4/?search%5Bfilter_enum_model%5D%5B0%5D=golf'
-    urls = get_all_pagination_urls(first_url)
-    [print(x) for x in urls]
+    #first_url = 'https://www.olx.pl/motoryzacja/samochody/volkswagen/q-golf-4/?search%5Bfilter_enum_model%5D%5B0%5D=golf'
 
-    csv_filename = 'output.csv'
+    car_type_pagination_url_dict = {
+        ('Volkswagen', 'Golf'): 'https://www.olx.pl/motoryzacja/samochody/volkswagen/?page=25&search%5Bfilter_enum_model%5D%5B0%5D=golf',
+        ('BMW', 'Seria 3'): 'https://www.olx.pl/motoryzacja/samochody/bmw/?search%5Bfilter_enum_model%5D%5B0%5D=3-as-sorozat',
+        ('Opel', 'Corsa'): 'https://www.olx.pl/motoryzacja/samochody/opel/?search%5Bfilter_enum_model%5D%5B0%5D=corsa'
+    }
 
-    if os.path.exists("output.csv"):
-        print('Overwriting', csv_filename)
-        os.remove(csv_filename)
-
-    print("TEST DLA 1 STRONY:")
-
-    print(f'Fetching data from: {urls[0]}')
-    import random
-    car_urls = random.choices(get_car_href_list(urls[0]), k=7)
-    print(f'Number of cars: {len(car_urls)}')
-    cars = get_cars_to_parse(car_urls, 'Volkswagen')
-    failed_nb = parse_cars(cars)
-    print('Failed:', failed_nb)
-    write_to_csv([car.details for car in cars], csv_filename)
+    for (brand, model), first_url in car_type_pagination_url_dict.items():
+        csv_filename = f'{brand}_{model}.csv'
+        urls = get_all_pagination_urls(first_url)
+        if os.path.exists(csv_filename):
+            print('Overwriting', csv_filename)
+            os.remove(csv_filename)
+        # Testing for 1 website (few data samples) per model
+        print(f'Fetching data from: {urls[0]}')
+        import random
+        car_urls = random.choices(get_car_href_list(urls[0]), k=7)
+        cars = get_cars_to_parse(car_urls, olx_brand=brand)
+        failed_nb = parse_cars(cars)
+        print('Failed:', failed_nb)
+        write_to_csv([car.details for car in cars], csv_filename)
+        
 
 
 if __name__ == "__main__":

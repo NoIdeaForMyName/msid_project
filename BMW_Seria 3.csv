@@ -1,0 +1,8 @@
+brand,model,generation,eng_cap,prod_year,power,fuel_type,car_body,mileage,color,condition,transmission,origin,price,source
+BMW,Seria 3,Unknown,1 994 cm³,2007,129 KM,Benzyna,Sedan,220 000 km,Niebieski,Nieuszkodzony,Manualna,Niemcy,15 900 zł,OLX
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,163 KM,Diesel,Kombi,251 000 km,Niebieski,Używane,Manualna,Niemcy,16 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,1 995 cm³,2008,143 KM,Benzyna,Kombi,275 200 km,Czarny,Nieuszkodzony,Manualna,Unknown,19 999 złdo negocjacji,OLX
+BMW,Seria 3,Unknown,1 995 cm³,2008,143 KM,Benzyna,Kombi,275 200 km,Czarny,Nieuszkodzony,Manualna,Unknown,19 999 złdo negocjacji,OLX
+BMW,Seria 3,G20/G21 (2019-),1 998 cm3,2022,258 KM,Benzyna,Sedan,7 125 km,Biały,Używane,Automatyczna,Stany Zjednoczone,150 999PLN,OTOMOTO
+BMW,Seria 3,E90/E91/E92/E93 (2005-2012),1 995 cm3,2006,150 KM,Benzyna,Sedan,232 500 km,Szary,Używane,Manualna,Unknown,29 900PLN,OTOMOTO
+BMW,Seria 3,Unknown,Unknown,2002,231 KM,Benzyna,Kombi,415 000 km,Srebrny,Nieuszkodzony,Automatyczna,Unknown,10 500 złdo negocjacji,OLX
