@@ -27,30 +27,33 @@ def get_html_content(url: str, retries=3):
 
 
 def get_car_href_list(url):
-    url_prefix = 'https://www.olx.pl'
     response = get_html_content(url, retries=50)
     if response is None:
         raise requests.exceptions.RequestException('An error during fetching has occured')
     soup = BeautifulSoup(response.text, 'html.parser')
 
-    car_href_list = [t.find('a')['href'] for t in soup.find_all('div', attrs={'data-cy':'l-card'})]
-    car_href_list = list(map(lambda href: url_prefix+href if href[:2] == '/d' else href, car_href_list))
+    car_container = soup.find('div', attrs={'data-testid': 'search-results'})
+    if not isinstance(car_container, bs4.Tag):
+        raise requests.exceptions.RequestException('Site does not have demanded element: {data-testid: search-results}')
+    car_list = car_container.find_all('article', class_='ooa-yca59n e1i3khom0') 
+    car_href_list = [article.find('a')['href'] for article in car_list]
+
+    #car_href_list = [a['href'] for a in soup.find_all('a')]
+    #car_href_list = [a.text for a in soup.find_all('a')]
     
     return car_href_list
 
 
-def get_cars_to_parse(car_urls: list[str], olx_brand='Unknown') -> list[CarParser]:
+def get_cars_to_parse(car_urls: list[str]) -> list[CarParser]:
+    get_cars_to_parse.failed = 0
     parsed_car_list: list[CarParser] = []
-    url_number = len(car_urls)
     url_counter = 0
     for url in car_urls:
         html = get_html_content(url)
         if html is None: # unable to fetch data about this specific car
+            get_cars_to_parse.failed += 1
             continue
-        if url.find('olx') != -1:
-            parsed_car_list.append(OLX_CarParser(html.text, olx_brand))
-        elif url.find('otomoto') != -1:
-            parsed_car_list.append(OTOMOTO_CarParser(html.text))
+        parsed_car_list.append(OTOMOTO_CarParser(html.text))
         url_counter += 1
         #print(f'{round(url_counter*100/url_number, 2)}%', end='; ', flush=True)
     #print()
@@ -79,6 +82,7 @@ def write_to_csv(detail_dict_list: list[dict[str, str]], filename):
 
 
 def get_all_pagination_urls(first_url: str) -> list[str]:
+    infix = '?page='
     html = get_html_content(first_url)
     if html is None:
         raise requests.exceptions.RequestException('An error during initial fetching has occured')
@@ -86,9 +90,9 @@ def get_all_pagination_urls(first_url: str) -> list[str]:
     paginations = soup.find('ul', class_='pagination-list')
     if isinstance(paginations, bs4.NavigableString) or paginations is None:
         raise requests.exceptions.RequestException('An error during initial fetching has occured')
-    last_url_number = int(paginations.find_all('li', class_='pagination-item')[-1].text)
-    inline_placement_idx = first_url.find('search%')
-    return [first_url[:inline_placement_idx] + 'page=' + str(counter)+'&' + first_url[inline_placement_idx:] for counter in range(1, last_url_number+1)]
+    last_url_number = int(paginations.find_all('li', attrs={'data-testid':'pagination-list-item'})[-1].text)
+
+    return [first_url + infix + str(counter) for counter in range(1, last_url_number+1)]
 
 
 def main():
@@ -96,21 +100,26 @@ def main():
     #first_url = 'https://www.olx.pl/motoryzacja/samochody/volkswagen/q-golf-4/?search%5Bfilter_enum_model%5D%5B0%5D=golf'
 
     car_type_pagination_url_dict = {
-        ('Volkswagen', 'Golf'): 'https://www.olx.pl/motoryzacja/samochody/volkswagen/?page=25&search%5Bfilter_enum_model%5D%5B0%5D=golf',
-        ('BMW', 'Seria 3'): 'https://www.olx.pl/motoryzacja/samochody/bmw/?search%5Bfilter_enum_model%5D%5B0%5D=3-as-sorozat',
-        ('Opel', 'Corsa'): 'https://www.olx.pl/motoryzacja/samochody/opel/?search%5Bfilter_enum_model%5D%5B0%5D=corsa'
+        ('Volkswagen', 'Golf'): 'https://www.otomoto.pl/osobowe/volkswagen/golf',
+        ('BMW', 'Seria 3'): 'https://www.otomoto.pl/osobowe/bmw/seria-3',
+        ('Opel', 'Corsa'): 'https://www.otomoto.pl/osobowe/opel/corsa'
     }
+
+    # minimum pagination:
+    pages_per_car = min([len(get_all_pagination_urls(url)) for url in car_type_pagination_url_dict.values()])
+
     sum_failed = 0
     for (brand, model), first_url in car_type_pagination_url_dict.items():
         print(f'Fetching data for {brand} {model}')
         csv_filename = f'{brand}_{model}.csv'
-        urls = get_all_pagination_urls(first_url)
+        urls = get_all_pagination_urls(first_url)[:pages_per_car]
         if os.path.exists(csv_filename):
             print('Overwriting', csv_filename)
             os.remove(csv_filename)
         for url in tqdm(urls, desc='Every website'):
             car_urls = get_car_href_list(url)
-            cars = get_cars_to_parse(car_urls, olx_brand=brand)
+            cars = get_cars_to_parse(car_urls)
+            sum_failed += get_cars_to_parse.failed
             sum_failed += parse_cars(cars)
             write_to_csv([car.details for car in cars], csv_filename)
     print(f'Overall failed: {sum_failed}')
