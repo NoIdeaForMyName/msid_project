@@ -1,4 +1,5 @@
 from typing import Any
+from matplotlib.pylab import det
 import requests
 import bs4
 from bs4 import BeautifulSoup
@@ -20,8 +21,13 @@ def get_html_content(url: str, retries=3):
     try:
         response = requests.get(url, headers=headers)
         response.raise_for_status()  # Check for any errors in the HTTP response
+        if len(response.text) < 10000:
+            print('Response length was too small')
+            print(url)
+            return get_html_content(url, retries-1)
         return response     
-    except requests.exceptions.RequestException as e:
+    except Exception as e:
+        print(e)
         time.sleep(2)
         return get_html_content(url, retries-1)
 
@@ -34,13 +40,17 @@ def get_car_href_list(url):
 
     car_container = soup.find('div', attrs={'data-testid': 'search-results'})
     if not isinstance(car_container, bs4.Tag):
-        raise requests.exceptions.RequestException('Site does not have demanded element: {data-testid: search-results}')
+        #raise requests.exceptions.RequestException('Site does not have demanded element: {data-testid: search-results}')
+        print('Site does not have demanded element: {data-testid: search-results}:', url)
+        print('soup len:', len(soup.text))
+        print('response len:', len(response.text))
+        return []
     car_list = car_container.find_all('article', class_='ooa-yca59n e1i3khom0') 
     car_href_list = [article.find('a')['href'] for article in car_list]
 
     #car_href_list = [a['href'] for a in soup.find_all('a')]
     #car_href_list = [a.text for a in soup.find_all('a')]
-    
+     
     return car_href_list
 
 
@@ -66,7 +76,9 @@ def parse_cars(cars_list: list[CarParser]) -> int:
     #return {key: list(filter(lambda car: car.parsed == key, cars_list)) for key in parseStatus.__members__.values()}
 
     car_nb = len(cars_list)
-    cars_list = list(filter(lambda car: car.parsed == parseStatus.SUCCESFULLY_PARSED, cars_list))
+    for i in reversed(range(len(cars_list))):
+        if not cars_list[i].parsed == parseStatus.SUCCESFULLY_PARSED:
+            del cars_list[i]
     failed = car_nb - len(cars_list)
     return failed
 
@@ -107,17 +119,42 @@ def main():
 
     # minimum pagination:
     pages_per_car = min([len(get_all_pagination_urls(url)) for url in car_type_pagination_url_dict.values()])
+    cars_per_page = len(get_car_href_list(list(car_type_pagination_url_dict.values())[0]))
+    car_nb_per_model = pages_per_car * cars_per_page
 
     sum_failed = 0
     for (brand, model), first_url in car_type_pagination_url_dict.items():
         print(f'Fetching data for {brand} {model}')
         csv_filename = f'{brand}_{model}.csv'
         urls = get_all_pagination_urls(first_url)[:pages_per_car]
+
+        car_pages_nb = 0
+        pagination_sites_car_urls: list[list[str]] = []
+        for url in urls:
+            print('Done:', round(car_pages_nb*100/car_nb_per_model, 2), '%')
+            car_list = get_car_href_list(url)
+            car_pages_nb += len(car_list)
+            if car_list != []:
+                pagination_sites_car_urls.append(car_list)
+            if car_pages_nb >= car_nb_per_model:
+                diff = car_pages_nb-car_nb_per_model
+                lst_len = len(pagination_sites_car_urls[-1])
+                del pagination_sites_car_urls[-1][lst_len-diff:]
+                break
+
+        print()
+        [print('car list:', len(car)) for car in pagination_sites_car_urls]
+
         if os.path.exists(csv_filename):
             print('Overwriting', csv_filename)
             os.remove(csv_filename)
-        for url in tqdm(urls, desc='Every website'):
-            car_urls = get_car_href_list(url)
+
+        #for url in tqdm(urls, desc='Every website'):
+        loop_size = len(pagination_sites_car_urls)
+        counter = 0
+        for car_urls in pagination_sites_car_urls:
+            print('Left:', round(counter*100/loop_size, 2), '%')
+            counter += 1
             cars = get_cars_to_parse(car_urls)
             sum_failed += get_cars_to_parse.failed
             sum_failed += parse_cars(cars)
