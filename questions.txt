@@ -5,3 +5,7 @@
 3. czy moge zrobic to, co zrobilem z typami nadwozia? (usunalem SUV i Minivan, bo z calego datasetu byly doslownie 2 suvy i 12 minivanow i chcialem zmniejszyc ilosc zmiennych decyzyjnych)
 
 4. i tak samo z condition - czy moge usuna wszystkie auta z jednej kategorii (w tym wypadku 'Nowe', bo wiem, ze ta kategoria mocno wplywa na cene, ale jest zbyt malo danych o nowych samochodach zeby model sie na nich uczyl?
+
+5. chyba musisz dorobic sprawdzenie korelacji generacja auta - cena (i sprawdz czy inne nie zostaly)
+
+6. i zobacz czy napewno wszystko ma sens (co do droppowania kolumn, albo zostawiania - bo moze sie poprawi metryka jak cos tam dropniesz innego albo jakos rpzefiltrujesz, albo cos z tymi kategorycznymi zrobisz (bo duzo kategorii masz)
