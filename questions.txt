@@ -1,5 +1,7 @@
-1. ile danych powinno byc ostatecznie (czy wystarczy golf, bmw e36, bmw e46)
-2. czy jest sposob na wyznaczenie najlepszej metody regresji dla problemu
- bo spodziewam sie, ze Linear regression nie wchodzi w gre
- (jest to regresja wielowymiarowa i niekoniecznie liniowa) - i nie wiem czy powinienem
- przetestowac rozne sposoby, np. polynomial regression, albo decision tree, support vector regression
+1. czy moge wszystko miec w jednym datasecie, i ogladac wykresy, preprocesowac dane itp. na jednym i dopiero w momencie, gdy przechodze do modelu, to rozdzielam na dane treningowe i testowe?
+
+2. zrob cos z tym eng_cap bo zostawiles mimo ze miales sie zastanowic nad tym
+
+3. czy moge zrobic to, co zrobilem z typami nadwozia? (usunalem SUV i Minivan, bo z calego datasetu byly doslownie 2 suvy i 12 minivanow i chcialem zmniejszyc ilosc zmiennych decyzyjnych)
+
+4. i tak samo z condition - czy moge usuna wszystkie auta z jednej kategorii (w tym wypadku 'Nowe', bo wiem, ze ta kategoria mocno wplywa na cene, ale jest zbyt malo danych o nowych samochodach zeby model sie na nich uczyl?
