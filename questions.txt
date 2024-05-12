@@ -1,11 +1,51 @@
-1. czy moge wszystko miec w jednym datasecie, i ogladac wykresy, preprocesowac dane itp. na jednym i dopiero w momencie, gdy przechodze do modelu, to rozdzielam na dane treningowe i testowe?
+1. czy moge wszystko miec w jednym datasecie, i ogladac wykresy, preprocesowac dane itp. 
+na jednym i dopiero w momencie, gdy przechodze do modelu, to rozdzielam na dane treningowe 
+i testowe? - odp: tak
 
-2. zrob cos z tym eng_cap bo zostawiles mimo ze miales sie zastanowic nad tym
+2. zrob cos z tym eng_cap bo zostawiles mimo ze miales sie zastanowic nad tym - TODO
 
-3. czy moge zrobic to, co zrobilem z typami nadwozia? (usunalem SUV i Minivan, bo z calego datasetu byly doslownie 2 suvy i 12 minivanow i chcialem zmniejszyc ilosc zmiennych decyzyjnych)
+3. czy moge zrobic to, co zrobilem z typami nadwozia? 
+(usunalem SUV i Minivan, bo z calego datasetu byly doslownie 2 suvy i 12 minivanow 
+i chcialem zmniejszyc ilosc zmiennych decyzyjnych)
 
-4. i tak samo z condition - czy moge usuna wszystkie auta z jednej kategorii (w tym wypadku 'Nowe', bo wiem, ze ta kategoria mocno wplywa na cene, ale jest zbyt malo danych o nowych samochodach zeby model sie na nich uczyl?
+4. i tak samo z condition - czy moge usuna wszystkie auta z jednej kategorii 
+(w tym wypadku 'Nowe', bo wiem, ze ta kategoria mocno wplywa na cene, ale 
+jest zbyt malo danych o nowych samochodach zeby model sie na nich uczyl?)
 
-5. chyba musisz dorobic sprawdzenie korelacji generacja auta - cena (i sprawdz czy inne nie zostaly)
+5. chyba musisz dorobic sprawdzenie korelacji generacja auta - cena 
+(i sprawdz czy inne nie zostaly)
 
-6. i zobacz czy napewno wszystko ma sens (co do droppowania kolumn, albo zostawiania - bo moze sie poprawi metryka jak cos tam dropniesz innego albo jakos rpzefiltrujesz, albo cos z tymi kategorycznymi zrobisz (bo duzo kategorii masz)
+6. co do tych outlierow - czy je zostawic (na przykladzie mileage)
+
+7. GridSearchCV - czy moze zostac jak jest
+
+7. i zobacz czy napewno wszystko ma sens 
+(co do droppowania kolumn, albo zostawiania - bo moze sie poprawi metryka jak 
+cos tam dropniesz innego albo jakos przefiltrujesz, albo cos z tymi kategorycznymi 
+zrobisz (bo duzo kategorii masz))
+
+
+
+
+
+
+
+
+7. czy po metryce musze jeszcze dropowac kolumny itp. - odp: nie
+
+8. czy moze zostac data scraping w osobnym pliku? - odp: tak
+
+9. czy notebook moze zostac jak jest czy musi byc podzielony na moduly jakos - odp: moze zostac
+
+min absolute error - pomysl o tej metryce - myle sie w czyms o tyle
+
+latex, biptech, zdjecia + output - pdf
+
+musisz wiedziec czego uzywasz (XGBOOST, Gradient Boosting, itp. co nie bylo na zajeciach)
+
+jeżeli używasz grid searcha, to popróbuj na różnych danych (albo powyciągaj dane z grid searcha i porównaj)
+
+dodaj metryke: absolute, i witlumacz - co ona pokazuje i to samo zrob tez z root mean sqrt error
+
+
+label encoder - zamiast tworzenia kategorii (one hot encoding)
